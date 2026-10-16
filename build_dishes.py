@@ -5,11 +5,15 @@
 2. Discovered dishes from discovered.json. When GEMINI_API_KEY is set, Gemini suggests new
    popular dishes for each country, and only the ones that QLever finds on Wikidata as food
    are kept, so made-up dishes never ship. The file grows over time and is committed.
-3. QLever (a fast SPARQL engine over Wikidata, CC0) adds a photo and Wikipedia links to every dish.
+3. Tags come from tags.json. Gemini decides each (dish, tag) pair once and the answer is saved in
+   auto-tags.json, so adding a tag tags every existing dish on the next run. Edit auto-tags.json
+   to correct an answer; it is never asked again.
+4. QLever (a fast SPARQL engine over Wikidata, CC0) adds a photo and Wikipedia links to every dish.
 
     python3 build_dishes.py                 # uses GEMINI_API_KEY if set
     python3 build_dishes.py --no-ai         # never call Gemini
-    python3 build_dishes.py --ai-file f.json  # use saved suggestions instead of calling Gemini (testing)
+    python3 build_dishes.py --ai-file f.json  # saved answers instead of Gemini (testing):
+                                              # {"<country>": [suggestions], "_tags": {"<dish id>": [tag ids]}}
 """
 import argparse
 import datetime
@@ -25,9 +29,11 @@ import urllib.request
 ROOT = pathlib.Path(__file__).resolve().parent
 SEED = ROOT / "dish-seed.json"
 DISCOVERED = ROOT / "discovered.json"
+TAGS_FILE = ROOT / "tags.json"
+AUTO_TAGS = ROOT / "auto-tags.json"
 OUT = ROOT / "public" / "dishes.json"
 UA = "WhatToEatDataBot/1.0 (open-data build for an educational iOS app)"
-SCHEMA_VERSION = 1
+SCHEMA_VERSION = 2   # 2: tags are data ("tags" list), not a fixed set
 
 QLEVER = "https://qlever.dev/api/wikidata"
 GEMINI = "https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
@@ -35,7 +41,11 @@ GEMINI_MODEL = os.environ.get("GEMINI_MODEL") or "gemini-3.5-flash-lite"
 
 TARGET_PER_COUNTRY = 30   # discovered dishes per country to aim for
 ASK_PER_RUN = 12          # suggestions requested per country per run
-TAGS = ["spicy", "soup", "vegetarian"]
+# Tags that curated dishes in dish-seed.json were hand-checked for. Curated dishes are only
+# auto-tagged for tags outside this list (or outside their own "reviewedTags").
+HAND_CHECKED_TAGS = ["spicy", "soup", "vegetarian"]
+TAG_BATCH = 40            # dishes per tagging request
+MAX_TAG_BATCHES = 12      # tagging requests per run, to stay inside the free tier
 FOOD_ROOTS = "wd:Q2095 wd:Q746549 wd:Q8195619 wd:Q19861951"  # food, dish, human food, type of food or dish
 
 
@@ -135,7 +145,8 @@ SELECT ?item ?img ?enwiki ?viwiki WHERE {{
 
 # MARK: - Gemini
 
-SUGGESTION_SCHEMA = {
+def suggestion_schema(tag_ids):
+    return {
     "type": "ARRAY",
     "items": {
         "type": "OBJECT",
@@ -147,28 +158,56 @@ SUGGESTION_SCHEMA = {
             "blurbEn": {"type": "STRING", "description": "One appetizing sentence, at most 120 characters"},
             "blurbVi": {"type": "STRING", "description": "Same sentence in natural Vietnamese"},
             "emoji": {"type": "STRING", "description": "One food emoji that fits best"},
-            "tags": {"type": "ARRAY", "items": {"type": "STRING", "enum": TAGS}},
+            "tags": {"type": "ARRAY", "items": {"type": "STRING", "enum": tag_ids}},
         },
         "required": ["wikipediaTitle", "nameEn", "nameVi", "localName", "blurbEn", "blurbVi", "emoji", "tags"],
     },
-}
+    }
 
 
-def ask_gemini(country, known_names, count, api_key):
-    prompt = (
-        f"List {count} popular dishes from {country['name']['en']} that people order or cook as a meal or snack. "
-        "Only real, well-known dishes that have their own English Wikipedia article. "
-        f"Do not repeat any of these: {', '.join(sorted(known_names))}. "
-        "Tags: spicy if it is usually spicy, soup if it is served in broth or is a soup or stew, "
-        "vegetarian only if the usual recipe has no meat or fish."
-    )
+def tag_rules(tags):
+    return " ".join(f'Tag "{t["id"]}" if {t["hint"]}.' for t in tags)
+
+
+def gemini(prompt, schema, api_key):
     body = {
         "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {"responseMimeType": "application/json", "responseSchema": SUGGESTION_SCHEMA},
+        "generationConfig": {"responseMimeType": "application/json", "responseSchema": schema},
     }
     result = http_json(GEMINI.format(model=GEMINI_MODEL), data=body, headers={"x-goog-api-key": api_key})
     parts = result["candidates"][0]["content"]["parts"]
     return json.loads("".join(p.get("text", "") for p in parts))
+
+
+def ask_gemini(country, known_names, count, tags, api_key):
+    prompt = (
+        f"List {count} popular dishes from {country['name']['en']} that people order or cook as a meal or snack. "
+        "Only real, well-known dishes that have their own English Wikipedia article. "
+        f"Do not repeat any of these: {', '.join(sorted(known_names))}. "
+        + tag_rules(tags)
+    )
+    return gemini(prompt, suggestion_schema([t["id"] for t in tags]), api_key)
+
+
+def ask_tags(dishes, tags, api_key):
+    """[{id, tags}] for a batch of dishes, choosing only among `tags`."""
+    lines = "\n".join(f'{d["id"]} | {d["name"]["en"]} ({d["country"]}) | {d["blurb"]["en"]}' for d in dishes)
+    prompt = (
+        "For each dish below, list which of these tags apply to the dish as it is usually served. "
+        + tag_rules(tags) + " If none apply, return an empty list. Answer for every dish id.\n\n" + lines
+    )
+    schema = {
+        "type": "ARRAY",
+        "items": {
+            "type": "OBJECT",
+            "properties": {
+                "id": {"type": "STRING"},
+                "tags": {"type": "ARRAY", "items": {"type": "STRING", "enum": [t["id"] for t in tags]}},
+            },
+            "required": ["id", "tags"],
+        },
+    }
+    return gemini(prompt, schema, api_key)
 
 
 # MARK: - Build
@@ -182,7 +221,7 @@ def clean_emoji(value):
     return value if 0 < len(value) <= 4 else "🍽️"
 
 
-def discover(seed, discovered, api_key, ai_file):
+def discover(seed, discovered, tags, auto, api_key, ai_file):
     """Ask for new dishes per country and keep the ones Wikidata knows as food."""
     taken_qids = {d["qid"] for d in seed["dishes"] + discovered if d.get("qid")}
     saved = json.loads(pathlib.Path(ai_file).read_text(encoding="utf-8")) if ai_file else {}
@@ -198,7 +237,7 @@ def discover(seed, discovered, api_key, ai_file):
         else:
             known = {d["name"]["en"] for d in mine}
             try:
-                suggestions = ask_gemini(country, known, min(ASK_PER_RUN, TARGET_PER_COUNTRY - have), api_key)
+                suggestions = ask_gemini(country, known, min(ASK_PER_RUN, TARGET_PER_COUNTRY - have), tags, api_key)
             except Exception as error:  # one country failing should not stop the build
                 print(f"  {code}: Gemini failed: {error}")
                 continue
@@ -211,19 +250,82 @@ def discover(seed, discovered, api_key, ai_file):
                 continue
             taken_qids.add(qid)
             kept += 1
+            dish_id = f"{code.lower()}-{slug(s['nameEn'])}-{qid.lower()}"
+            chosen = set(s.get("tags", []))
+            auto[dish_id] = {t["id"]: t["id"] in chosen for t in tags}
             added.append({
-                "id": f"{code.lower()}-{slug(s['nameEn'])}-{qid.lower()}",
+                "id": dish_id,
                 "qid": qid,
                 "country": code,
                 "emoji": clean_emoji(s.get("emoji")),
                 "localName": s.get("localName") or s["nameEn"],
-                "tags": [t for t in s.get("tags", []) if t in TAGS],
                 "name": {"en": s["nameEn"], "vi": s.get("nameVi") or s["nameEn"]},
                 "blurb": {"en": s.get("blurbEn", ""), "vi": s.get("blurbVi") or s.get("blurbEn", "")},
                 "addedAt": datetime.date.today().isoformat(),
             })
         print(f"  {code}: {len(suggestions)} suggested, {kept} kept, {rejected} not found on Wikidata or duplicate")
     return added
+
+
+def load_auto_tags(discovered):
+    """auto-tags.json, created on first run from the tags older discovered dishes carried."""
+    auto = json.loads(AUTO_TAGS.read_text(encoding="utf-8")) if AUTO_TAGS.exists() else {}
+    for dish in discovered:
+        old = dish.pop("tags", None)
+        if old is not None and dish["id"] not in auto:
+            auto[dish["id"]] = {t: t in old for t in HAND_CHECKED_TAGS}
+    return auto
+
+
+def pending_tags(dish, curated, tag_ids, auto):
+    reviewed = set(dish.get("reviewedTags", HAND_CHECKED_TAGS)) if curated else set()
+    decided = auto.get(dish["id"], {})
+    return [t for t in tag_ids if t not in reviewed and t not in decided]
+
+
+def tag_dishes(seed, discovered, tags, auto, api_key, ai_file):
+    """Ask Gemini about every (dish, tag) pair that has no answer yet."""
+    by_id = {t["id"]: t for t in tags}
+    todo = [(d, pending_tags(d, curated, list(by_id), auto))
+            for curated, group in ((True, seed["dishes"]), (False, discovered)) for d in group]
+    todo = [(d, p) for d, p in todo if p]
+    if not todo:
+        print("  every dish is tagged")
+        return
+    saved = (json.loads(pathlib.Path(ai_file).read_text(encoding="utf-8")).get("_tags", {}) if ai_file else None)
+    answered = 0
+    for batch_no, batch in enumerate(chunks(todo, TAG_BATCH)):
+        if batch_no >= MAX_TAG_BATCHES:
+            print(f"  stopping after {MAX_TAG_BATCHES} requests, the rest is tagged next run")
+            break
+        asked = sorted({t for _, pending in batch for t in pending}, key=list(by_id).index)
+        if saved is not None:
+            answers = [{"id": d["id"], "tags": saved[d["id"]]} for d, _ in batch if d["id"] in saved]
+        else:
+            try:
+                answers = ask_tags([d for d, _ in batch], [by_id[t] for t in asked], api_key)
+            except Exception as error:
+                print(f"  tagging failed: {error}")
+                break
+        by_dish = {a["id"]: set(a.get("tags", [])) for a in answers}
+        for dish, pending in batch:
+            if dish["id"] in by_dish:
+                decisions = auto.setdefault(dish["id"], {})
+                for t in pending:
+                    decisions[t] = t in by_dish[dish["id"]]
+                answered += 1
+    left = sum(1 for d, p in todo if pending_tags(d, d in seed["dishes"], list(by_id), auto))
+    print(f"  tagged {answered} dishes, {left} still waiting")
+
+
+def final_tags(dish, curated, tags, auto):
+    decided = auto.get(dish["id"], {})
+    manual = set(dish.get("tags", [])) if curated else set()
+    return [t["id"] for t in tags if t["id"] in manual or decided.get(t["id"])]
+
+
+def write_json(path, value):
+    path.write_text(json.dumps(value, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
 
 
 def main():
@@ -233,20 +335,26 @@ def main():
     args = parser.parse_args()
 
     seed = json.loads(SEED.read_text(encoding="utf-8"))
+    tags = json.loads(TAGS_FILE.read_text(encoding="utf-8"))["tags"]
     discovered = json.loads(DISCOVERED.read_text(encoding="utf-8")) if DISCOVERED.exists() else []
+    auto = load_auto_tags(discovered)
 
     api_key = os.environ.get("GEMINI_API_KEY")
     if args.ai_file or (api_key and not args.no_ai):
-        print(f"Discovering dishes ({'saved suggestions' if args.ai_file else GEMINI_MODEL})…")
-        new = discover(seed, discovered, api_key, args.ai_file)
-        if new:
-            discovered += new
-            DISCOVERED.write_text(json.dumps(discovered, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+        source = "saved answers" if args.ai_file else GEMINI_MODEL
+        print(f"Discovering dishes ({source})…")
+        discovered += discover(seed, discovered, tags, auto, api_key, args.ai_file)
+        print(f"Tagging dishes ({source})…")
+        tag_dishes(seed, discovered, tags, auto, api_key, args.ai_file)
     else:
-        print("No GEMINI_API_KEY, skipping discovery")
+        print("No GEMINI_API_KEY, skipping discovery and tagging")
+    write_json(DISCOVERED, discovered)
+    write_json(AUTO_TAGS, dict(sorted(auto.items())))
 
-    curated = [{**d, "curated": True} for d in seed["dishes"]]
-    found = [{k: v for k, v in d.items() if k != "addedAt"} | {"curated": False} for d in discovered]
+    curated = [{k: v for k, v in d.items() if k != "reviewedTags"}
+               | {"tags": final_tags(d, True, tags, auto), "curated": True} for d in seed["dishes"]]
+    found = [{k: v for k, v in d.items() if k != "addedAt"}
+             | {"tags": final_tags(d, False, tags, auto), "curated": False} for d in discovered]
     dishes = curated + found
     print(f"Adding photos and links for {len(dishes)} dishes from Wikidata…")
     info = enrich({d["qid"] for d in dishes if d.get("qid")})
@@ -261,6 +369,7 @@ def main():
         "source": "Curated list and Gemini suggestions checked against Wikidata (CC0). "
                   "Images from Wikimedia Commons, see each image page for its license.",
         "countries": seed["countries"],
+        "tags": [{k: v for k, v in t.items() if k != "hint"} for t in tags],
         "dishes": dishes,
     }
     # Keep the old timestamp when nothing changed, so the file (and the app's cache) stays the same.

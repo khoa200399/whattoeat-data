@@ -1,6 +1,6 @@
 {
- "schemaVersion": 1,
- "generatedAt": "2026-10-16T14:41:34+00:00",
+ "schemaVersion": 2,
+ "generatedAt": "2026-10-16T15:33:16+00:00",
  "source": "Curated list and Gemini suggestions checked against Wikidata (CC0). Images from Wikimedia Commons, see each image page for its license.",
  "countries": [
   {
@@ -92,6 +92,68 @@
    }
   }
  ],
+ "tags": [
+  {
+   "id": "spicy",
+   "emoji": "🌶️",
+   "name": {
+    "en": "Spicy",
+    "vi": "Cay"
+   },
+   "filter": {
+    "mode": "exclude",
+    "label": {
+     "en": "No spice",
+     "vi": "Không cay"
+    }
+   }
+  },
+  {
+   "id": "vegetarian",
+   "emoji": "🥬",
+   "name": {
+    "en": "Vegetarian",
+    "vi": "Chay"
+   },
+   "filter": {
+    "mode": "include",
+    "label": {
+     "en": "Vegetarian",
+     "vi": "Chay"
+    }
+   }
+  },
+  {
+   "id": "soup",
+   "emoji": "🍲",
+   "name": {
+    "en": "Soup",
+    "vi": "Món nước"
+   },
+   "filter": {
+    "mode": "include",
+    "label": {
+     "en": "Soup",
+     "vi": "Món nước"
+    }
+   }
+  },
+  {
+   "id": "noodles",
+   "emoji": "🍜",
+   "name": {
+    "en": "Noodles",
+    "vi": "Món sợi"
+   },
+   "filter": {
+    "mode": "include",
+    "label": {
+     "en": "Noodles",
+     "vi": "Bún, mì, phở"
+    }
+   }
+  }
+ ],
  "dishes": [
   {
    "id": "vn-pho",
@@ -152,8 +214,8 @@
    "emoji": "🌶️",
    "localName": "Bún bò Huế",
    "tags": [
-    "soup",
-    "spicy"
+    "spicy",
+    "soup"
    ],
    "name": {
     "en": "Bún bò Huế",
@@ -705,8 +767,8 @@
    "emoji": "🍲",
    "localName": "김치찌개",
    "tags": [
-    "soup",
-    "spicy"
+    "spicy",
+    "soup"
    ],
    "name": {
     "en": "Kimchi-jjigae",
@@ -912,8 +974,8 @@
    "emoji": "🔥",
    "localName": "순두부찌개",
    "tags": [
-    "soup",
-    "spicy"
+    "spicy",
+    "soup"
    ],
    "name": {
     "en": "Sundubu-jjigae",
@@ -991,8 +1053,8 @@
    "emoji": "🦐",
    "localName": "ต้มยำ",
    "tags": [
-    "soup",
-    "spicy"
+    "spicy",
+    "soup"
    ],
    "name": {
     "en": "Tom yum",
@@ -1176,8 +1238,8 @@
    "emoji": "🍜",
    "localName": "ข้าวซอย",
    "tags": [
-    "soup",
-    "spicy"
+    "spicy",
+    "soup"
    ],
    "name": {
     "en": "Khao soi",
@@ -1281,8 +1343,8 @@
    "emoji": "🍲",
    "localName": "四川火锅",
    "tags": [
-    "soup",
-    "spicy"
+    "spicy",
+    "soup"
    ],
    "name": {
     "en": "Sichuan hot pot",
@@ -1593,8 +1655,8 @@
    "emoji": "🥣",
    "localName": "Minestrone",
    "tags": [
-    "soup",
-    "vegetarian"
+    "vegetarian",
+    "soup"
    ],
    "name": {
     "en": "Minestrone",
@@ -1620,8 +1682,8 @@
    "emoji": "🌶️",
    "localName": "Penne all'arrabbiata",
    "tags": [
-    "vegetarian",
-    "spicy"
+    "spicy",
+    "vegetarian"
    ],
    "name": {
     "en": "Penne all'arrabbiata",
@@ -2164,8 +2226,8 @@
    "emoji": "🫘",
    "localName": "Dal tadka",
    "tags": [
-    "soup",
-    "vegetarian"
+    "vegetarian",
+    "soup"
    ],
    "name": {
     "en": "Dal",
@@ -2557,8 +2619,8 @@
    "emoji": "🍜",
    "localName": "Katong laksa",
    "tags": [
-    "soup",
-    "spicy"
+    "spicy",
+    "soup"
    ],
    "name": {
     "en": "Laksa",
@@ -2758,7 +2820,6 @@
    "country": "VN",
    "emoji": "🍜",
    "localName": "Cao lầu",
-   "tags": [],
    "name": {
     "en": "Cao lầu",
     "vi": "Cao lầu"
@@ -2767,6 +2828,7 @@
     "en": "Chewy noodles with char siu pork, herbs, and crispy croutons.",
     "vi": "Mì dai đậm vị cùng thịt xá xíu, rau thơm và bánh mì giòn."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cao_l%E1%BA%A7u_H%E1%BB%99i_An_%282024%29.jpg?width=800",
@@ -2783,7 +2845,6 @@
    "country": "VN",
    "emoji": "🐟",
    "localName": "Chả cá Lã Vọng",
-   "tags": [],
    "name": {
     "en": "Cha ca La Vong",
     "vi": "Chả cá Lã Vọng"
@@ -2792,6 +2853,7 @@
     "en": "Turmeric-spiced grilled fish sizzled with dill and spring onions.",
     "vi": "Chả cá ướp nghệ nướng thơm lừng ăn kèm thì la và hành hoa."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cha_ca_La_Vong.jpg?width=800",
@@ -2808,9 +2870,6 @@
    "country": "VN",
    "emoji": "🍧",
    "localName": "Chè",
-   "tags": [
-    "soup"
-   ],
    "name": {
     "en": "Vietnamese sweet dessert soup",
     "vi": "Chè"
@@ -2819,6 +2878,9 @@
     "en": "Sweet, refreshing dessert soup featuring beans, jellies, and coconut milk.",
     "vi": "Món chè ngọt mát thanh tao với các loại đậu, thạch và nước cốt dừa."
    },
+   "tags": [
+    "soup"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vietblackeyedpeas.jpg?width=800",
@@ -2835,7 +2897,6 @@
    "country": "VN",
    "emoji": "🍛",
    "localName": "Bánh bèo",
-   "tags": [],
    "name": {
     "en": "Banh beo",
     "vi": "Bánh bèo"
@@ -2844,6 +2905,7 @@
     "en": "Delicate steamed rice cakes topped with savory shrimp and pork.",
     "vi": "Bánh bèo chén mềm mịn rắc tôm chấy và mỡ hành hấp dẫn."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/B%C3%A1nh_b%C3%A8o.jpg?width=800",
@@ -2860,9 +2922,6 @@
    "country": "VN",
    "emoji": "🍲",
    "localName": "Bánh canh",
-   "tags": [
-    "soup"
-   ],
    "name": {
     "en": "Banh canh",
     "vi": "Bánh canh"
@@ -2871,6 +2930,9 @@
     "en": "Thick, chewy noodles served in a rich, savory seafood broth.",
     "vi": "Sợi bánh canh dai ngon chan nước dùng hải sản đậm đà."
    },
+   "tags": [
+    "soup"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Banh_Canh_with_Pork_Knuckle%2C_Pork_Blood_Jelly%2C_Prawn_Cakes_in_Tomato_and_Crab_Soup_-_Hoa_Tran_AUD9_%283999697937%29.jpg?width=800",
@@ -2887,7 +2949,6 @@
    "country": "VN",
    "emoji": "🍕",
    "localName": "Bánh tráng nướng",
-   "tags": [],
    "name": {
     "en": "Vietnamese pizza",
     "vi": "Bánh tráng nướng"
@@ -2896,6 +2957,7 @@
     "en": "Crispy grilled rice paper topped with quail eggs, cheese, and meats.",
     "vi": "Bánh tráng nướng giòn rụm phủ trứng cút phô mai và thịt thơm phức."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/B%C3%A1nh_tr%C3%A1ng_n%C6%B0%E1%BB%9Bng_TP._H%E1%BB%93_Ch%C3%AD_Minh_-_street_food_in_Ho_Chi_Minh_City%2C_Vietnam.jpg?width=800",
@@ -2911,7 +2973,6 @@
    "country": "VN",
    "emoji": "🍚",
    "localName": "Xôi",
-   "tags": [],
    "name": {
     "en": "Sticky rice",
     "vi": "Xôi"
@@ -2920,6 +2981,7 @@
     "en": "Fragrant glutinous sticky rice served with savory or sweet toppings.",
     "vi": "Xôi nếp dẻo thơm ăn kèm các loại topping mặn ngọt hấp dẫn."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/X%C3%B4i_ng%C5%A9_s%E1%BA%AFc.JPG?width=800",
@@ -2936,9 +2998,6 @@
    "country": "VN",
    "emoji": "🍜",
    "localName": "Bún mắm",
-   "tags": [
-    "soup"
-   ],
    "name": {
     "en": "Bun mam",
     "vi": "Bún mắm"
@@ -2947,6 +3006,9 @@
     "en": "Pungent, flavorful noodle soup featuring fermented fish broth.",
     "vi": "Món bún nước lèo đậm đà hương vị mắm đặc trưng miền Tây."
    },
+   "tags": [
+    "soup"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/B%C3%BAn_M%E1%BA%AFm_S%C3%B3c_Tr%C4%83ng.jpg?width=800",
@@ -2963,7 +3025,6 @@
    "country": "JP",
    "emoji": "🍣",
    "localName": "刺身",
-   "tags": [],
    "name": {
     "en": "Sashimi",
     "vi": "Sashimi"
@@ -2972,6 +3033,7 @@
     "en": "Fresh raw fish or seafood sliced into thin pieces.",
     "vi": "Cá sống hoặc hải sản tươi cắt lát mỏng."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sushi_1.JPG?width=800",
@@ -2988,9 +3050,6 @@
    "country": "JP",
    "emoji": "🍙",
    "localName": "おにぎり",
-   "tags": [
-    "vegetarian"
-   ],
    "name": {
     "en": "Onigiri",
     "vi": "Cơm nắm Onigiri"
@@ -2999,6 +3058,9 @@
     "en": "Japanese rice balls wrapped in crisp nori seaweed.",
     "vi": "Cơm nắm Nhật Bản bọc rong biển giòn tan."
    },
+   "tags": [
+    "vegetarian"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Japanese_rice_balls_%28onigiri%29.jpg?width=800",
@@ -3015,9 +3077,6 @@
    "country": "JP",
    "emoji": "🥣",
    "localName": "味噌汁",
-   "tags": [
-    "soup"
-   ],
    "name": {
     "en": "Miso soup",
     "vi": "Súp Miso"
@@ -3026,6 +3085,9 @@
     "en": "Traditional soup featuring dashi broth and miso paste.",
     "vi": "Món súp truyền thống gồm nước dùng dashi và tương miso."
    },
+   "tags": [
+    "soup"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Miso_Soup_001.jpg?width=800",
@@ -3042,7 +3104,6 @@
    "country": "JP",
    "emoji": "🥩",
    "localName": "トンカツ",
-   "tags": [],
    "name": {
     "en": "Tonkatsu",
     "vi": "Thịt heo cốt lết chiên xù"
@@ -3051,6 +3112,7 @@
     "en": "Crispy deep-fried breaded pork cutlet.",
     "vi": "Thịt heo tẩm bột chiên xù giòn rụm."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tonkatsu_of_Kimukatsu.jpg?width=800",
@@ -3067,7 +3129,6 @@
    "country": "JP",
    "emoji": "🍚",
    "localName": "炊き込みご飯",
-   "tags": [],
    "name": {
     "en": "Takikomi gohan",
     "vi": "Cơm trộn nấu cùng dashi"
@@ -3076,6 +3137,7 @@
     "en": "Seasoned Japanese rice cooked with mushrooms and meat.",
     "vi": "Cơm Nhật nêm gia vị nấu cùng nấm và thịt."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Takenoko_gohan.jpg?width=800",
@@ -3092,9 +3154,6 @@
    "country": "JP",
    "emoji": "🍲",
    "localName": "肉じゃが",
-   "tags": [
-    "soup"
-   ],
    "name": {
     "en": "Nikujaga",
     "vi": "Thịt bò hầm khoai tây"
@@ -3103,6 +3162,9 @@
     "en": "Comforting stew of meat, potatoes, and onions.",
     "vi": "Món hầm ấm cúng gồm thịt, khoai tây và hành tây."
    },
+   "tags": [
+    "soup"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Braised_pork_and_potatoes_%283089327692%29.jpg?width=800",
@@ -3119,7 +3181,6 @@
    "country": "JP",
    "emoji": "🥚",
    "localName": "茶碗蒸し",
-   "tags": [],
    "name": {
     "en": "Chawanmushi",
     "vi": "Trứng hấp kiểu Nhật"
@@ -3128,6 +3189,7 @@
     "en": "Savory steamed egg custard in a tea cup.",
     "vi": "Món trứng hấp mặn mịn màng trong chén."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chawan-mushi.JPG?width=800",
@@ -3144,7 +3206,6 @@
    "country": "JP",
    "emoji": "🍛",
    "localName": "親子丼",
-   "tags": [],
    "name": {
     "en": "Oyakodon",
     "vi": "Cơm thịt gà trứng"
@@ -3153,6 +3214,7 @@
     "en": "Tender chicken and egg simmered in sweet dashi over rice.",
     "vi": "Thịt gà và trứng om nước dùng ngọt trên nền cơm trắng."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Oyakodon_003.jpg?width=800",
@@ -3169,9 +3231,6 @@
    "country": "JP",
    "emoji": "🥘",
    "localName": "しゃぶしゃぶ",
-   "tags": [
-    "soup"
-   ],
    "name": {
     "en": "Shabu-shabu",
     "vi": "Lẩu Shabu-shabu"
@@ -3180,6 +3239,9 @@
     "en": "Hot pot dish of thinly sliced meat cooked in broth.",
     "vi": "Món lẩu với thịt thái mỏng nhúng nước dùng sôi."
    },
+   "tags": [
+    "soup"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Shabu_Shabu_photo_Don_Ramey_Logan.jpg?width=800",
@@ -3196,9 +3258,6 @@
    "country": "JP",
    "emoji": "🍳",
    "localName": "玉子焼き",
-   "tags": [
-    "vegetarian"
-   ],
    "name": {
     "en": "Tamagoyaki",
     "vi": "Trứng cuộn Nhật Bản"
@@ -3207,6 +3266,9 @@
     "en": "Sweet and savory Japanese rolled omelette.",
     "vi": "Món trứng cuộn ngọt mặn đặc trưng của Nhật."
    },
+   "tags": [
+    "vegetarian"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%E9%B3%A5%E7%84%BC%E3%81%8D%E5%B1%85%E9%85%92%E5%B1%8B_%2839394233682%29.jpg?width=800",
@@ -3223,9 +3285,6 @@
    "country": "JP",
    "emoji": "🍲",
    "localName": "すき焼き",
-   "tags": [
-    "soup"
-   ],
    "name": {
     "en": "Sukiyaki",
     "vi": "Lẩu Sukiyaki"
@@ -3234,6 +3293,9 @@
     "en": "Sweet soy sauce hot pot with beef and vegetables.",
     "vi": "Lẩu sốt tương ngọt với thịt bò và rau củ."
    },
+   "tags": [
+    "soup"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sukiyaki_01.jpg?width=800",
@@ -3250,7 +3312,6 @@
    "country": "KR",
    "emoji": "🥩",
    "localName": "불고기",
-   "tags": [],
    "name": {
     "en": "Bulgogi",
     "vi": "Thịt bò nướng Bulgogi"
@@ -3259,6 +3320,7 @@
     "en": "Thin marinated beef slices grilled to smoky, savory perfection.",
     "vi": "Thịt bò thái mỏng ướp gia vị nướng thơm lừng và đậm đà."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Korean.cuisine-Bulgogi-01.jpg?width=800",
@@ -3275,9 +3337,6 @@
    "country": "KR",
    "emoji": "🍜",
    "localName": "비빔국수",
-   "tags": [
-    "spicy"
-   ],
    "name": {
     "en": "Bibim guksu",
     "vi": "Mì trộn cay"
@@ -3286,6 +3345,9 @@
     "en": "Chilled wheat noodles tossed in a spicy, tangy gochujang sauce.",
     "vi": "Mì lúa mì lạnh trộn với sốt ớt gochujang cay và chua ngọt."
    },
+   "tags": [
+    "spicy"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bibim-guksu.jpg?width=800",
@@ -3301,9 +3363,6 @@
    "country": "KR",
    "emoji": "🍲",
    "localName": "된장찌개",
-   "tags": [
-    "soup"
-   ],
    "name": {
     "en": "Doenjang jjigae",
     "vi": "Canh đậu tương lên men"
@@ -3312,6 +3371,9 @@
     "en": "Hearty and earthy soybean paste stew with tofu and vegetables.",
     "vi": "Canh tương đậu nành đậm đà hương vị truyền thống với đậu hũ."
    },
+   "tags": [
+    "soup"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Doenjang-jjigae_2.jpg?width=800",
@@ -3328,10 +3390,6 @@
    "country": "KR",
    "emoji": "🍲",
    "localName": "부대찌개",
-   "tags": [
-    "spicy",
-    "soup"
-   ],
    "name": {
     "en": "Budae jjigae",
     "vi": "Lẩu quân đội"
@@ -3340,6 +3398,10 @@
     "en": "Fusion stew featuring spam, sausages, baked beans, and ramen.",
     "vi": "Món canh quân đội độc đáo với xúc xích, thịt hộp và mì gói."
    },
+   "tags": [
+    "spicy",
+    "soup"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Korean.food-Budaejjigae-01.jpg?width=800",
@@ -3355,9 +3417,6 @@
    "country": "KR",
    "emoji": "🥘",
    "localName": "닭갈비",
-   "tags": [
-    "spicy"
-   ],
    "name": {
     "en": "Dakgalbi",
     "vi": "Gà xào bắp cải cay"
@@ -3366,6 +3425,9 @@
     "en": "Stir-fried spicy chicken with cabbage, sweet potatoes, and tteok.",
     "vi": "Thịt gà xào cay cùng bắp cải, khoai lang và bánh gạo dẻo."
    },
+   "tags": [
+    "spicy"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Korean_cuisine-Dakgalbi-01.jpg?width=800",
@@ -3382,7 +3444,6 @@
    "country": "KR",
    "emoji": "🥬",
    "localName": "보쌈",
-   "tags": [],
    "name": {
     "en": "Bossam",
     "vi": "Thịt heo luộc cuốn"
@@ -3391,6 +3452,7 @@
     "en": "Tender boiled pork belly slices wrapped in fresh leafy greens.",
     "vi": "Thịt ba chỉ luộc mềm thái mỏng ăn kèm rau sống cuốn."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Korean_cuisine-Bossam-04.jpg?width=800",
@@ -3407,7 +3469,6 @@
    "country": "TH",
    "emoji": "🥢",
    "localName": "ผัดซีอิ๊ว",
-   "tags": [],
    "name": {
     "en": "Stir-fried flat noodles",
     "vi": "Phở xào xì dầu"
@@ -3416,6 +3477,7 @@
     "en": "Wide rice noodles stir-fried with dark soy sauce, egg, and Chinese broccoli.",
     "vi": "Bánh phở lớn xào với xì dầu đậm đặc, trứng và cải làn."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sriwan_KuayTiow.JPG?width=800",
@@ -3431,10 +3493,6 @@
    "country": "SG",
    "emoji": "🍛",
    "localName": "鱼头咖喱",
-   "tags": [
-    "spicy",
-    "soup"
-   ],
    "name": {
     "en": "Fish head curry",
     "vi": "Cà ri đầu cá"
@@ -3443,6 +3501,10 @@
     "en": "Tender fish head simmered in a rich, spicy coconut curry sauce.",
     "vi": "Đầu cá mềm hầm trong nước sốt cà ri dừa đậm đà, cay nồng."
    },
+   "tags": [
+    "spicy",
+    "soup"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fisheadcurry.JPG?width=800",
@@ -3458,7 +3520,6 @@
    "country": "SG",
    "emoji": "🥟",
    "localName": "水粿",
-   "tags": [],
    "name": {
     "en": "Chwee kueh",
     "vi": "Bánh nước gạo"
@@ -3467,6 +3528,7 @@
     "en": "Steamed rice cakes topped with savory preserved radishes.",
     "vi": "Bánh gạo hấp phủ củ cải muối xào thơm phức."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chwee_kueh.jpg?width=800",
@@ -3483,7 +3545,6 @@
    "country": "SG",
    "emoji": "🌯",
    "localName": "薄饼",
-   "tags": [],
    "name": {
     "en": "Popiah",
     "vi": "Bò bía"
@@ -3492,6 +3553,7 @@
     "en": "Soft spring roll packed with turnip, pork, and crispy bits.",
     "vi": "Cuốn chả giò mềm gói củ đậu, thịt heo và vụn giòn."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/LunBhia.jpg?width=800",
@@ -3508,9 +3570,6 @@
    "country": "SG",
    "emoji": "🥟",
    "localName": "咖喱角",
-   "tags": [
-    "spicy"
-   ],
    "name": {
     "en": "Curry puff",
     "vi": "Bánh cà ri"
@@ -3519,6 +3578,9 @@
     "en": "Flaky pastry crust filled with spicy potato and chicken.",
     "vi": "Vỏ bánh ngàn lớp giòn rụm nhân khoai tây và gà cay."
    },
+   "tags": [
+    "spicy"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bite_of_Curry_Puff.jpg?width=800",
@@ -3534,10 +3596,6 @@
    "country": "SG",
    "emoji": "🍜",
    "localName": "Mee rebus",
-   "tags": [
-    "spicy",
-    "soup"
-   ],
    "name": {
     "en": "Mee rebus",
     "vi": "Mì xốt khoai lang"
@@ -3546,6 +3604,10 @@
     "en": "Yellow noodles in a sweet, spicy, and savory potato gravy.",
     "vi": "Mì vàng trong nước sốt khoai lang ngọt cay đậm đà."
    },
+   "tags": [
+    "spicy",
+    "soup"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mie_Rebus_Jawa.jpg?width=800",
@@ -3561,7 +3623,6 @@
    "country": "SG",
    "emoji": "🥗",
    "localName": "罗惹",
-   "tags": [],
    "name": {
     "en": "Rojak",
     "vi": "Gỏi trái cây rau củ"
@@ -3570,6 +3631,7 @@
     "en": "Fruit and vegetable salad tossed in a tangy prawn paste sauce.",
     "vi": "Gỏi trái cây và rau củ trộn nước sốt mắm tôm đậm vị."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mamak_rojak.jpg?width=800",
@@ -3586,7 +3648,6 @@
    "country": "SG",
    "emoji": "🍳",
    "localName": "菜头粿",
-   "tags": [],
    "name": {
     "en": "Fried carrot cake",
     "vi": "Bánh củ cải chiên"
@@ -3595,6 +3656,7 @@
     "en": "Savory radish cake cubes fried with eggs and preserved radish.",
     "vi": "Khối bánh củ cải mặn chiên với trứng và củ cải muối."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rueblitorte.jpg?width=800",
@@ -3611,7 +3673,6 @@
    "country": "CN",
    "emoji": "🍖",
    "localName": "叉烧",
-   "tags": [],
    "name": {
     "en": "Barbecued pork",
     "vi": "Thịt xá xíu"
@@ -3620,6 +3681,7 @@
     "en": "Sweet and savory roasted pork glazed with a sticky honey sauce.",
     "vi": "Thịt heo quay ngọt mặn phết lớp sốt mật ong sánh mịn."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Charsiu.jpg?width=800",
@@ -3636,7 +3698,6 @@
    "country": "CN",
    "emoji": "🥟",
    "localName": "饺子",
-   "tags": [],
    "name": {
     "en": "Chinese dumplings",
     "vi": "Sủi cảo"
@@ -3645,6 +3706,7 @@
     "en": "Juicy meat and vegetable parcels, boiled, steamed, or pan-fried.",
     "vi": "Những chiếc bánh gói nhân thịt rau mọng nước luộc hoặc chiên."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gnocchi_di_ricotta_burro_e_salvia.jpg?width=800",
@@ -3660,7 +3722,6 @@
    "country": "CN",
    "emoji": "🍚",
    "localName": "蛋炒饭",
-   "tags": [],
    "name": {
     "en": "Egg fried rice",
     "vi": "Cơm chiên trứng"
@@ -3669,6 +3730,7 @@
     "en": "Fragrant wok-tossed rice with golden eggs and scallions.",
     "vi": "Cơm đảo chảo thơm lừng cùng trứng vàng và hành lá."
    },
+   "tags": [],
    "curated": false,
    "image": null,
    "wiki": {
@@ -3681,11 +3743,6 @@
    "country": "CN",
    "emoji": "🍲",
    "localName": "酸辣汤",
-   "tags": [
-    "spicy",
-    "soup",
-    "vegetarian"
-   ],
    "name": {
     "en": "Hot and sour soup",
     "vi": "Súp chua cay"
@@ -3694,6 +3751,11 @@
     "en": "A warming broth loaded with mushrooms, tofu, and a spicy kick.",
     "vi": "Món canh ấm nồng nấm, đậu hũ với vị chua cay kích thích."
    },
+   "tags": [
+    "spicy",
+    "vegetarian",
+    "soup"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hot_%26_Sour_Soup_in_Clovis_Ca.jpg?width=800",
@@ -3709,7 +3771,6 @@
    "country": "CN",
    "emoji": "🍍",
    "localName": "糖醋里脊",
-   "tags": [],
    "name": {
     "en": "Sweet and sour pork",
     "vi": "Thịt heo xào chua ngọt"
@@ -3718,6 +3779,7 @@
     "en": "Crispy pork chunks tossed in a vibrant, tangy fruit sauce.",
     "vi": "Thịt heo giòn rụm đảo đều trong sốt trái cây chua ngọt."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%E8%8F%A0%E8%90%9D%E5%92%95%E5%99%9C%E8%82%89.jpg?width=800",
@@ -3734,9 +3796,6 @@
    "country": "CN",
    "emoji": "🥣",
    "localName": "馄饨",
-   "tags": [
-    "soup"
-   ],
    "name": {
     "en": "Wonton soup",
     "vi": "Hoành thánh"
@@ -3745,6 +3804,9 @@
     "en": "Delicate pork dumplings served in a clear, flavorful broth.",
     "vi": "Những viên hoành thánh mỏng nhân thịt trong nước dùng thanh."
    },
+   "tags": [
+    "soup"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wonton_1.JPG?width=800",
@@ -3761,7 +3823,6 @@
    "country": "CN",
    "emoji": "🎋",
    "localName": "粽子",
-   "tags": [],
    "name": {
     "en": "Sticky rice dumpling",
     "vi": "Bánh ú tro"
@@ -3770,6 +3831,7 @@
     "en": "Pyramid-shaped glutinous rice wrapped in bamboo leaves.",
     "vi": "Bánh nếp hình chóp gói trong lá tre đậm đà hương vị."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Yellowzongzi.jpg?width=800",
@@ -3786,9 +3848,6 @@
    "country": "CN",
    "emoji": "🥓",
    "localName": "回锅肉",
-   "tags": [
-    "spicy"
-   ],
    "name": {
     "en": "Twice-cooked pork",
     "vi": "Thịt heo hai lửa"
@@ -3797,6 +3856,9 @@
     "en": "Sichuan pork belly boiled, sliced, and stir-fried with chili paste.",
     "vi": "Ba chỉ heo luộc rồi thái mỏng xào cùng sốt ớt cay Tứ Xuyên."
    },
+   "tags": [
+    "spicy"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Huiguorou_made_from_Neijiang_local_pork_at_Daqian_Restaurant%2C_Beidadi_%2820251011111845%29.jpg?width=800",
@@ -3812,10 +3874,6 @@
    "country": "CN",
    "emoji": "🥣",
    "localName": "粥",
-   "tags": [
-    "soup",
-    "vegetarian"
-   ],
    "name": {
     "en": "Rice congee",
     "vi": "Cháo trắng"
@@ -3824,6 +3882,10 @@
     "en": "A comforting, silky rice porridge often enjoyed with savory toppings.",
     "vi": "Món cháo gạo sánh mịn ấm lòng ăn kèm đồ mặn thơm ngon."
    },
+   "tags": [
+    "vegetarian",
+    "soup"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cantonese_rice_porridge.JPG?width=800",
@@ -3840,10 +3902,6 @@
    "country": "CN",
    "emoji": "🍝",
    "localName": "biangbiang面",
-   "tags": [
-    "spicy",
-    "vegetarian"
-   ],
    "name": {
     "en": "Biangbiang noodles",
     "vi": "Mì Biangbiang"
@@ -3852,6 +3910,10 @@
     "en": "Thick, hand-pulled belt noodles spiked with hot oil and garlic.",
     "vi": "Sợi mì dai bản lớn trộn cùng dầu nóng, tỏi và ớt cay."
    },
+   "tags": [
+    "spicy",
+    "vegetarian"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Biang_Biang_Mian.jpg?width=800",
@@ -3868,9 +3930,6 @@
    "country": "IT",
    "emoji": "🥖",
    "localName": "Bruschetta",
-   "tags": [
-    "vegetarian"
-   ],
    "name": {
     "en": "Bruschetta",
     "vi": "Bánh mì nướng Bruschetta"
@@ -3879,6 +3938,9 @@
     "en": "Toasted grilled bread rubbed with garlic and topped with tomatoes and oil.",
     "vi": "Bánh mì nướng giòn phết tỏi, bên trên phủ cà chua tươi và dầu ô liu."
    },
+   "tags": [
+    "vegetarian"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bruschetta_2025.jpg?width=800",
@@ -3894,7 +3956,6 @@
    "country": "IT",
    "emoji": "🥩",
    "localName": "Carpaccio",
-   "tags": [],
    "name": {
     "en": "Carpaccio",
     "vi": "Thịt bò sống thái mỏng Carpaccio"
@@ -3903,6 +3964,7 @@
     "en": "Thinly sliced raw meat or fish dressed with lemon, olive oil, and cheese.",
     "vi": "Thịt hoặc cá sống thái mỏng ăn kèm nước cốt chanh, dầu ô liu và phô mai."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Carpaccio_cipriani-cropped.jpg?width=800",
@@ -3919,9 +3981,6 @@
    "country": "IT",
    "emoji": "🍖",
    "localName": "Ossobuco",
-   "tags": [
-    "soup"
-   ],
    "name": {
     "en": "Ossobuco",
     "vi": "Thịt cẳng chân bê hầm Ossobuco"
@@ -3930,6 +3989,9 @@
     "en": "Tender cross-cut veal shanks braised with vegetables, white wine, and broth.",
     "vi": "Thịt cẳng chân bê hầm nhừ cùng rau củ, rượu trắng và nước dùng thơm lừng."
    },
+   "tags": [
+    "soup"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ossobuco.jpg?width=800",
@@ -3946,9 +4008,6 @@
    "country": "IT",
    "emoji": "🍰",
    "localName": "Tiramisu",
-   "tags": [
-    "vegetarian"
-   ],
    "name": {
     "en": "Tiramisu",
     "vi": "Bánh Tiramisu"
@@ -3957,6 +4016,9 @@
     "en": "Coffee-flavored Italian dessert made of ladyfingers dipped in coffee and mascarpone.",
     "vi": "Món bánh ngọt Ý thơm vị cà phê với bánh sampa nhúng cà phê và phô mai mascarpone."
    },
+   "tags": [
+    "vegetarian"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Classic_Italian_Tiramisu-3_%2829989504485%29.jpg?width=800",
@@ -3973,7 +4035,6 @@
    "country": "IT",
    "emoji": "🍘",
    "localName": "Arancini",
-   "tags": [],
    "name": {
     "en": "Arancini",
     "vi": "Cơm nắm chiên xù Arancini"
@@ -3982,6 +4043,7 @@
     "en": "Crispy golden breaded rice balls stuffed with savory meat, peas, and cheese.",
     "vi": "Những viên cơm chiên xù vàng giòn nhân thịt thơm ngon, đậu Hà Lan và phô mai."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arancini_002.jpg?width=800",
@@ -3997,9 +4059,6 @@
    "country": "US",
    "emoji": "🥧",
    "localName": "Apple pie",
-   "tags": [
-    "vegetarian"
-   ],
    "name": {
     "en": "Apple pie",
     "vi": "Bánh táo Mỹ"
@@ -4008,6 +4067,9 @@
     "en": "A classic American baked dessert featuring spiced apples inside a flaky crust.",
     "vi": "Món tráng miệng kinh điển của Mỹ với nhân táo thơm ngon bọc trong lớp vỏ bánh xốp."
    },
+   "tags": [
+    "vegetarian"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Apple_pie.jpg?width=800",
@@ -4024,7 +4086,6 @@
    "country": "US",
    "emoji": "🥪",
    "localName": "BLT",
-   "tags": [],
    "name": {
     "en": "BLT sandwich",
     "vi": "Bánh mì kẹp BLT"
@@ -4033,6 +4094,7 @@
     "en": "A delicious sandwich made with bacon, lettuce, tomato, and mayonnaise.",
     "vi": "Ổ bánh mì hấp dẫn gồm thịt xông khói, xà lách, cà chua và sốt mayonnaise."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/BLT_sandwich_with_pommes_frites.jpg?width=800",
@@ -4048,7 +4110,6 @@
    "country": "US",
    "emoji": "🥗",
    "localName": "Caesar salad",
-   "tags": [],
    "name": {
     "en": "Caesar salad",
     "vi": "Salad Caesar"
@@ -4057,6 +4118,7 @@
     "en": "Crisp romaine lettuce and croutons dressed with parmesan, lemon, and garlic.",
     "vi": "Xà lách giòn rụm và bánh mì nướng quyện cùng phô mai parmesan, chanh và tỏi."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Caesar_salad_%282%29.jpg?width=800",
@@ -4072,7 +4134,6 @@
    "country": "US",
    "emoji": "🥪",
    "localName": "Club sandwich",
-   "tags": [],
    "name": {
     "en": "Club sandwich",
     "vi": "Bánh mì club"
@@ -4081,6 +4142,7 @@
     "en": "A triple-decker toasted sandwich layered with poultry, bacon, lettuce, and tomato.",
     "vi": "Bánh mì nướng ba tầng kẹp thịt gia cầm, thịt xông khói, rau xà lách và cà chua."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Club-sandwich.jpg?width=800",
@@ -4096,7 +4158,6 @@
    "country": "US",
    "emoji": "🥗",
    "localName": "Cobb salad",
-   "tags": [],
    "name": {
     "en": "Cobb salad",
     "vi": "Salad Cobb"
@@ -4105,6 +4166,7 @@
     "en": "A hearty chopped salad featuring chicken, bacon, avocado, hard-boiled eggs, and blue cheese.",
     "vi": "Món salad thịnh soạn gồm thịt gà, thịt xông khói, bơ, trứng luộc và phô mai xanh."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Brown_Derby_Cobb_Salad_%282440195933%29.jpg?width=800",
@@ -4120,7 +4182,6 @@
    "country": "US",
    "emoji": "🌭",
    "localName": "Corn dog",
-   "tags": [],
    "name": {
     "en": "Corn dog",
     "vi": "Xúc xích nhúng bột ngô chiên"
@@ -4129,6 +4190,7 @@
     "en": "A savory sausage on a stick coated in thick cornmeal batter and deep-fried.",
     "vi": "Xúc xích trên que được bọc lớp bột ngô dày rồi đem chiên giòn rụm."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Corn_dog_001.jpg?width=800",
@@ -4144,10 +4206,6 @@
    "country": "US",
    "emoji": "🍲",
    "localName": "Gumbo",
-   "tags": [
-    "soup",
-    "spicy"
-   ],
    "name": {
     "en": "Gumbo",
     "vi": "Súp gumbo"
@@ -4156,6 +4214,10 @@
     "en": "A rich, savory Louisiana stew packed with meat or shellfish, vegetables, and rice.",
     "vi": "Món hầm đậm đà kiểu Louisiana gồm thịt hoặc hải sản, rau củ và ăn kèm cơm."
    },
+   "tags": [
+    "spicy",
+    "soup"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Shrimp_gumbo.jpg?width=800",
@@ -4171,9 +4233,6 @@
    "country": "US",
    "emoji": "🍛",
    "localName": "Jambalaya",
-   "tags": [
-    "spicy"
-   ],
    "name": {
     "en": "Jambalaya",
     "vi": "Cơm trộn jambalaya"
@@ -4182,6 +4241,9 @@
     "en": "A flavorful Creole rice dish combining meat, seafood, and spicy vegetables.",
     "vi": "Món cơm Creole đậm đà hương vị kết hợp thịt, hải sản và rau củ cay."
    },
+   "tags": [
+    "spicy"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jambalaya_%2830750226186%29.jpg?width=800",
@@ -4198,9 +4260,6 @@
    "country": "US",
    "emoji": "🥧",
    "localName": "Key lime pie",
-   "tags": [
-    "vegetarian"
-   ],
    "name": {
     "en": "Key lime pie",
     "vi": "Bánh chanh Key lime"
@@ -4209,6 +4268,9 @@
     "en": "A tart and sweet American pie made with fresh Key lime juice and a graham crust.",
     "vi": "Món bánh ngọt chua thanh làm từ nước cốt chanh Key và lớp đế bánh quy graham."
    },
+   "tags": [
+    "vegetarian"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Key_limepie.jpg?width=800",
@@ -4224,7 +4286,6 @@
    "country": "US",
    "emoji": "🥩",
    "localName": "Meatloaf",
-   "tags": [],
    "name": {
     "en": "Meatloaf",
     "vi": "Thịt xay nướng ổ"
@@ -4233,6 +4294,7 @@
     "en": "A comforting dish of minced meat shaped into a loaf and baked with a savory glaze.",
     "vi": "Món ăn ấm cúng gồm thịt băm nhuyễn tạo hình ổ bánh và nướng với lớp sốt đậm đà."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/MeatloafWithSauce.jpg?width=800",
@@ -4249,7 +4311,6 @@
    "country": "MX",
    "emoji": "🌮",
    "localName": "Taco",
-   "tags": [],
    "name": {
     "en": "Taco",
     "vi": "Taco"
@@ -4258,6 +4319,7 @@
     "en": "Folded tortilla packed with flavorful meat, fresh cilantro, and onions.",
     "vi": "Bánh tráng ngô gấp lại nhồi thịt đậm đà, rau mùi tươi và hành tây."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/001_Tacos_de_carnitas%2C_carne_asada_y_al_pastor.jpg?width=800",
@@ -4274,7 +4336,6 @@
    "country": "MX",
    "emoji": "🫔",
    "localName": "Tamal",
-   "tags": [],
    "name": {
     "en": "Tamale",
     "vi": "Bánh Tamal"
@@ -4283,6 +4344,7 @@
     "en": "Steamed corn dough filled with savory meats wrapped in corn husks.",
     "vi": "Bột ngô hấp nhân thịt đậm đà được gói trong vỏ bắp."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tamale_Oaxaque%C3%B1o.jpg?width=800",
@@ -4299,7 +4361,6 @@
    "country": "MX",
    "emoji": "🥩",
    "localName": "Fajita",
-   "tags": [],
    "name": {
     "en": "Fajita",
     "vi": "Fajita"
@@ -4308,6 +4369,7 @@
     "en": "Sizzling strips of grilled meat served with bell peppers and onions.",
     "vi": "Thịt nướng xèo xèo ăn kèm ớt chuông và hành tây tươi ngon."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Flickr_elisart_324248450--Beef_and_chicken_fajitas.jpg?width=800",
@@ -4324,9 +4386,6 @@
    "country": "MX",
    "emoji": "🍫",
    "localName": "Mole",
-   "tags": [
-    "spicy"
-   ],
    "name": {
     "en": "Mole",
     "vi": "Sốt Mole"
@@ -4335,6 +4394,9 @@
     "en": "Rich, complex Mexican sauce made with chili peppers and chocolate.",
     "vi": "Loại sốt Mexico đậm đà phức hợp làm từ ớt và sô-cô-la."
    },
+   "tags": [
+    "spicy"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chilaquiles_in_Mole_Negro.jpg?width=800",
@@ -4350,10 +4412,6 @@
    "country": "MX",
    "emoji": "🌽",
    "localName": "Elote",
-   "tags": [
-    "spicy",
-    "vegetarian"
-   ],
    "name": {
     "en": "Mexican street corn",
     "vi": "Ngô nướng Mexico"
@@ -4362,6 +4420,10 @@
     "en": "Grilled corn on the cob coated in crema, cheese, and chili powder.",
     "vi": "Ngô nướng phết sốt kem, phô mai và bột ớt cay nồng."
    },
+   "tags": [
+    "spicy",
+    "vegetarian"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Elote_recipe.jpg?width=800",
@@ -4377,9 +4439,6 @@
    "country": "MX",
    "emoji": "🍳",
    "localName": "Huevos rancheros",
-   "tags": [
-    "vegetarian"
-   ],
    "name": {
     "en": "Ranch-style eggs",
     "vi": "Trứng ốp la kiểu Mexico"
@@ -4388,6 +4447,9 @@
     "en": "Fried eggs served on corn tortillas with warm salsa and beans.",
     "vi": "Trứng chiên đặt trên bánh ngô với sốt salsa ấm và đậu."
    },
+   "tags": [
+    "vegetarian"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Huevos_rancheros.jpg?width=800",
@@ -4403,10 +4465,6 @@
    "country": "MX",
    "emoji": "🧀",
    "localName": "Chilaquiles",
-   "tags": [
-    "spicy",
-    "vegetarian"
-   ],
    "name": {
     "en": "Chilaquiles",
     "vi": "Chilaquiles"
@@ -4415,6 +4473,10 @@
     "en": "Crispy tortilla quarters simmered in green or red salsa with cheese.",
     "vi": "Bánh ngô giòn nấu liu riu trong sốt salsa xanh hoặc đỏ kèm phô mai."
    },
+   "tags": [
+    "spicy",
+    "vegetarian"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chilaquiles_Rojos.JPG?width=800",
@@ -4430,7 +4492,6 @@
    "country": "MX",
    "emoji": "🥪",
    "localName": "Torta",
-   "tags": [],
    "name": {
     "en": "Mexican torta",
     "vi": "Bánh mì Mexico"
@@ -4439,6 +4500,7 @@
     "en": "Delicious Mexican sandwich on crusty telera bread with avocado.",
     "vi": "Ổ bánh mì Mexico ngon tuyệt với vỏ giòn và nhân bơ mịn màng."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Torte_di_torrone.jpg?width=800",
@@ -4454,7 +4516,6 @@
    "country": "MX",
    "emoji": "🍖",
    "localName": "Carnitas",
-   "tags": [],
    "name": {
     "en": "Carnitas",
     "vi": "Thịt lợn quay Mexico"
@@ -4463,6 +4524,7 @@
     "en": "Tender, slow-cooked pork shoulder that is crispy on the outside.",
     "vi": "Thịt vai heo ninh nhừ mềm tan với lớp vỏ ngoài giòn rụm."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Carnitas_in_Mexico.jpg?width=800",
@@ -4478,10 +4540,6 @@
    "country": "IN",
    "emoji": "🫓",
    "localName": "छोले भटूरे",
-   "tags": [
-    "spicy",
-    "vegetarian"
-   ],
    "name": {
     "en": "Chole bhature",
     "vi": "Chole bhature"
@@ -4490,6 +4548,10 @@
     "en": "Spicy chickpea curry paired with fluffy deep-fried leavened bread.",
     "vi": "Cà ri đậu gà cay ăn kèm bánh mì chiên phồng."
    },
+   "tags": [
+    "spicy",
+    "vegetarian"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Halva_Poori.JPG?width=800",
@@ -4505,9 +4567,6 @@
    "country": "IN",
    "emoji": "🍚",
    "localName": "इഡ്ಲಿ",
-   "tags": [
-    "vegetarian"
-   ],
    "name": {
     "en": "Idli",
     "vi": "Bánh gạo hấp Idli"
@@ -4516,6 +4575,9 @@
     "en": "Soft and fluffy savory fermented lentil and rice steamed cakes.",
     "vi": "Bánh gạo và đậu lăng lên men hấp mềm xốp thơm ngon."
    },
+   "tags": [
+    "vegetarian"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Idli.jpg?width=800",
@@ -4532,10 +4594,6 @@
    "country": "IN",
    "emoji": "🍔",
    "localName": "वडा पाव",
-   "tags": [
-    "spicy",
-    "vegetarian"
-   ],
    "name": {
     "en": "Vada pav",
     "vi": "Vada pav"
@@ -4544,6 +4602,10 @@
     "en": "Spicy potato fritter sandwiched inside a soft bread bun.",
     "vi": "Bánh mì kẹp chả khoai tây chiên giòn cay hấp dẫn."
    },
+   "tags": [
+    "spicy",
+    "vegetarian"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vada_Paav-The_Mumbai_Burger.jpg?width=800",
@@ -4559,11 +4621,6 @@
    "country": "IN",
    "emoji": "🍲",
    "localName": "पाव भाजी",
-   "tags": [
-    "spicy",
-    "soup",
-    "vegetarian"
-   ],
    "name": {
     "en": "Pav bhaji",
     "vi": "Pav bhaji"
@@ -4572,6 +4629,11 @@
     "en": "Spiced thick vegetable mash served with buttered soft bread rolls.",
     "vi": "Hợp chất rau củ nghiền cay nồng ăn kèm bánh mì bơ nướng."
    },
+   "tags": [
+    "spicy",
+    "vegetarian",
+    "soup"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pav_Bhaji.jpg?width=800",
@@ -4588,9 +4650,6 @@
    "country": "IN",
    "emoji": "🍛",
    "localName": "रोगन जोश",
-   "tags": [
-    "spicy"
-   ],
    "name": {
     "en": "Rogan josh",
     "vi": "Cừu hầm Rogan josh"
@@ -4599,6 +4658,9 @@
     "en": "Aromatic Kashmiri slow-cooked lamb curry with rich red gravy.",
     "vi": "Món thịt cừu hầm kiểu Kashmir thơm nức mũi với sốt đỏ."
    },
+   "tags": [
+    "spicy"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rogan_josh02.jpg?width=800",
@@ -4614,9 +4676,6 @@
    "country": "IN",
    "emoji": "🍗",
    "localName": "சிக்கன் 65",
-   "tags": [
-    "spicy"
-   ],
    "name": {
     "en": "Chicken 65",
     "vi": "Gà rán Chicken 65"
@@ -4625,6 +4684,9 @@
     "en": "Fiery, deep-fried spiced chicken pieces originating from Chennai.",
     "vi": "Thịt gà chiên giòn tẩm ướp gia vị cay nồng đặc sản."
    },
+   "tags": [
+    "spicy"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chicken_65_%28Dish%29.jpg?width=800",
@@ -4640,10 +4702,6 @@
    "country": "IN",
    "emoji": "🍲",
    "localName": "दाल मखनी",
-   "tags": [
-    "soup",
-    "vegetarian"
-   ],
    "name": {
     "en": "Dal makhani",
     "vi": "Dal makhani"
@@ -4652,6 +4710,10 @@
     "en": "Whole black lentils simmered with butter, cream, and warm spices.",
     "vi": "Đậu lăng đen hầm nhừ cùng bơ, kem tươi và gia vị thơm."
    },
+   "tags": [
+    "vegetarian",
+    "soup"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dal_Makhani.jpg?width=800",
@@ -4668,9 +4730,6 @@
    "country": "IN",
    "emoji": "🍗",
    "localName": "तंदूरी चिकन",
-   "tags": [
-    "spicy"
-   ],
    "name": {
     "en": "Tandoori chicken",
     "vi": "Gà nướng lu Tandoori"
@@ -4679,6 +4738,9 @@
     "en": "Juicy chicken marinated in yogurt and spices, roasted in a clay oven.",
     "vi": "Gà ướp sữa chua và gia vị nướng trong lò đất truyền thống."
    },
+   "tags": [
+    "spicy"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tandoori_chicken_laccha_piyaz1_%2836886283595%29.jpg?width=800",
@@ -4695,9 +4757,6 @@
    "country": "FR",
    "emoji": "🍲",
    "localName": "Bouillabaisse",
-   "tags": [
-    "soup"
-   ],
    "name": {
     "en": "Bouillabaisse",
     "vi": "Súp cá Marseille"
@@ -4706,6 +4765,9 @@
     "en": "A traditional Provençal fish stew originating from the port city of Marseille.",
     "vi": "Món súp cá truyền thống nổi tiếng đến từ thành phố cảng Marseille."
    },
+   "tags": [
+    "soup"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bullabessa.jpg?width=800",
@@ -4721,9 +4783,6 @@
    "country": "FR",
    "emoji": "🥘",
    "localName": "Cassoulet",
-   "tags": [
-    "soup"
-   ],
    "name": {
     "en": "Cassoulet",
     "vi": "Thịt hầm đậu trắng"
@@ -4732,6 +4791,9 @@
     "en": "A rich, slow-cooked casserole originating from southern France.",
     "vi": "Món hầm đậu trắng đậm đà thơm ngon đến từ miền nam nước Pháp."
    },
+   "tags": [
+    "soup"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bowl_of_cassoulet.JPG?width=800",
@@ -4747,9 +4809,6 @@
    "country": "FR",
    "emoji": "🥖",
    "localName": "Baguette",
-   "tags": [
-    "vegetarian"
-   ],
    "name": {
     "en": "Baguette",
     "vi": "Bánh mì dài Pháp"
@@ -4758,6 +4817,9 @@
     "en": "The iconic long, thin loaf of French bread with a crisp crust.",
     "vi": "Ổ bánh mì dài truyền thống nổi tiếng của Pháp với lớp vỏ giòn rụm."
    },
+   "tags": [
+    "vegetarian"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Baguettes_-_stonesoup.jpg?width=800",
@@ -4774,7 +4836,6 @@
    "country": "FR",
    "emoji": "🥪",
    "localName": "Croque-monsieur",
-   "tags": [],
    "name": {
     "en": "Croque monsieur",
     "vi": "Bánh mì kẹp phô mai nướng"
@@ -4783,6 +4844,7 @@
     "en": "A hot ham and cheese sandwich baked or fried to perfection.",
     "vi": "Bánh mì kẹp thịt nguội và phô mai nướng nóng hổi thơm phức."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Grilled_ham_and_cheese_014.JPG?width=800",
@@ -4799,9 +4861,6 @@
    "country": "FR",
    "emoji": "🍲",
    "localName": "Pot-au-feu",
-   "tags": [
-    "soup"
-   ],
    "name": {
     "en": "Pot-au-feu",
     "vi": "Thịt bò hầm rau củ Pháp"
@@ -4810,6 +4869,9 @@
     "en": "A comforting French beef and vegetable stew simmered slowly.",
     "vi": "Món thịt bò và rau củ hầm nhừ ấm cúng mang hương vị truyền thống."
    },
+   "tags": [
+    "soup"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pot-au-feu_SAM_2723.JPG?width=800",
@@ -4826,7 +4888,6 @@
    "country": "FR",
    "emoji": "🥞",
    "localName": "Galette de sarrasin",
-   "tags": [],
    "name": {
     "en": "Buckwheat galette",
     "vi": "Bánh kếp kiều mạch mặn"
@@ -4835,6 +4896,7 @@
     "en": "A savory buckwheat flour pancake filled with cheese, ham, or egg.",
     "vi": "Bánh kếp bột kiều mạch mặn nhân phô mai, thịt nguội hoặc trứng."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Galette_des_Rois.png?width=800",
@@ -4850,9 +4912,6 @@
    "country": "FR",
    "emoji": "🥧",
    "localName": "Tarte Tatin",
-   "tags": [
-    "vegetarian"
-   ],
    "name": {
     "en": "Tarte Tatin",
     "vi": "Bánh tart táo ngược"
@@ -4861,6 +4920,9 @@
     "en": "An upside-down pastry where apples are caramelized before baking.",
     "vi": "Món bánh tart táo nướng ngược với lớp táo caramel ngọt ngào."
    },
+   "tags": [
+    "vegetarian"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tarte_tatin_a_un_restaurant_del_Tossalet%2C_X%C3%A0bia.jpg?width=800",
@@ -4877,9 +4939,6 @@
    "country": "FR",
    "emoji": "🥔",
    "localName": "Gratin dauphinois",
-   "tags": [
-    "vegetarian"
-   ],
    "name": {
     "en": "Gratin dauphinois",
     "vi": "Khoai tây đút lò phô mai kem"
@@ -4888,6 +4947,9 @@
     "en": "Sliced potatoes baked in milk and cream with melted cheese.",
     "vi": "Món khoai tây cắt lát đút lò với sữa, kem tươi và phô mai béo ngậy."
    },
+   "tags": [
+    "vegetarian"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gratin_dauphinois.jpg?width=800",
@@ -4903,7 +4965,6 @@
    "country": "VN",
    "emoji": "🥟",
    "localName": "Bánh bột lọc",
-   "tags": [],
    "name": {
     "en": "Clear shrimp dumplings",
     "vi": "Bánh bột lọc"
@@ -4912,6 +4973,7 @@
     "en": "Chewy tapioca dumplings filled with savory shrimp and pork belly.",
     "vi": "Bánh lọc dai trong nhân tôm thịt đậm đà ăn kèm nước mắm cay."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/B%C3%A1nh_b%C3%A8o%2C_b%E1%BB%99t_l%E1%BB%8Dc%2C_nem_chua.jpg?width=800",
@@ -4928,7 +4990,6 @@
    "country": "VN",
    "emoji": "🍃",
    "localName": "Bánh tét",
-   "tags": [],
    "name": {
     "en": "Cylindrical glutinous rice cake",
     "vi": "Bánh tét"
@@ -4937,6 +4998,7 @@
     "en": "Log-shaped sticky rice cake wrapped in banana leaves for Tet.",
     "vi": "Bánh tét truyền thống gói lá chuối dẻo thơm nhân đậu xanh thịt."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Banh_tet.jpg?width=800",
@@ -4953,7 +5015,6 @@
    "country": "VN",
    "emoji": "🎁",
    "localName": "Bánh chưng",
-   "tags": [],
    "name": {
     "en": "Square glutinous rice cake",
     "vi": "Bánh chưng"
@@ -4962,6 +5023,7 @@
     "en": "Festive square sticky rice cake filled with mung bean and pork.",
     "vi": "Bánh chưng vuông vức nhân đậu thịt đậm đà hương vị ngày Tết."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Banh_chung_vuong.jpg?width=800",
@@ -4978,7 +5040,6 @@
    "country": "VN",
    "emoji": "🥢",
    "localName": "Chả giò",
-   "tags": [],
    "name": {
     "en": "Fried spring roll",
     "vi": "Chả giò"
@@ -4987,6 +5048,7 @@
     "en": "Golden crispy fried rolls stuffed with minced pork and glass noodles.",
     "vi": "Chả giò chiên giòn rụm nhân thịt băm mộc nhĩ và miến."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cha_gio.jpg?width=800",
@@ -5003,7 +5065,6 @@
    "country": "VN",
    "emoji": "🌿",
    "localName": "Bánh tẻ",
-   "tags": [],
    "name": {
     "en": "Rice flour steamed cake",
     "vi": "Bánh tẻ"
@@ -5012,6 +5073,7 @@
     "en": "Delicate steamed rice flour cake wrapped in leaves with a meat filling.",
     "vi": "Bánh tẻ dẻo thơm gói lá chuối với nhân thịt mộc nhĩ."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Banh_te_My_Duc.png?width=800",
@@ -5028,9 +5090,6 @@
    "country": "VN",
    "emoji": "🍚",
    "localName": "Bánh đúc",
-   "tags": [
-    "vegetarian"
-   ],
    "name": {
     "en": "Plain rice cake",
     "vi": "Bánh đúc"
@@ -5039,6 +5098,9 @@
     "en": "Traditional plain or savory rice cake enjoyed in various regional styles.",
     "vi": "Bánh đúc truyền thống ăn kèm tương hoặc nước mắm đậm đà."
    },
+   "tags": [
+    "vegetarian"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Banhduc-northern.jpg?width=800",
@@ -5055,7 +5117,6 @@
    "country": "JP",
    "emoji": "🥟",
    "localName": "餃子",
-   "tags": [],
    "name": {
     "en": "Gyoza",
     "vi": "Há cảo Nhật Bản"
@@ -5064,6 +5125,7 @@
     "en": "Pan-fried dumplings filled with juicy minced pork and vegetables.",
     "vi": "Há cảo chiên áp chảo nhân thịt heo băm mọng nước và rau củ."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Crestes_japoneses_del_Restaurant_Clover.jpg?width=800",
@@ -5079,7 +5141,6 @@
    "country": "JP",
    "emoji": "🍗",
    "localName": "から揚げ",
-   "tags": [],
    "name": {
     "en": "Karaage",
     "vi": "Gà chiên giòn"
@@ -5088,6 +5149,7 @@
     "en": "Crispy, bite-sized Japanese fried chicken marinated to perfection.",
     "vi": "Thịt gà chiên giòn miếng vừa ăn được tẩm ướp đậm đà hoàn hảo."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chicken_karaage_003.jpg?width=800",
@@ -5104,9 +5166,6 @@
    "country": "JP",
    "emoji": "🍲",
    "localName": "おでん",
-   "tags": [
-    "soup"
-   ],
    "name": {
     "en": "Oden",
     "vi": "Lẩu oden"
@@ -5115,6 +5174,9 @@
     "en": "A comforting winter stew of daikon, fishcakes, and eggs in a light broth.",
     "vi": "Món hầm mùa đông ấm cúng gồm củ cải, chả cá và trứng trong nước dùng thanh."
    },
+   "tags": [
+    "soup"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Oden_by_Mori_Chan.jpg?width=800",
@@ -5131,7 +5193,6 @@
    "country": "JP",
    "emoji": "🥩",
    "localName": "牛タン",
-   "tags": [],
    "name": {
     "en": "Gyutan",
     "vi": "Lưỡi bò nướng"
@@ -5140,6 +5201,7 @@
     "en": "Tender grilled beef tongue slices seasoned simply with salt and lemon.",
     "vi": "Những lát lưỡi bò nướng mềm được nêm nếm đơn giản với muối và chanh."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gyutan_teishoku.JPG?width=800",
@@ -5156,9 +5218,6 @@
    "country": "JP",
    "emoji": "🫘",
    "localName": "納豆",
-   "tags": [
-    "vegetarian"
-   ],
    "name": {
     "en": "Natto",
     "vi": "Đậu nành lên men"
@@ -5167,6 +5226,9 @@
     "en": "Traditional fermented soybeans known for their unique sticky texture.",
     "vi": "Đậu nành lên men truyền thống nổi tiếng với kết cấu dính độc đáo."
    },
+   "tags": [
+    "vegetarian"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Selfmade_Natto.jpg?width=800",
@@ -5183,9 +5245,6 @@
    "country": "JP",
    "emoji": "🐟",
    "localName": "たい焼き",
-   "tags": [
-    "vegetarian"
-   ],
    "name": {
     "en": "Taiyaki",
     "vi": "Bánh cá"
@@ -5194,6 +5253,9 @@
     "en": "Fish-shaped waffle cake filled with sweet red bean paste or custard.",
     "vi": "Bánh quế hình con cá nhân đậu đỏ ngọt hoặc kem trứng thơm ngon."
    },
+   "tags": [
+    "vegetarian"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Taiyaki.jpg?width=800",
@@ -5210,10 +5272,6 @@
    "country": "JP",
    "emoji": "🍵",
    "localName": "茶漬け",
-   "tags": [
-    "soup",
-    "vegetarian"
-   ],
    "name": {
     "en": "Chazuke",
     "vi": "Cơm trà xanh"
@@ -5222,6 +5280,10 @@
     "en": "Steamed rice poured over with hot green tea, dashi, and savory toppings.",
     "vi": "Cơm trắng chan trà xanh nóng, nước dùng dashi và các loại topping mặn."
    },
+   "tags": [
+    "vegetarian",
+    "soup"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sake_chazuke_by_matsukawa1971.jpg?width=800",
@@ -5238,7 +5300,6 @@
    "country": "JP",
    "emoji": "🍳",
    "localName": "天津丼",
-   "tags": [],
    "name": {
     "en": "Tenshindon",
     "vi": "Cơm trứng cua"
@@ -5247,6 +5308,7 @@
     "en": "A fluffy crab meat omelette served over steamed rice with sweet-savory sauce.",
     "vi": "Món trứng ốp lết cua xốp mềm phủ trên cơm nóng với sốt chua ngọt."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kyoto_Ohsho_Tenshinhan_Ag10.jpg?width=800",
@@ -5263,9 +5325,6 @@
    "country": "JP",
    "emoji": "🍡",
    "localName": "団子",
-   "tags": [
-    "vegetarian"
-   ],
    "name": {
     "en": "Dango",
     "vi": "Bánh dango"
@@ -5274,6 +5333,9 @@
     "en": "Chewy Japanese rice flour dumplings skewered and glazed with sweet shoyu.",
     "vi": "Bánh gạo dẻo Nhật Bản xiên que phủ lớp sốt nước tương ngọt thơm."
    },
+   "tags": [
+    "vegetarian"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hanami_Dango.jpg?width=800",
@@ -5290,7 +5352,6 @@
    "country": "KR",
    "emoji": "🌭",
    "localName": "순대",
-   "tags": [],
    "name": {
     "en": "Korean blood sausage",
     "vi": "Dồi huyết Hàn Quốc"
@@ -5299,6 +5360,7 @@
     "en": "Savory Korean blood sausage stuffed with noodles and rice.",
     "vi": "Món dồi huyết béo ngậy nhồi miến và gạo nếp thơm ngon."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Korean.food-Sundae-01.jpg?width=800",
@@ -5314,10 +5376,6 @@
    "country": "KR",
    "emoji": "🥞",
    "localName": "김치부침개",
-   "tags": [
-    "spicy",
-    "vegetarian"
-   ],
    "name": {
     "en": "Kimchi pancake",
     "vi": "Bánh xèo kim chi"
@@ -5326,6 +5384,10 @@
     "en": "Crispy pan-fried pancake packed with tangy and spicy kimchi.",
     "vi": "Bánh xèo giòn rụm kết hợp với hương vị kim chi chua cay."
    },
+   "tags": [
+    "spicy",
+    "vegetarian"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Korean_pancake-Kimchijeon-01.jpg?width=800",
@@ -5342,10 +5404,6 @@
    "country": "KR",
    "emoji": "🍲",
    "localName": "감자탕",
-   "tags": [
-    "spicy",
-    "soup"
-   ],
    "name": {
     "en": "Pork bone stew",
     "vi": "Lẩu xương heo"
@@ -5354,6 +5412,10 @@
     "en": "Spicy and hearty stew made with pork spine and potatoes.",
     "vi": "Món canh đậm đà cay nồng nấu từ xương sống heo và khoai tây."
    },
+   "tags": [
+    "spicy",
+    "soup"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Korean.food-Gamjatang-01.jpg?width=800",
@@ -5370,10 +5432,6 @@
    "country": "KR",
    "emoji": "🍜",
    "localName": "콩국수",
-   "tags": [
-    "soup",
-    "vegetarian"
-   ],
    "name": {
     "en": "Cold soybean noodle soup",
     "vi": "Mì lạnh sữa đậu nành"
@@ -5382,6 +5440,10 @@
     "en": "Refreshing summer noodles served in a rich, chilled soybean broth.",
     "vi": "Món mì mùa hè thanh mát trong nước dùng sữa đậu nành đậm đặc."
    },
+   "tags": [
+    "vegetarian",
+    "soup"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Korean_noodles-Kongguksu-01.jpg?width=800",
@@ -5398,7 +5460,6 @@
    "country": "KR",
    "emoji": "🍖",
    "localName": "족발",
-   "tags": [],
    "name": {
     "en": "Braised pig trotters",
     "vi": "Chân giò hầm"
@@ -5407,6 +5468,7 @@
     "en": "Tender pig trotters braised in a savory soy and spice sauce.",
     "vi": "Chân giò heo mềm thấm vị trong nước sốt đậu nành đậm đà."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jokbal-namdaemunmarket.jpg?width=800",
@@ -5422,9 +5484,6 @@
    "country": "KR",
    "emoji": "🍲",
    "localName": "설렁탕",
-   "tags": [
-    "soup"
-   ],
    "name": {
     "en": "Ox bone soup",
     "vi": "Canh xương bò"
@@ -5433,6 +5492,9 @@
     "en": "Milky and rich ox bone broth simmered for hours until tender.",
     "vi": "Nước dùng xương bò trắng sữa ninh nhừ trong nhiều giờ liền."
    },
+   "tags": [
+    "soup"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Seolleongtang.jpg?width=800",
@@ -5448,10 +5510,6 @@
    "country": "KR",
    "emoji": "🍲",
    "localName": "육개장",
-   "tags": [
-    "spicy",
-    "soup"
-   ],
    "name": {
     "en": "Spicy beef soup",
     "vi": "Canh thịt bò cay"
@@ -5460,6 +5518,10 @@
     "en": "Fiery and hearty shredded beef soup with vegetables and chili oil.",
     "vi": "Món canh thịt bò xé sợi cay nồng đậm đà hương vị ớt."
    },
+   "tags": [
+    "spicy",
+    "soup"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Korean_soup-Yukgaejang-01.jpg?width=800",
@@ -5476,7 +5538,6 @@
    "country": "KR",
    "emoji": "🍖",
    "localName": "갈비찜",
-   "tags": [],
    "name": {
     "en": "Braised short ribs",
     "vi": "Sườn bò hầm"
@@ -5485,6 +5546,7 @@
     "en": "Tender beef short ribs braised in a sweet and savory soy glaze.",
     "vi": "Sườn bò mềm tan thấm đẫm sốt xì dầu ngọt mặn đậm đà."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Korean_braised_beef_short_ribs-Galbijjim.jpg?width=800",
@@ -5501,9 +5563,6 @@
    "country": "TH",
    "emoji": "🍛",
    "localName": "แกงเผ็ด",
-   "tags": [
-    "spicy"
-   ],
    "name": {
     "en": "Thai red curry",
     "vi": "Cà ri đỏ"
@@ -5512,6 +5571,9 @@
     "en": "Vibrant and fiery curry made with red chili paste, bamboo shoots, and basil.",
     "vi": "Món cà ri cay nồng màu sắc rực rỡ với sốt ớt đỏ, măng và húng quế."
    },
+   "tags": [
+    "spicy"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kaeng_phet_mu.jpg?width=800",
@@ -5528,10 +5590,6 @@
    "country": "TH",
    "emoji": "🍜",
    "localName": "ก๋วยเตี๋ยวเรือ",
-   "tags": [
-    "spicy",
-    "soup"
-   ],
    "name": {
     "en": "Thai boat noodles",
     "vi": "Hủ tiếu thuyền"
@@ -5540,6 +5598,10 @@
     "en": "Dark, spiced noodle soup traditionally flavored with fresh pig or beef blood.",
     "vi": "Món mì nước đậm đà gia vị với điểm nhấn là huyết heo hoặc bò."
    },
+   "tags": [
+    "spicy",
+    "soup"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Boat_noodles.jpg?width=800",
@@ -5555,9 +5617,6 @@
    "country": "TH",
    "emoji": "🥗",
    "localName": "ลาบ",
-   "tags": [
-    "spicy"
-   ],
    "name": {
     "en": "Larb",
     "vi": "Gỏi thịt băm"
@@ -5566,6 +5625,9 @@
     "en": "Zesty minced meat salad tossed with toasted rice powder, lime, and herbs.",
     "vi": "Món gỏi thịt băm chua cay trộn thính gạo rang, chanh và rau thơm."
    },
+   "tags": [
+    "spicy"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/LaoFood_LarbNeua.JPG?width=800",
@@ -5582,9 +5644,6 @@
    "country": "TH",
    "emoji": "🥩",
    "localName": "น้ำตกเนื้อ",
-   "tags": [
-    "spicy"
-   ],
    "name": {
     "en": "Beef waterfall salad",
     "vi": "Gỏi thịt bò nướng thác nước"
@@ -5593,6 +5652,9 @@
     "en": "Grilled beef salad bursting with spicy, tangy, and smoky flavors.",
     "vi": "Gỏi bò nướng thơm lừng bùng nổ hương vị chua cay đậm đà."
    },
+   "tags": [
+    "spicy"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Namtok-noodles102.jpg?width=800",
@@ -5609,7 +5671,6 @@
    "country": "TH",
    "emoji": "🍮",
    "localName": "ขนมชั้น",
-   "tags": [],
    "name": {
     "en": "Multi-layered sweet dessert",
     "vi": "Bánh da lợn Thái Lan"
@@ -5618,6 +5679,7 @@
     "en": "Traditional chewy steamed layered dessert scented with fragrant pandan.",
     "vi": "Món bánh hấp nhiều tầng dai dẻo thơm mùi lá dứa đặc trưng."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kue_lapis_-_driekleur_en_rozen.jpg?width=800",
@@ -5633,9 +5695,6 @@
    "country": "SG",
    "emoji": "🍲",
    "localName": "鱼汤",
-   "tags": [
-    "soup"
-   ],
    "name": {
     "en": "Sliced fish soup",
     "vi": "Súp cá lát Singapore"
@@ -5644,6 +5703,9 @@
     "en": "Clean broth with fresh fish slices, greens, and optional milk.",
     "vi": "Nước dùng thanh ngọt với cá tươi thái lát và rau xanh."
    },
+   "tags": [
+    "soup"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Uha_013.jpg?width=800",
@@ -5660,9 +5722,6 @@
    "country": "SG",
    "emoji": "🍜",
    "localName": "卤面",
-   "tags": [
-    "soup"
-   ],
    "name": {
     "en": "Lor mee",
     "vi": "Mì sốt sệt Lor Mee"
@@ -5671,6 +5730,9 @@
     "en": "Yellow noodles in a thick, savory, spiced brown gravy.",
     "vi": "Mì vàng trong nước sốt sệt màu nâu đậm đà gia vị."
    },
+   "tags": [
+    "soup"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/LorMee.JPG?width=800",
@@ -5686,9 +5748,6 @@
    "country": "SG",
    "emoji": "🥣",
    "localName": "龟汤",
-   "tags": [
-    "soup"
-   ],
    "name": {
     "en": "Turtle soup",
     "vi": "Súp ba ba Singapore"
@@ -5697,6 +5756,9 @@
     "en": "Herbal, nourishing soup made with soft-shell turtle meat.",
     "vi": "Món canh thảo mộc bổ dưỡng nấu với thịt ba ba."
    },
+   "tags": [
+    "soup"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Turtle_soup_chinese.jpg?width=800",
@@ -5713,7 +5775,6 @@
    "country": "CN",
    "emoji": "🍜",
    "localName": "炒面",
-   "tags": [],
    "name": {
     "en": "Chow mein",
     "vi": "Mì xào"
@@ -5722,6 +5783,7 @@
     "en": "Stir-fried noodles loaded with crunchy vegetables and savory meat.",
     "vi": "Mì xào giòn thơm ngon đậm đà kèm rau củ và thịt."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chicken_chow_mein_by_roland_in_Vancouver.jpg?width=800",
@@ -5737,9 +5799,6 @@
    "country": "CN",
    "emoji": "🥖",
    "localName": "油条",
-   "tags": [
-    "vegetarian"
-   ],
    "name": {
     "en": "Chinese cruller",
     "vi": "Quẩy"
@@ -5748,6 +5807,9 @@
     "en": "Golden, deep-fried dough strips perfect for dipping in warm soy milk.",
     "vi": "Quẩy giòn rụm vàng ruộm ăn kèm sữa đậu nành ấm."
    },
+   "tags": [
+    "vegetarian"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Youtiao.jpg?width=800",
@@ -5764,7 +5826,6 @@
    "country": "CN",
    "emoji": "🥚",
    "localName": "皮蛋",
-   "tags": [],
    "name": {
     "en": "Century egg",
     "vi": "Trứng bắc thảo"
@@ -5773,6 +5834,7 @@
     "en": "Preserved egg with a creamy dark yolk and translucent amber white.",
     "vi": "Trứng ngâm thảo mộc có lòng đỏ béo ngậy đặc trưng."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arranged_century_egg_on_a_plate.jpg?width=800",
@@ -5789,9 +5851,6 @@
    "country": "CN",
    "emoji": "🥮",
    "localName": "月饼",
-   "tags": [
-    "vegetarian"
-   ],
    "name": {
     "en": "Mooncake",
     "vi": "Bánh trung thu"
@@ -5800,6 +5859,9 @@
     "en": "Dense, traditional pastry filled with lotus seed paste and salted egg.",
     "vi": "Bánh nướng truyền thống nhân hạt sen và trứng muối bùi béo."
    },
+   "tags": [
+    "vegetarian"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mooncake.jpg?width=800",
@@ -5816,10 +5878,6 @@
    "country": "CN",
    "emoji": "🍡",
    "localName": "汤圆",
-   "tags": [
-    "soup",
-    "vegetarian"
-   ],
    "name": {
     "en": "Tangyuan",
     "vi": "Chè trôi nước"
@@ -5828,6 +5886,10 @@
     "en": "Sweet glutinous rice balls served in a warm, fragrant ginger syrup.",
     "vi": "Bánh trôi nước ngọt ngào trong nước gừng ấm áp."
    },
+   "tags": [
+    "vegetarian",
+    "soup"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pumpkin_tangyuan_%28%E6%B1%A4%E5%9C%86%29_with_red_bean_baste_and_black_sesame_fillings.jpg?width=800",
@@ -5844,7 +5906,6 @@
    "country": "US",
    "emoji": "🥪",
    "localName": "Reuben sandwich",
-   "tags": [],
    "name": {
     "en": "Reuben sandwich",
     "vi": "Bánh mì Reuben"
@@ -5853,6 +5914,7 @@
     "en": "Corned beef, Swiss cheese, sauerkraut, and Russian dressing on rye.",
     "vi": "Thịt bò muối, phô mai Thụy Sĩ, bắp cải muối và sốt Nga trên bánh mì lúa mạch đen."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Katz%27s_Deli_-_Lunch.jpg?width=800",
@@ -5868,7 +5930,6 @@
    "country": "US",
    "emoji": "🥠",
    "localName": "Clam cake",
-   "tags": [],
    "name": {
     "en": "Clam cake",
     "vi": "Bánh rán nghêu"
@@ -5877,6 +5938,7 @@
     "en": "Golden fried dough fritters packed with chopped fresh clams.",
     "vi": "Bánh chiên vàng giòn chứa đầy thịt nghêu tươi băm nhỏ."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Clam_cakes.jpg?width=800",
@@ -5892,7 +5954,6 @@
    "country": "US",
    "emoji": "🦐",
    "localName": "Shrimp and grits",
-   "tags": [],
    "name": {
     "en": "Shrimp and grits",
     "vi": "Tôm sốt kèm cháo bắp xay"
@@ -5901,6 +5962,7 @@
     "en": "Savory southern grits topped with juicy seasoned shrimp.",
     "vi": "Cháo bắp xay mặn miền Nam ăn kèm tôm rim đậm đà."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Shrimp_and_grits_at_the_Green_Goddess.jpg?width=800",
@@ -5916,7 +5978,6 @@
    "country": "US",
    "emoji": "🥟",
    "localName": "Biscuits and gravy",
-   "tags": [],
    "name": {
     "en": "Biscuits and gravy",
     "vi": "Bánh mì bơ sữa chan sốt thịt"
@@ -5925,6 +5986,7 @@
     "en": "Fluffy southern biscuits drenched in rich sausage gravy.",
     "vi": "Bánh mì xốp mềm ngập trong nước sốt xúc xích béo ngậy."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Biscuits_and_sausage_gravy_%288006401964%29.jpg?width=800",
@@ -5940,9 +6002,6 @@
    "country": "US",
    "emoji": "🍞",
    "localName": "Cornbread",
-   "tags": [
-    "vegetarian"
-   ],
    "name": {
     "en": "Cornbread",
     "vi": "Bánh mì ngô"
@@ -5951,6 +6010,9 @@
     "en": "Warm and sweet quick bread baked with cornmeal.",
     "vi": "Món bánh mì nhanh ấm ngọt nướng từ bột ngô."
    },
+   "tags": [
+    "vegetarian"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Piece_of_cornbread_on_plate.jpg?width=800",
@@ -5967,9 +6029,6 @@
    "country": "US",
    "emoji": "🥣",
    "localName": "Grits",
-   "tags": [
-    "vegetarian"
-   ],
    "name": {
     "en": "Grits",
     "vi": "Cháo bắp xay"
@@ -5978,6 +6037,9 @@
     "en": "Comforting boiled cornmeal porridge often served with butter.",
     "vi": "Món cháo bột bắp nấu nhừ ăn kèm bơ béo ngậy."
    },
+   "tags": [
+    "vegetarian"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Grits1.jpg?width=800",
@@ -5993,7 +6055,6 @@
    "country": "US",
    "emoji": "🌭",
    "localName": "Chicago-style hot dog",
-   "tags": [],
    "name": {
     "en": "Chicago-style hot dog",
     "vi": "Hot dog kiểu Chicago"
@@ -6002,6 +6063,7 @@
     "en": "All-beef frank loaded with mustard, relish, and fresh veggies.",
     "vi": "Xúc xích bò đặt trong bánh mì kèm mù tạt, dưa muối và rau tươi."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chicago-style_hot_dog_2.jpg?width=800",
@@ -6017,9 +6079,6 @@
    "country": "US",
    "emoji": "🍲",
    "localName": "Cioppino",
-   "tags": [
-    "soup"
-   ],
    "name": {
     "en": "Cioppino",
     "vi": "Súp hải sản Cioppino"
@@ -6028,6 +6087,9 @@
     "en": "San Francisco fish stew simmered in a savory tomato broth.",
     "vi": "Món canh hải sản San Francisco ninh trong nước dùng cà chua đậm."
    },
+   "tags": [
+    "soup"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cioppino.jpg?width=800",
@@ -6043,7 +6105,6 @@
    "country": "MX",
    "emoji": "🌮",
    "localName": "Tostada",
-   "tags": [],
    "name": {
     "en": "Tostada",
     "vi": "Bánh ngô chiên giòn Tostada"
@@ -6052,6 +6113,7 @@
     "en": "Crispy fried corn tortilla topped with savory meats, beans, and fresh toppings.",
     "vi": "Bánh ngô giòn rụm phủ đầy thịt, đậu và các loại rau củ tươi ngon."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tostadas_shrimp_cooking_food_dinner_salsa.jpg?width=800",
@@ -6067,10 +6129,6 @@
    "country": "MX",
    "emoji": "🥘",
    "localName": "Birria",
-   "tags": [
-    "spicy",
-    "soup"
-   ],
    "name": {
     "en": "Birria",
     "vi": "Thịt hầm Birria"
@@ -6079,6 +6137,10 @@
     "en": "A rich, spicy Mexican meat stew simmered in chilis and aromatic herbs.",
     "vi": "Món thịt hầm cay đậm đà nấu cùng ớt khô và các loại thảo mộc thơm."
    },
+   "tags": [
+    "spicy",
+    "soup"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Plato_de_birria.jpg?width=800",
@@ -6094,7 +6156,6 @@
    "country": "MX",
    "emoji": "🥙",
    "localName": "Salbute",
-   "tags": [],
    "name": {
     "en": "Salbute",
     "vi": "Bánh ngô phồng Salbute"
@@ -6103,6 +6164,7 @@
     "en": "Puffy fried tortilla topped with shredded chicken, avocado, and pickled onions.",
     "vi": "Bánh ngô phồng chiên giòn phủ thịt gà xé, bơ và hành muối chua."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Salbutes.jpg?width=800",
@@ -6118,7 +6180,6 @@
    "country": "MX",
    "emoji": "🥟",
    "localName": "Gordita",
-   "tags": [],
    "name": {
     "en": "Gordita",
     "vi": "Bánh ngô nhồi Gordita"
@@ -6127,6 +6188,7 @@
     "en": "Thick corn pastry pocket stuffed with savory meats, cheese, and beans.",
     "vi": "Bánh ngô dày nhồi nhân thịt đậm đà, phô mai và các loại đậu."
    },
+   "tags": [],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/GORDITA.jpg?width=800",
@@ -6142,10 +6204,6 @@
    "country": "IN",
    "emoji": "🧀",
    "localName": "पनीर टिक्का",
-   "tags": [
-    "spicy",
-    "vegetarian"
-   ],
    "name": {
     "en": "Paneer tikka",
     "vi": "Paneer tikka"
@@ -6154,6 +6212,10 @@
     "en": "Marinated paneer cheese cubes grilled to smoky perfection.",
     "vi": "Phô mai paneer ướp gia vị nướng thơm lừng mùi khói."
    },
+   "tags": [
+    "spicy",
+    "vegetarian"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Panir_Tikka_Indian_cheese_grilled.jpg?width=800",
@@ -6169,10 +6231,6 @@
    "country": "IN",
    "emoji": "🥔",
    "localName": "आलू टिक्की",
-   "tags": [
-    "spicy",
-    "vegetarian"
-   ],
    "name": {
     "en": "Aloo tikki",
     "vi": "Aloo tikki"
@@ -6181,6 +6239,10 @@
     "en": "Spiced, crisp potato patties fried until golden brown.",
     "vi": "Chả khoai tây tẩm gia vị chiên giòn rụm màu vàng óng."
    },
+   "tags": [
+    "spicy",
+    "vegetarian"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aloo_Tikki_served_with_chutneys.jpg?width=800",
@@ -6196,9 +6258,6 @@
    "country": "IN",
    "emoji": "🍘",
    "localName": "रवा इडली",
-   "tags": [
-    "vegetarian"
-   ],
    "name": {
     "en": "Rava idli",
     "vi": "Rava idli"
@@ -6207,6 +6266,9 @@
     "en": "Soft semolina steamed cakes flavored with spices and nuts.",
     "vi": "Bánh bột mì semolina hấp mềm mịn thơm hương hạt."
    },
+   "tags": [
+    "vegetarian"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/MTR_Rava_Idli.jpg?width=800",
@@ -6222,9 +6284,6 @@
    "country": "IN",
    "emoji": "🫓",
    "localName": "नान",
-   "tags": [
-    "vegetarian"
-   ],
    "name": {
     "en": "Naan",
     "vi": "Bánh naan"
@@ -6233,6 +6292,9 @@
     "en": "Soft leavened flatbread traditionally baked in a tandoor.",
     "vi": "Bánh mì dẹt mềm truyền thống nướng trong lò tandoor."
    },
+   "tags": [
+    "vegetarian"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/YosriRotiTempayan.jpg?width=800",
@@ -6249,10 +6311,6 @@
    "country": "IN",
    "emoji": "🍲",
    "localName": "حلیم",
-   "tags": [
-    "spicy",
-    "soup"
-   ],
    "name": {
     "en": "Hyderabadi haleem",
     "vi": "Haleem"
@@ -6261,6 +6319,10 @@
     "en": "Rich and slow-cooked meat and wheat stew from Hyderabad.",
     "vi": "Món hầm nhừ từ thịt và lúa mì béo ngậy đặc sản Hyderabad."
    },
+   "tags": [
+    "spicy",
+    "soup"
+   ],
    "curated": false,
    "image": {
     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hyderabadi_haleem.jpg?width=800",

@@ -1,0 +1,33 @@
+{
+ "_comment": "Dish tags. The app shows them on dishes and makes one filter chip per tag with a 'filter'. mode 'exclude' hides dishes with the tag (No spice), 'include' keeps only dishes with it (Vegetarian). 'hint' tells Gemini when the tag applies. Add a tag here and the next build asks Gemini to tag every dish for it once; answers are saved in auto-tags.json.",
+ "tags": [
+  {
+   "id": "spicy",
+   "emoji": "🌶️",
+   "name": {"en": "Spicy", "vi": "Cay"},
+   "hint": "usually served noticeably spicy (chili-forward)",
+   "filter": {"mode": "exclude", "label": {"en": "No spice", "vi": "Không cay"}}
+  },
+  {
+   "id": "vegetarian",
+   "emoji": "🥬",
+   "name": {"en": "Vegetarian", "vi": "Chay"},
+   "hint": "the usual recipe has no meat, poultry or seafood; fish sauce or shrimp paste counts as seafood",
+   "filter": {"mode": "include", "label": {"en": "Vegetarian", "vi": "Chay"}}
+  },
+  {
+   "id": "soup",
+   "emoji": "🍲",
+   "name": {"en": "Soup", "vi": "Món nước"},
+   "hint": "served in broth, or is a soup, stew or hot pot",
+   "filter": {"mode": "include", "label": {"en": "Soup", "vi": "Món nước"}}
+  },
+  {
+   "id": "noodles",
+   "emoji": "🍜",
+   "name": {"en": "Noodles", "vi": "Món sợi"},
+   "hint": "noodles are the main starch: rice noodles, wheat noodles, glass noodles or pasta",
+   "filter": {"mode": "include", "label": {"en": "Noodles", "vi": "Bún, mì, phở"}}
+  }
+ ]
+}

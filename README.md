@@ -11,11 +11,12 @@ https://<your-github-username>.github.io/whattoeat-data/dishes.json
 Every Monday (or when you press **Run workflow**), GitHub Actions runs `build_dishes.py`:
 
 1. **Curated dishes** come from `dish-seed.json`. Their names, descriptions, emoji and tags are hand-checked and never overwritten.
-2. **New dishes:** Gemini suggests popular dishes for each country, with English and Vietnamese names, a short description, an emoji and spicy/soup/vegetarian tags. Each suggestion is kept only if [QLever](https://qlever.dev) finds its English Wikipedia article on Wikidata and Wikidata classes it as food, so made-up dishes are dropped. Kept dishes are added to `discovered.json`, until each country has 30.
-3. **Photos and links:** QLever adds a Wikimedia Commons photo and English/Vietnamese Wikipedia links to every dish.
-4. The result is committed to `public/dishes.json` and deployed to GitHub Pages. `generatedAt` only changes when the dishes do.
+2. **New dishes:** Gemini suggests popular dishes for each country, with English and Vietnamese names, a short description, an emoji and tags from `tags.json`. Each suggestion is kept only if [QLever](https://qlever.dev) finds its English Wikipedia article on Wikidata and Wikidata classes it as food, so made-up dishes are dropped. Kept dishes are added to `discovered.json`, until each country has 30.
+3. **Tags:** `tags.json` lists the tags (id, emoji, English/Vietnamese name, a hint for Gemini, and how the app filters with it: `exclude` like "No spice", `include` like "Vegetarian"). Gemini answers each (dish, tag) pair once, in batches, and the answers are saved in `auto-tags.json`. Add a tag and the next run tags every dish for it; the app gets a new filter chip without an app update. Curated dishes keep their hand-set tags for spicy/soup/vegetarian and are only auto-tagged for newer tags.
+4. **Photos and links:** QLever adds a Wikimedia Commons photo and English/Vietnamese Wikipedia links to every dish.
+5. The result is committed to `public/dishes.json` and deployed to GitHub Pages. `generatedAt` only changes when the dishes do.
 
-Without a Gemini key, steps 1, 3 and 4 still run.
+Without a Gemini key, steps 1, 4 and 5 still run, and tags use the answers already saved.
 
 ## Setup
 
@@ -30,6 +31,8 @@ Without a Gemini key, steps 1, 3 and 4 still run.
 - Fix a discovered dish: edit it in `discovered.json`, or move it into `dish-seed.json` to make it curated.
 - Remove a discovered dish: delete it from `discovered.json`. To stop it coming back, add it to `dish-seed.json` instead.
 - Add a country: add it to `countries` in `dish-seed.json` (code, flag, English and Vietnamese name).
+- Add a tag: add it to `tags.json`. Remove one: delete it there (old answers stay in `auto-tags.json` but are ignored).
+- Fix a tag on a dish: set the value in `auto-tags.json` to `true` or `false`. For curated dishes you can also edit `tags` in `dish-seed.json`.
 
 Run locally:
 

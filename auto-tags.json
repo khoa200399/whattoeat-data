@@ -1,0 +1,682 @@
+{
+ "cn-barbecued-pork-q1204605": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "cn-biangbiang-noodles-q213105": {
+  "spicy": true,
+  "soup": false,
+  "vegetarian": true
+ },
+ "cn-century-egg-q622547": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "cn-chinese-cruller-q713879": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": true
+ },
+ "cn-chinese-dumplings-q1854639": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "cn-chow-mein-q964107": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "cn-egg-fried-rice-q122957244": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "cn-hot-and-sour-soup-q711494": {
+  "spicy": true,
+  "soup": true,
+  "vegetarian": true
+ },
+ "cn-mooncake-q197969": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": true
+ },
+ "cn-rice-congee-q878624": {
+  "spicy": false,
+  "soup": true,
+  "vegetarian": true
+ },
+ "cn-sticky-rice-dumpling-q713466": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "cn-sweet-and-sour-pork-q1367718": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "cn-tangyuan-q115474": {
+  "spicy": false,
+  "soup": true,
+  "vegetarian": true
+ },
+ "cn-twice-cooked-pork-q3238049": {
+  "spicy": true,
+  "soup": false,
+  "vegetarian": false
+ },
+ "cn-wonton-soup-q553905": {
+  "spicy": false,
+  "soup": true,
+  "vegetarian": false
+ },
+ "fr-baguette-q208172": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": true
+ },
+ "fr-bouillabaisse-q828043": {
+  "spicy": false,
+  "soup": true,
+  "vegetarian": false
+ },
+ "fr-buckwheat-galette-q242003": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "fr-cassoulet-q3039": {
+  "spicy": false,
+  "soup": true,
+  "vegetarian": false
+ },
+ "fr-croque-monsieur-q738": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "fr-gratin-dauphinois-q1647122": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": true
+ },
+ "fr-pot-au-feu-q10398": {
+  "spicy": false,
+  "soup": true,
+  "vegetarian": false
+ },
+ "fr-tarte-tatin-q1147946": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": true
+ },
+ "in-aloo-tikki-q2624505": {
+  "spicy": true,
+  "soup": false,
+  "vegetarian": true
+ },
+ "in-chicken-65-q2450914": {
+  "spicy": true,
+  "soup": false,
+  "vegetarian": false
+ },
+ "in-chole-bhature-q2451463": {
+  "spicy": true,
+  "soup": false,
+  "vegetarian": true
+ },
+ "in-dal-makhani-q58610": {
+  "spicy": false,
+  "soup": true,
+  "vegetarian": true
+ },
+ "in-hyderabadi-haleem-q15982556": {
+  "spicy": true,
+  "soup": true,
+  "vegetarian": false
+ },
+ "in-idli-q956595": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": true
+ },
+ "in-naan-q689950": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": true
+ },
+ "in-paneer-tikka-q7130800": {
+  "spicy": true,
+  "soup": false,
+  "vegetarian": true
+ },
+ "in-pav-bhaji-q3629971": {
+  "spicy": true,
+  "soup": true,
+  "vegetarian": true
+ },
+ "in-rava-idli-q7296297": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": true
+ },
+ "in-rogan-josh-q1135831": {
+  "spicy": true,
+  "soup": false,
+  "vegetarian": false
+ },
+ "in-tandoori-chicken-q1057649": {
+  "spicy": true,
+  "soup": false,
+  "vegetarian": false
+ },
+ "in-vada-pav-q2985347": {
+  "spicy": true,
+  "soup": false,
+  "vegetarian": true
+ },
+ "it-arancini-q268857": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "it-bruschetta-q614448": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": true
+ },
+ "it-carpaccio-q840392": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "it-ossobuco-q1057256": {
+  "spicy": false,
+  "soup": true,
+  "vegetarian": false
+ },
+ "it-tiramisu-q131582": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": true
+ },
+ "jp-chawanmushi-q1068574": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "jp-chazuke-q1061824": {
+  "spicy": false,
+  "soup": true,
+  "vegetarian": true
+ },
+ "jp-dango-q877913": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": true
+ },
+ "jp-gyoza-q107014807": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "jp-gyutan-q4892972": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "jp-karaage-q1104399": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "jp-miso-soup-q471866": {
+  "spicy": false,
+  "soup": true,
+  "vegetarian": false
+ },
+ "jp-natto-q505711": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": true
+ },
+ "jp-nikujaga-q714027": {
+  "spicy": false,
+  "soup": true,
+  "vegetarian": false
+ },
+ "jp-oden-q655040": {
+  "spicy": false,
+  "soup": true,
+  "vegetarian": false
+ },
+ "jp-onigiri-q13393": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": true
+ },
+ "jp-oyakodon-q1304390": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "jp-sashimi-q190715": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "jp-shabu-shabu-q1061856": {
+  "spicy": false,
+  "soup": true,
+  "vegetarian": false
+ },
+ "jp-sukiyaki-q862569": {
+  "spicy": false,
+  "soup": true,
+  "vegetarian": false
+ },
+ "jp-taiyaki-q181195": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": true
+ },
+ "jp-takikomi-gohan-q388983": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "jp-tamagoyaki-q747302": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": true
+ },
+ "jp-tenshindon-q1132679": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "jp-tonkatsu-q1142841": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "kr-bibim-guksu-q711953": {
+  "spicy": true,
+  "soup": false,
+  "vegetarian": false
+ },
+ "kr-bossam-q910996": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "kr-braised-pig-trotters-q836773": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "kr-braised-short-ribs-q5371702": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "kr-budae-jjigae-q704006": {
+  "spicy": true,
+  "soup": true,
+  "vegetarian": false
+ },
+ "kr-bulgogi-q683682": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "kr-cold-soybean-noodle-soup-q844765": {
+  "spicy": false,
+  "soup": true,
+  "vegetarian": true
+ },
+ "kr-dakgalbi-q1154164": {
+  "spicy": true,
+  "soup": false,
+  "vegetarian": false
+ },
+ "kr-doenjang-jjigae-q703015": {
+  "spicy": false,
+  "soup": true,
+  "vegetarian": false
+ },
+ "kr-kimchi-pancake-q907560": {
+  "spicy": true,
+  "soup": false,
+  "vegetarian": true
+ },
+ "kr-korean-blood-sausage-q115251": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "kr-ox-bone-soup-q717136": {
+  "spicy": false,
+  "soup": true,
+  "vegetarian": false
+ },
+ "kr-pork-bone-stew-q1142123": {
+  "spicy": true,
+  "soup": true,
+  "vegetarian": false
+ },
+ "kr-spicy-beef-soup-q1069561": {
+  "spicy": true,
+  "soup": true,
+  "vegetarian": false
+ },
+ "mx-birria-q4916959": {
+  "spicy": true,
+  "soup": true,
+  "vegetarian": false
+ },
+ "mx-carnitas-q5044066": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "mx-chilaquiles-q2963582": {
+  "spicy": true,
+  "soup": false,
+  "vegetarian": true
+ },
+ "mx-fajita-q871272": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "mx-gordita-q5584732": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "mx-mexican-street-corn-q10752894": {
+  "spicy": true,
+  "soup": false,
+  "vegetarian": true
+ },
+ "mx-mexican-torta-q3573026": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "mx-mole-q1495652": {
+  "spicy": true,
+  "soup": false,
+  "vegetarian": false
+ },
+ "mx-ranch-style-eggs-q2681008": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": true
+ },
+ "mx-salbute-q16900667": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "mx-taco-q191655": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "mx-tamale-q1147853": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "mx-tostada-q3280441": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "sg-chwee-kueh-q997361": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "sg-curry-puff-q259874": {
+  "spicy": true,
+  "soup": false,
+  "vegetarian": false
+ },
+ "sg-fish-head-curry-q5454639": {
+  "spicy": true,
+  "soup": true,
+  "vegetarian": false
+ },
+ "sg-fried-carrot-cake-q656071": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "sg-lor-mee-q5678787": {
+  "spicy": false,
+  "soup": true,
+  "vegetarian": false
+ },
+ "sg-mee-rebus-q5257848": {
+  "spicy": true,
+  "soup": true,
+  "vegetarian": false
+ },
+ "sg-popiah-q3092677": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "sg-rojak-q720230": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "sg-sliced-fish-soup-q5454668": {
+  "spicy": false,
+  "soup": true,
+  "vegetarian": false
+ },
+ "sg-turtle-soup-q690048": {
+  "spicy": false,
+  "soup": true,
+  "vegetarian": false
+ },
+ "th-beef-waterfall-salad-q4923638": {
+  "spicy": true,
+  "soup": false,
+  "vegetarian": false
+ },
+ "th-larb-q3052288": {
+  "spicy": true,
+  "soup": false,
+  "vegetarian": false
+ },
+ "th-multi-layered-sweet-dessert-q6400372": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "th-stir-fried-flat-noodles-q6685108": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "th-thai-boat-noodles-q18618696": {
+  "spicy": true,
+  "soup": true,
+  "vegetarian": false
+ },
+ "th-thai-red-curry-q1721014": {
+  "spicy": true,
+  "soup": false,
+  "vegetarian": false
+ },
+ "us-apple-pie-q1068034": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": true
+ },
+ "us-biscuits-and-gravy-q4917275": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "us-blt-sandwich-q796270": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "us-caesar-salad-q275508": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "us-chicago-style-hot-dog-q3141050": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "us-cioppino-q3104721": {
+  "spicy": false,
+  "soup": true,
+  "vegetarian": false
+ },
+ "us-clam-cake-q5125440": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "us-club-sandwich-q1093380": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "us-cobb-salad-q1104585": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "us-corn-dog-q1133127": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "us-cornbread-q1108866": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": true
+ },
+ "us-grits-q1543770": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": true
+ },
+ "us-gumbo-q1160522": {
+  "spicy": true,
+  "soup": true,
+  "vegetarian": false
+ },
+ "us-jambalaya-q1364509": {
+  "spicy": true,
+  "soup": false,
+  "vegetarian": false
+ },
+ "us-key-lime-pie-q1518169": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": true
+ },
+ "us-meatloaf-q3807565": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "us-reuben-sandwich-q3180957": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "us-shrimp-and-grits-q16969652": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "vn-banh-beo-q5004794": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "vn-banh-canh-q4855649": {
+  "spicy": false,
+  "soup": true,
+  "vegetarian": false
+ },
+ "vn-bun-mam-q5005250": {
+  "spicy": false,
+  "soup": true,
+  "vegetarian": false
+ },
+ "vn-cao-l-u-q5034353": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "vn-cha-ca-la-vong-q3274058": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "vn-clear-shrimp-dumplings-q20984302": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "vn-cylindrical-glutinous-rice-cake-q5004813": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "vn-fried-spring-roll-q7382955": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "vn-plain-rice-cake-q5004817": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": true
+ },
+ "vn-rice-flour-steamed-cake-q1996530": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "vn-square-glutinous-rice-cake-q564567": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "vn-sticky-rice-q3543273": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "vn-vietnamese-pizza-q28197390": {
+  "spicy": false,
+  "soup": false,
+  "vegetarian": false
+ },
+ "vn-vietnamese-sweet-dessert-soup-q2971995": {
+  "spicy": false,
+  "soup": true,
+  "vegetarian": false
+ }
+}

@@ -8,11 +8,13 @@ on:
     branches: [main]
     paths:
       - dish-seed.json
+      - tags.json
+      - auto-tags.json
       - build_dishes.py
       - .github/workflows/update-dishes.yml
 
 permissions:
-  contents: write   # commit discovered.json and public/dishes.json
+  contents: write   # commit discovered.json, auto-tags.json and public/dishes.json
   pages: write
   id-token: write
 
@@ -44,8 +46,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add public/dishes.json
-          [ -f discovered.json ] && git add discovered.json
+          git add public/dishes.json discovered.json auto-tags.json
           if git diff --cached --quiet; then
             echo "No dish changes"
           else

@@ -5,7 +5,6 @@
   "country": "VN",
   "emoji": "🍜",
   "localName": "Cao lầu",
-  "tags": [],
   "name": {
    "en": "Cao lầu",
    "vi": "Cao lầu"
@@ -22,7 +21,6 @@
   "country": "VN",
   "emoji": "🐟",
   "localName": "Chả cá Lã Vọng",
-  "tags": [],
   "name": {
    "en": "Cha ca La Vong",
    "vi": "Chả cá Lã Vọng"
@@ -39,9 +37,6 @@
   "country": "VN",
   "emoji": "🍧",
   "localName": "Chè",
-  "tags": [
-   "soup"
-  ],
   "name": {
    "en": "Vietnamese sweet dessert soup",
    "vi": "Chè"
@@ -58,7 +53,6 @@
   "country": "VN",
   "emoji": "🍛",
   "localName": "Bánh bèo",
-  "tags": [],
   "name": {
    "en": "Banh beo",
    "vi": "Bánh bèo"
@@ -75,9 +69,6 @@
   "country": "VN",
   "emoji": "🍲",
   "localName": "Bánh canh",
-  "tags": [
-   "soup"
-  ],
   "name": {
    "en": "Banh canh",
    "vi": "Bánh canh"
@@ -94,7 +85,6 @@
   "country": "VN",
   "emoji": "🍕",
   "localName": "Bánh tráng nướng",
-  "tags": [],
   "name": {
    "en": "Vietnamese pizza",
    "vi": "Bánh tráng nướng"
@@ -111,7 +101,6 @@
   "country": "VN",
   "emoji": "🍚",
   "localName": "Xôi",
-  "tags": [],
   "name": {
    "en": "Sticky rice",
    "vi": "Xôi"
@@ -128,9 +117,6 @@
   "country": "VN",
   "emoji": "🍜",
   "localName": "Bún mắm",
-  "tags": [
-   "soup"
-  ],
   "name": {
    "en": "Bun mam",
    "vi": "Bún mắm"
@@ -147,7 +133,6 @@
   "country": "JP",
   "emoji": "🍣",
   "localName": "刺身",
-  "tags": [],
   "name": {
    "en": "Sashimi",
    "vi": "Sashimi"
@@ -164,9 +149,6 @@
   "country": "JP",
   "emoji": "🍙",
   "localName": "おにぎり",
-  "tags": [
-   "vegetarian"
-  ],
   "name": {
    "en": "Onigiri",
    "vi": "Cơm nắm Onigiri"
@@ -183,9 +165,6 @@
   "country": "JP",
   "emoji": "🥣",
   "localName": "味噌汁",
-  "tags": [
-   "soup"
-  ],
   "name": {
    "en": "Miso soup",
    "vi": "Súp Miso"
@@ -202,7 +181,6 @@
   "country": "JP",
   "emoji": "🥩",
   "localName": "トンカツ",
-  "tags": [],
   "name": {
    "en": "Tonkatsu",
    "vi": "Thịt heo cốt lết chiên xù"
@@ -219,7 +197,6 @@
   "country": "JP",
   "emoji": "🍚",
   "localName": "炊き込みご飯",
-  "tags": [],
   "name": {
    "en": "Takikomi gohan",
    "vi": "Cơm trộn nấu cùng dashi"
@@ -236,9 +213,6 @@
   "country": "JP",
   "emoji": "🍲",
   "localName": "肉じゃが",
-  "tags": [
-   "soup"
-  ],
   "name": {
    "en": "Nikujaga",
    "vi": "Thịt bò hầm khoai tây"
@@ -255,7 +229,6 @@
   "country": "JP",
   "emoji": "🥚",
   "localName": "茶碗蒸し",
-  "tags": [],
   "name": {
    "en": "Chawanmushi",
    "vi": "Trứng hấp kiểu Nhật"
@@ -272,7 +245,6 @@
   "country": "JP",
   "emoji": "🍛",
   "localName": "親子丼",
-  "tags": [],
   "name": {
    "en": "Oyakodon",
    "vi": "Cơm thịt gà trứng"
@@ -289,9 +261,6 @@
   "country": "JP",
   "emoji": "🥘",
   "localName": "しゃぶしゃぶ",
-  "tags": [
-   "soup"
-  ],
   "name": {
    "en": "Shabu-shabu",
    "vi": "Lẩu Shabu-shabu"
@@ -308,9 +277,6 @@
   "country": "JP",
   "emoji": "🍳",
   "localName": "玉子焼き",
-  "tags": [
-   "vegetarian"
-  ],
   "name": {
    "en": "Tamagoyaki",
    "vi": "Trứng cuộn Nhật Bản"
@@ -327,9 +293,6 @@
   "country": "JP",
   "emoji": "🍲",
   "localName": "すき焼き",
-  "tags": [
-   "soup"
-  ],
   "name": {
    "en": "Sukiyaki",
    "vi": "Lẩu Sukiyaki"
@@ -346,7 +309,6 @@
   "country": "KR",
   "emoji": "🥩",
   "localName": "불고기",
-  "tags": [],
   "name": {
    "en": "Bulgogi",
    "vi": "Thịt bò nướng Bulgogi"
@@ -363,9 +325,6 @@
   "country": "KR",
   "emoji": "🍜",
   "localName": "비빔국수",
-  "tags": [
-   "spicy"
-  ],
   "name": {
    "en": "Bibim guksu",
    "vi": "Mì trộn cay"
@@ -382,9 +341,6 @@
   "country": "KR",
   "emoji": "🍲",
   "localName": "된장찌개",
-  "tags": [
-   "soup"
-  ],
   "name": {
    "en": "Doenjang jjigae",
    "vi": "Canh đậu tương lên men"
@@ -401,10 +357,6 @@
   "country": "KR",
   "emoji": "🍲",
   "localName": "부대찌개",
-  "tags": [
-   "spicy",
-   "soup"
-  ],
   "name": {
    "en": "Budae jjigae",
    "vi": "Lẩu quân đội"
@@ -421,9 +373,6 @@
   "country": "KR",
   "emoji": "🥘",
   "localName": "닭갈비",
-  "tags": [
-   "spicy"
-  ],
   "name": {
    "en": "Dakgalbi",
    "vi": "Gà xào bắp cải cay"
@@ -440,7 +389,6 @@
   "country": "KR",
   "emoji": "🥬",
   "localName": "보쌈",
-  "tags": [],
   "name": {
    "en": "Bossam",
    "vi": "Thịt heo luộc cuốn"
@@ -457,7 +405,6 @@
   "country": "TH",
   "emoji": "🥢",
   "localName": "ผัดซีอิ๊ว",
-  "tags": [],
   "name": {
    "en": "Stir-fried flat noodles",
    "vi": "Phở xào xì dầu"
@@ -474,10 +421,6 @@
   "country": "SG",
   "emoji": "🍛",
   "localName": "鱼头咖喱",
-  "tags": [
-   "spicy",
-   "soup"
-  ],
   "name": {
    "en": "Fish head curry",
    "vi": "Cà ri đầu cá"
@@ -494,7 +437,6 @@
   "country": "SG",
   "emoji": "🥟",
   "localName": "水粿",
-  "tags": [],
   "name": {
    "en": "Chwee kueh",
    "vi": "Bánh nước gạo"
@@ -511,7 +453,6 @@
   "country": "SG",
   "emoji": "🌯",
   "localName": "薄饼",
-  "tags": [],
   "name": {
    "en": "Popiah",
    "vi": "Bò bía"
@@ -528,9 +469,6 @@
   "country": "SG",
   "emoji": "🥟",
   "localName": "咖喱角",
-  "tags": [
-   "spicy"
-  ],
   "name": {
    "en": "Curry puff",
    "vi": "Bánh cà ri"
@@ -547,10 +485,6 @@
   "country": "SG",
   "emoji": "🍜",
   "localName": "Mee rebus",
-  "tags": [
-   "spicy",
-   "soup"
-  ],
   "name": {
    "en": "Mee rebus",
    "vi": "Mì xốt khoai lang"
@@ -567,7 +501,6 @@
   "country": "SG",
   "emoji": "🥗",
   "localName": "罗惹",
-  "tags": [],
   "name": {
    "en": "Rojak",
    "vi": "Gỏi trái cây rau củ"
@@ -584,7 +517,6 @@
   "country": "SG",
   "emoji": "🍳",
   "localName": "菜头粿",
-  "tags": [],
   "name": {
    "en": "Fried carrot cake",
    "vi": "Bánh củ cải chiên"
@@ -601,7 +533,6 @@
   "country": "CN",
   "emoji": "🍖",
   "localName": "叉烧",
-  "tags": [],
   "name": {
    "en": "Barbecued pork",
    "vi": "Thịt xá xíu"
@@ -618,7 +549,6 @@
   "country": "CN",
   "emoji": "🥟",
   "localName": "饺子",
-  "tags": [],
   "name": {
    "en": "Chinese dumplings",
    "vi": "Sủi cảo"
@@ -635,7 +565,6 @@
   "country": "CN",
   "emoji": "🍚",
   "localName": "蛋炒饭",
-  "tags": [],
   "name": {
    "en": "Egg fried rice",
    "vi": "Cơm chiên trứng"
@@ -652,11 +581,6 @@
   "country": "CN",
   "emoji": "🍲",
   "localName": "酸辣汤",
-  "tags": [
-   "spicy",
-   "soup",
-   "vegetarian"
-  ],
   "name": {
    "en": "Hot and sour soup",
    "vi": "Súp chua cay"
@@ -673,7 +597,6 @@
   "country": "CN",
   "emoji": "🍍",
   "localName": "糖醋里脊",
-  "tags": [],
   "name": {
    "en": "Sweet and sour pork",
    "vi": "Thịt heo xào chua ngọt"
@@ -690,9 +613,6 @@
   "country": "CN",
   "emoji": "🥣",
   "localName": "馄饨",
-  "tags": [
-   "soup"
-  ],
   "name": {
    "en": "Wonton soup",
    "vi": "Hoành thánh"
@@ -709,7 +629,6 @@
   "country": "CN",
   "emoji": "🎋",
   "localName": "粽子",
-  "tags": [],
   "name": {
    "en": "Sticky rice dumpling",
    "vi": "Bánh ú tro"
@@ -726,9 +645,6 @@
   "country": "CN",
   "emoji": "🥓",
   "localName": "回锅肉",
-  "tags": [
-   "spicy"
-  ],
   "name": {
    "en": "Twice-cooked pork",
    "vi": "Thịt heo hai lửa"
@@ -745,10 +661,6 @@
   "country": "CN",
   "emoji": "🥣",
   "localName": "粥",
-  "tags": [
-   "soup",
-   "vegetarian"
-  ],
   "name": {
    "en": "Rice congee",
    "vi": "Cháo trắng"
@@ -765,10 +677,6 @@
   "country": "CN",
   "emoji": "🍝",
   "localName": "biangbiang面",
-  "tags": [
-   "spicy",
-   "vegetarian"
-  ],
   "name": {
    "en": "Biangbiang noodles",
    "vi": "Mì Biangbiang"
@@ -785,9 +693,6 @@
   "country": "IT",
   "emoji": "🥖",
   "localName": "Bruschetta",
-  "tags": [
-   "vegetarian"
-  ],
   "name": {
    "en": "Bruschetta",
    "vi": "Bánh mì nướng Bruschetta"
@@ -804,7 +709,6 @@
   "country": "IT",
   "emoji": "🥩",
   "localName": "Carpaccio",
-  "tags": [],
   "name": {
    "en": "Carpaccio",
    "vi": "Thịt bò sống thái mỏng Carpaccio"
@@ -821,9 +725,6 @@
   "country": "IT",
   "emoji": "🍖",
   "localName": "Ossobuco",
-  "tags": [
-   "soup"
-  ],
   "name": {
    "en": "Ossobuco",
    "vi": "Thịt cẳng chân bê hầm Ossobuco"
@@ -840,9 +741,6 @@
   "country": "IT",
   "emoji": "🍰",
   "localName": "Tiramisu",
-  "tags": [
-   "vegetarian"
-  ],
   "name": {
    "en": "Tiramisu",
    "vi": "Bánh Tiramisu"
@@ -859,7 +757,6 @@
   "country": "IT",
   "emoji": "🍘",
   "localName": "Arancini",
-  "tags": [],
   "name": {
    "en": "Arancini",
    "vi": "Cơm nắm chiên xù Arancini"
@@ -876,9 +773,6 @@
   "country": "US",
   "emoji": "🥧",
   "localName": "Apple pie",
-  "tags": [
-   "vegetarian"
-  ],
   "name": {
    "en": "Apple pie",
    "vi": "Bánh táo Mỹ"
@@ -895,7 +789,6 @@
   "country": "US",
   "emoji": "🥪",
   "localName": "BLT",
-  "tags": [],
   "name": {
    "en": "BLT sandwich",
    "vi": "Bánh mì kẹp BLT"
@@ -912,7 +805,6 @@
   "country": "US",
   "emoji": "🥗",
   "localName": "Caesar salad",
-  "tags": [],
   "name": {
    "en": "Caesar salad",
    "vi": "Salad Caesar"
@@ -929,7 +821,6 @@
   "country": "US",
   "emoji": "🥪",
   "localName": "Club sandwich",
-  "tags": [],
   "name": {
    "en": "Club sandwich",
    "vi": "Bánh mì club"
@@ -946,7 +837,6 @@
   "country": "US",
   "emoji": "🥗",
   "localName": "Cobb salad",
-  "tags": [],
   "name": {
    "en": "Cobb salad",
    "vi": "Salad Cobb"
@@ -963,7 +853,6 @@
   "country": "US",
   "emoji": "🌭",
   "localName": "Corn dog",
-  "tags": [],
   "name": {
    "en": "Corn dog",
    "vi": "Xúc xích nhúng bột ngô chiên"
@@ -980,10 +869,6 @@
   "country": "US",
   "emoji": "🍲",
   "localName": "Gumbo",
-  "tags": [
-   "soup",
-   "spicy"
-  ],
   "name": {
    "en": "Gumbo",
    "vi": "Súp gumbo"
@@ -1000,9 +885,6 @@
   "country": "US",
   "emoji": "🍛",
   "localName": "Jambalaya",
-  "tags": [
-   "spicy"
-  ],
   "name": {
    "en": "Jambalaya",
    "vi": "Cơm trộn jambalaya"
@@ -1019,9 +901,6 @@
   "country": "US",
   "emoji": "🥧",
   "localName": "Key lime pie",
-  "tags": [
-   "vegetarian"
-  ],
   "name": {
    "en": "Key lime pie",
    "vi": "Bánh chanh Key lime"
@@ -1038,7 +917,6 @@
   "country": "US",
   "emoji": "🥩",
   "localName": "Meatloaf",
-  "tags": [],
   "name": {
    "en": "Meatloaf",
    "vi": "Thịt xay nướng ổ"
@@ -1055,7 +933,6 @@
   "country": "MX",
   "emoji": "🌮",
   "localName": "Taco",
-  "tags": [],
   "name": {
    "en": "Taco",
    "vi": "Taco"
@@ -1072,7 +949,6 @@
   "country": "MX",
   "emoji": "🫔",
   "localName": "Tamal",
-  "tags": [],
   "name": {
    "en": "Tamale",
    "vi": "Bánh Tamal"
@@ -1089,7 +965,6 @@
   "country": "MX",
   "emoji": "🥩",
   "localName": "Fajita",
-  "tags": [],
   "name": {
    "en": "Fajita",
    "vi": "Fajita"
@@ -1106,9 +981,6 @@
   "country": "MX",
   "emoji": "🍫",
   "localName": "Mole",
-  "tags": [
-   "spicy"
-  ],
   "name": {
    "en": "Mole",
    "vi": "Sốt Mole"
@@ -1125,10 +997,6 @@
   "country": "MX",
   "emoji": "🌽",
   "localName": "Elote",
-  "tags": [
-   "spicy",
-   "vegetarian"
-  ],
   "name": {
    "en": "Mexican street corn",
    "vi": "Ngô nướng Mexico"
@@ -1145,9 +1013,6 @@
   "country": "MX",
   "emoji": "🍳",
   "localName": "Huevos rancheros",
-  "tags": [
-   "vegetarian"
-  ],
   "name": {
    "en": "Ranch-style eggs",
    "vi": "Trứng ốp la kiểu Mexico"
@@ -1164,10 +1029,6 @@
   "country": "MX",
   "emoji": "🧀",
   "localName": "Chilaquiles",
-  "tags": [
-   "spicy",
-   "vegetarian"
-  ],
   "name": {
    "en": "Chilaquiles",
    "vi": "Chilaquiles"
@@ -1184,7 +1045,6 @@
   "country": "MX",
   "emoji": "🥪",
   "localName": "Torta",
-  "tags": [],
   "name": {
    "en": "Mexican torta",
    "vi": "Bánh mì Mexico"
@@ -1201,7 +1061,6 @@
   "country": "MX",
   "emoji": "🍖",
   "localName": "Carnitas",
-  "tags": [],
   "name": {
    "en": "Carnitas",
    "vi": "Thịt lợn quay Mexico"
@@ -1218,10 +1077,6 @@
   "country": "IN",
   "emoji": "🫓",
   "localName": "छोले भटूरे",
-  "tags": [
-   "spicy",
-   "vegetarian"
-  ],
   "name": {
    "en": "Chole bhature",
    "vi": "Chole bhature"
@@ -1238,9 +1093,6 @@
   "country": "IN",
   "emoji": "🍚",
   "localName": "इഡ്ಲಿ",
-  "tags": [
-   "vegetarian"
-  ],
   "name": {
    "en": "Idli",
    "vi": "Bánh gạo hấp Idli"
@@ -1257,10 +1109,6 @@
   "country": "IN",
   "emoji": "🍔",
   "localName": "वडा पाव",
-  "tags": [
-   "spicy",
-   "vegetarian"
-  ],
   "name": {
    "en": "Vada pav",
    "vi": "Vada pav"
@@ -1277,11 +1125,6 @@
   "country": "IN",
   "emoji": "🍲",
   "localName": "पाव भाजी",
-  "tags": [
-   "spicy",
-   "soup",
-   "vegetarian"
-  ],
   "name": {
    "en": "Pav bhaji",
    "vi": "Pav bhaji"
@@ -1298,9 +1141,6 @@
   "country": "IN",
   "emoji": "🍛",
   "localName": "रोगन जोश",
-  "tags": [
-   "spicy"
-  ],
   "name": {
    "en": "Rogan josh",
    "vi": "Cừu hầm Rogan josh"
@@ -1317,9 +1157,6 @@
   "country": "IN",
   "emoji": "🍗",
   "localName": "சிக்கன் 65",
-  "tags": [
-   "spicy"
-  ],
   "name": {
    "en": "Chicken 65",
    "vi": "Gà rán Chicken 65"
@@ -1336,10 +1173,6 @@
   "country": "IN",
   "emoji": "🍲",
   "localName": "दाल मखनी",
-  "tags": [
-   "soup",
-   "vegetarian"
-  ],
   "name": {
    "en": "Dal makhani",
    "vi": "Dal makhani"
@@ -1356,9 +1189,6 @@
   "country": "IN",
   "emoji": "🍗",
   "localName": "तंदूरी चिकन",
-  "tags": [
-   "spicy"
-  ],
   "name": {
    "en": "Tandoori chicken",
    "vi": "Gà nướng lu Tandoori"
@@ -1375,9 +1205,6 @@
   "country": "FR",
   "emoji": "🍲",
   "localName": "Bouillabaisse",
-  "tags": [
-   "soup"
-  ],
   "name": {
    "en": "Bouillabaisse",
    "vi": "Súp cá Marseille"
@@ -1394,9 +1221,6 @@
   "country": "FR",
   "emoji": "🥘",
   "localName": "Cassoulet",
-  "tags": [
-   "soup"
-  ],
   "name": {
    "en": "Cassoulet",
    "vi": "Thịt hầm đậu trắng"
@@ -1413,9 +1237,6 @@
   "country": "FR",
   "emoji": "🥖",
   "localName": "Baguette",
-  "tags": [
-   "vegetarian"
-  ],
   "name": {
    "en": "Baguette",
    "vi": "Bánh mì dài Pháp"
@@ -1432,7 +1253,6 @@
   "country": "FR",
   "emoji": "🥪",
   "localName": "Croque-monsieur",
-  "tags": [],
   "name": {
    "en": "Croque monsieur",
    "vi": "Bánh mì kẹp phô mai nướng"
@@ -1449,9 +1269,6 @@
   "country": "FR",
   "emoji": "🍲",
   "localName": "Pot-au-feu",
-  "tags": [
-   "soup"
-  ],
   "name": {
    "en": "Pot-au-feu",
    "vi": "Thịt bò hầm rau củ Pháp"
@@ -1468,7 +1285,6 @@
   "country": "FR",
   "emoji": "🥞",
   "localName": "Galette de sarrasin",
-  "tags": [],
   "name": {
    "en": "Buckwheat galette",
    "vi": "Bánh kếp kiều mạch mặn"
@@ -1485,9 +1301,6 @@
   "country": "FR",
   "emoji": "🥧",
   "localName": "Tarte Tatin",
-  "tags": [
-   "vegetarian"
-  ],
   "name": {
    "en": "Tarte Tatin",
    "vi": "Bánh tart táo ngược"
@@ -1504,9 +1317,6 @@
   "country": "FR",
   "emoji": "🥔",
   "localName": "Gratin dauphinois",
-  "tags": [
-   "vegetarian"
-  ],
   "name": {
    "en": "Gratin dauphinois",
    "vi": "Khoai tây đút lò phô mai kem"
@@ -1523,7 +1333,6 @@
   "country": "VN",
   "emoji": "🥟",
   "localName": "Bánh bột lọc",
-  "tags": [],
   "name": {
    "en": "Clear shrimp dumplings",
    "vi": "Bánh bột lọc"
@@ -1540,7 +1349,6 @@
   "country": "VN",
   "emoji": "🍃",
   "localName": "Bánh tét",
-  "tags": [],
   "name": {
    "en": "Cylindrical glutinous rice cake",
    "vi": "Bánh tét"
@@ -1557,7 +1365,6 @@
   "country": "VN",
   "emoji": "🎁",
   "localName": "Bánh chưng",
-  "tags": [],
   "name": {
    "en": "Square glutinous rice cake",
    "vi": "Bánh chưng"
@@ -1574,7 +1381,6 @@
   "country": "VN",
   "emoji": "🥢",
   "localName": "Chả giò",
-  "tags": [],
   "name": {
    "en": "Fried spring roll",
    "vi": "Chả giò"
@@ -1591,7 +1397,6 @@
   "country": "VN",
   "emoji": "🌿",
   "localName": "Bánh tẻ",
-  "tags": [],
   "name": {
    "en": "Rice flour steamed cake",
    "vi": "Bánh tẻ"
@@ -1608,9 +1413,6 @@
   "country": "VN",
   "emoji": "🍚",
   "localName": "Bánh đúc",
-  "tags": [
-   "vegetarian"
-  ],
   "name": {
    "en": "Plain rice cake",
    "vi": "Bánh đúc"
@@ -1627,7 +1429,6 @@
   "country": "JP",
   "emoji": "🥟",
   "localName": "餃子",
-  "tags": [],
   "name": {
    "en": "Gyoza",
    "vi": "Há cảo Nhật Bản"
@@ -1644,7 +1445,6 @@
   "country": "JP",
   "emoji": "🍗",
   "localName": "から揚げ",
-  "tags": [],
   "name": {
    "en": "Karaage",
    "vi": "Gà chiên giòn"
@@ -1661,9 +1461,6 @@
   "country": "JP",
   "emoji": "🍲",
   "localName": "おでん",
-  "tags": [
-   "soup"
-  ],
   "name": {
    "en": "Oden",
    "vi": "Lẩu oden"
@@ -1680,7 +1477,6 @@
   "country": "JP",
   "emoji": "🥩",
   "localName": "牛タン",
-  "tags": [],
   "name": {
    "en": "Gyutan",
    "vi": "Lưỡi bò nướng"
@@ -1697,9 +1493,6 @@
   "country": "JP",
   "emoji": "🫘",
   "localName": "納豆",
-  "tags": [
-   "vegetarian"
-  ],
   "name": {
    "en": "Natto",
    "vi": "Đậu nành lên men"
@@ -1716,9 +1509,6 @@
   "country": "JP",
   "emoji": "🐟",
   "localName": "たい焼き",
-  "tags": [
-   "vegetarian"
-  ],
   "name": {
    "en": "Taiyaki",
    "vi": "Bánh cá"
@@ -1735,10 +1525,6 @@
   "country": "JP",
   "emoji": "🍵",
   "localName": "茶漬け",
-  "tags": [
-   "soup",
-   "vegetarian"
-  ],
   "name": {
    "en": "Chazuke",
    "vi": "Cơm trà xanh"
@@ -1755,7 +1541,6 @@
   "country": "JP",
   "emoji": "🍳",
   "localName": "天津丼",
-  "tags": [],
   "name": {
    "en": "Tenshindon",
    "vi": "Cơm trứng cua"
@@ -1772,9 +1557,6 @@
   "country": "JP",
   "emoji": "🍡",
   "localName": "団子",
-  "tags": [
-   "vegetarian"
-  ],
   "name": {
    "en": "Dango",
    "vi": "Bánh dango"
@@ -1791,7 +1573,6 @@
   "country": "KR",
   "emoji": "🌭",
   "localName": "순대",
-  "tags": [],
   "name": {
    "en": "Korean blood sausage",
    "vi": "Dồi huyết Hàn Quốc"
@@ -1808,10 +1589,6 @@
   "country": "KR",
   "emoji": "🥞",
   "localName": "김치부침개",
-  "tags": [
-   "spicy",
-   "vegetarian"
-  ],
   "name": {
    "en": "Kimchi pancake",
    "vi": "Bánh xèo kim chi"
@@ -1828,10 +1605,6 @@
   "country": "KR",
   "emoji": "🍲",
   "localName": "감자탕",
-  "tags": [
-   "spicy",
-   "soup"
-  ],
   "name": {
    "en": "Pork bone stew",
    "vi": "Lẩu xương heo"
@@ -1848,10 +1621,6 @@
   "country": "KR",
   "emoji": "🍜",
   "localName": "콩국수",
-  "tags": [
-   "soup",
-   "vegetarian"
-  ],
   "name": {
    "en": "Cold soybean noodle soup",
    "vi": "Mì lạnh sữa đậu nành"
@@ -1868,7 +1637,6 @@
   "country": "KR",
   "emoji": "🍖",
   "localName": "족발",
-  "tags": [],
   "name": {
    "en": "Braised pig trotters",
    "vi": "Chân giò hầm"
@@ -1885,9 +1653,6 @@
   "country": "KR",
   "emoji": "🍲",
   "localName": "설렁탕",
-  "tags": [
-   "soup"
-  ],
   "name": {
    "en": "Ox bone soup",
    "vi": "Canh xương bò"
@@ -1904,10 +1669,6 @@
   "country": "KR",
   "emoji": "🍲",
   "localName": "육개장",
-  "tags": [
-   "spicy",
-   "soup"
-  ],
   "name": {
    "en": "Spicy beef soup",
    "vi": "Canh thịt bò cay"
@@ -1924,7 +1685,6 @@
   "country": "KR",
   "emoji": "🍖",
   "localName": "갈비찜",
-  "tags": [],
   "name": {
    "en": "Braised short ribs",
    "vi": "Sườn bò hầm"
@@ -1941,9 +1701,6 @@
   "country": "TH",
   "emoji": "🍛",
   "localName": "แกงเผ็ด",
-  "tags": [
-   "spicy"
-  ],
   "name": {
    "en": "Thai red curry",
    "vi": "Cà ri đỏ"
@@ -1960,10 +1717,6 @@
   "country": "TH",
   "emoji": "🍜",
   "localName": "ก๋วยเตี๋ยวเรือ",
-  "tags": [
-   "spicy",
-   "soup"
-  ],
   "name": {
    "en": "Thai boat noodles",
    "vi": "Hủ tiếu thuyền"
@@ -1980,9 +1733,6 @@
   "country": "TH",
   "emoji": "🥗",
   "localName": "ลาบ",
-  "tags": [
-   "spicy"
-  ],
   "name": {
    "en": "Larb",
    "vi": "Gỏi thịt băm"
@@ -1999,9 +1749,6 @@
   "country": "TH",
   "emoji": "🥩",
   "localName": "น้ำตกเนื้อ",
-  "tags": [
-   "spicy"
-  ],
   "name": {
    "en": "Beef waterfall salad",
    "vi": "Gỏi thịt bò nướng thác nước"
@@ -2018,7 +1765,6 @@
   "country": "TH",
   "emoji": "🍮",
   "localName": "ขนมชั้น",
-  "tags": [],
   "name": {
    "en": "Multi-layered sweet dessert",
    "vi": "Bánh da lợn Thái Lan"
@@ -2035,9 +1781,6 @@
   "country": "SG",
   "emoji": "🍲",
   "localName": "鱼汤",
-  "tags": [
-   "soup"
-  ],
   "name": {
    "en": "Sliced fish soup",
    "vi": "Súp cá lát Singapore"
@@ -2054,9 +1797,6 @@
   "country": "SG",
   "emoji": "🍜",
   "localName": "卤面",
-  "tags": [
-   "soup"
-  ],
   "name": {
    "en": "Lor mee",
    "vi": "Mì sốt sệt Lor Mee"
@@ -2073,9 +1813,6 @@
   "country": "SG",
   "emoji": "🥣",
   "localName": "龟汤",
-  "tags": [
-   "soup"
-  ],
   "name": {
    "en": "Turtle soup",
    "vi": "Súp ba ba Singapore"
@@ -2092,7 +1829,6 @@
   "country": "CN",
   "emoji": "🍜",
   "localName": "炒面",
-  "tags": [],
   "name": {
    "en": "Chow mein",
    "vi": "Mì xào"
@@ -2109,9 +1845,6 @@
   "country": "CN",
   "emoji": "🥖",
   "localName": "油条",
-  "tags": [
-   "vegetarian"
-  ],
   "name": {
    "en": "Chinese cruller",
    "vi": "Quẩy"
@@ -2128,7 +1861,6 @@
   "country": "CN",
   "emoji": "🥚",
   "localName": "皮蛋",
-  "tags": [],
   "name": {
    "en": "Century egg",
    "vi": "Trứng bắc thảo"
@@ -2145,9 +1877,6 @@
   "country": "CN",
   "emoji": "🥮",
   "localName": "月饼",
-  "tags": [
-   "vegetarian"
-  ],
   "name": {
    "en": "Mooncake",
    "vi": "Bánh trung thu"
@@ -2164,10 +1893,6 @@
   "country": "CN",
   "emoji": "🍡",
   "localName": "汤圆",
-  "tags": [
-   "soup",
-   "vegetarian"
-  ],
   "name": {
    "en": "Tangyuan",
    "vi": "Chè trôi nước"
@@ -2184,7 +1909,6 @@
   "country": "US",
   "emoji": "🥪",
   "localName": "Reuben sandwich",
-  "tags": [],
   "name": {
    "en": "Reuben sandwich",
    "vi": "Bánh mì Reuben"
@@ -2201,7 +1925,6 @@
   "country": "US",
   "emoji": "🥠",
   "localName": "Clam cake",
-  "tags": [],
   "name": {
    "en": "Clam cake",
    "vi": "Bánh rán nghêu"
@@ -2218,7 +1941,6 @@
   "country": "US",
   "emoji": "🦐",
   "localName": "Shrimp and grits",
-  "tags": [],
   "name": {
    "en": "Shrimp and grits",
    "vi": "Tôm sốt kèm cháo bắp xay"
@@ -2235,7 +1957,6 @@
   "country": "US",
   "emoji": "🥟",
   "localName": "Biscuits and gravy",
-  "tags": [],
   "name": {
    "en": "Biscuits and gravy",
    "vi": "Bánh mì bơ sữa chan sốt thịt"
@@ -2252,9 +1973,6 @@
   "country": "US",
   "emoji": "🍞",
   "localName": "Cornbread",
-  "tags": [
-   "vegetarian"
-  ],
   "name": {
    "en": "Cornbread",
    "vi": "Bánh mì ngô"
@@ -2271,9 +1989,6 @@
   "country": "US",
   "emoji": "🥣",
   "localName": "Grits",
-  "tags": [
-   "vegetarian"
-  ],
   "name": {
    "en": "Grits",
    "vi": "Cháo bắp xay"
@@ -2290,7 +2005,6 @@
   "country": "US",
   "emoji": "🌭",
   "localName": "Chicago-style hot dog",
-  "tags": [],
   "name": {
    "en": "Chicago-style hot dog",
    "vi": "Hot dog kiểu Chicago"
@@ -2307,9 +2021,6 @@
   "country": "US",
   "emoji": "🍲",
   "localName": "Cioppino",
-  "tags": [
-   "soup"
-  ],
   "name": {
    "en": "Cioppino",
    "vi": "Súp hải sản Cioppino"
@@ -2326,7 +2037,6 @@
   "country": "MX",
   "emoji": "🌮",
   "localName": "Tostada",
-  "tags": [],
   "name": {
    "en": "Tostada",
    "vi": "Bánh ngô chiên giòn Tostada"
@@ -2343,10 +2053,6 @@
   "country": "MX",
   "emoji": "🥘",
   "localName": "Birria",
-  "tags": [
-   "spicy",
-   "soup"
-  ],
   "name": {
    "en": "Birria",
    "vi": "Thịt hầm Birria"
@@ -2363,7 +2069,6 @@
   "country": "MX",
   "emoji": "🥙",
   "localName": "Salbute",
-  "tags": [],
   "name": {
    "en": "Salbute",
    "vi": "Bánh ngô phồng Salbute"
@@ -2380,7 +2085,6 @@
   "country": "MX",
   "emoji": "🥟",
   "localName": "Gordita",
-  "tags": [],
   "name": {
    "en": "Gordita",
    "vi": "Bánh ngô nhồi Gordita"
@@ -2397,10 +2101,6 @@
   "country": "IN",
   "emoji": "🧀",
   "localName": "पनीर टिक्का",
-  "tags": [
-   "spicy",
-   "vegetarian"
-  ],
   "name": {
    "en": "Paneer tikka",
    "vi": "Paneer tikka"
@@ -2417,10 +2117,6 @@
   "country": "IN",
   "emoji": "🥔",
   "localName": "आलू टिक्की",
-  "tags": [
-   "spicy",
-   "vegetarian"
-  ],
   "name": {
    "en": "Aloo tikki",
    "vi": "Aloo tikki"
@@ -2437,9 +2133,6 @@
   "country": "IN",
   "emoji": "🍘",
   "localName": "रवा इडली",
-  "tags": [
-   "vegetarian"
-  ],
   "name": {
    "en": "Rava idli",
    "vi": "Rava idli"
@@ -2456,9 +2149,6 @@
   "country": "IN",
   "emoji": "🫓",
   "localName": "नान",
-  "tags": [
-   "vegetarian"
-  ],
   "name": {
    "en": "Naan",
    "vi": "Bánh naan"
@@ -2475,10 +2165,6 @@
   "country": "IN",
   "emoji": "🍲",
   "localName": "حلیم",
-  "tags": [
-   "spicy",
-   "soup"
-  ],
   "name": {
    "en": "Hyderabadi haleem",
    "vi": "Haleem"
