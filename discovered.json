@@ -2862,5 +2862,229 @@
    "vi": "Thịt bê mềm hầm trong nước sốt kem trắng sánh mịn."
   },
   "addedAt": "2026-10-16"
+ },
+ {
+  "id": "jp-inarizushi-q874397",
+  "qid": "Q874397",
+  "country": "JP",
+  "emoji": "🍱",
+  "localName": "稲荷寿司",
+  "name": {
+   "en": "Inarizushi",
+   "vi": "Sushi đậu hũ"
+  },
+  "blurb": {
+   "en": "Sweet seasoned fried tofu pouches stuffed tightly with sushi rice.",
+   "vi": "Túi đậu hũ chiên ngọt tẩm gia vị nhồi chặt cơm trộn giấm."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "kr-sweet-korean-pancake-q496999",
+  "qid": "Q496999",
+  "country": "KR",
+  "emoji": "🥞",
+  "localName": "호떡",
+  "name": {
+   "en": "Sweet Korean pancake",
+   "vi": "Bánh kếp ngọt Hàn Quốc"
+  },
+  "blurb": {
+   "en": "Warm, chewy griddle-cooked pastry filled with melted brown sugar and nuts.",
+   "vi": "Bánh rán dẻo thơm nhân đường nâu chảy và các loại hạt."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "sg-yong-tau-foo-q713892",
+  "qid": "Q713892",
+  "country": "SG",
+  "emoji": "🍲",
+  "localName": "酿豆腐",
+  "name": {
+   "en": "Yong tau foo",
+   "vi": "Đậu hũ nhồi thịt"
+  },
+  "blurb": {
+   "en": "Tofu and vegetables stuffed with surimi, served in broth or dry.",
+   "vi": "Đậu phụ và rau củ nhồi chả cá, dùng với nước dùng hoặc sốt."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "us-cheesesteak-q1068892",
+  "qid": "Q1068892",
+  "country": "US",
+  "emoji": "🥖",
+  "localName": "Philly cheesesteak",
+  "name": {
+   "en": "Cheesesteak",
+   "vi": "Bánh mì bò bít tết phô mai"
+  },
+  "blurb": {
+   "en": "Thinly sliced beef and melted cheese on a long hoagie roll.",
+   "vi": "Thịt bò thái mỏng và phô mai chảy trong bánh mì dài."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "us-baked-potato-q1193251",
+  "qid": "Q1193251",
+  "country": "US",
+  "emoji": "🥔",
+  "localName": "Baked potato",
+  "name": {
+   "en": "Baked potato",
+   "vi": "Khoai tây nướng"
+  },
+  "blurb": {
+   "en": "Fluffy baked potato loaded with butter, cheese, and bacon.",
+   "vi": "Khoai tây nướng bùi béo phủ bơ, phô mai và thịt xông khói."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "us-tater-tots-q3516025",
+  "qid": "Q3516025",
+  "country": "US",
+  "emoji": "🍟",
+  "localName": "Tater tots",
+  "name": {
+   "en": "Tater tots",
+   "vi": "Khoai tây bào viên chiên"
+  },
+  "blurb": {
+   "en": "Crispy cylinders of grated potatoes fried to golden perfection.",
+   "vi": "Những viên khoai tây bào sợi chiên giòn rụm vàng ruộm."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "us-chicken-and-waffles-q5096287",
+  "qid": "Q5096287",
+  "country": "US",
+  "emoji": "🧇",
+  "localName": "Chicken and waffles",
+  "name": {
+   "en": "Chicken and waffles",
+   "vi": "Gà rán ăn kèm bánh kếp tổ ong"
+  },
+  "blurb": {
+   "en": "Crispy fried chicken paired with sweet, fluffy waffles and syrup.",
+   "vi": "Gà rán giòn rụm kết hợp bánh quế ngọt ngào và siro."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "mx-chimichanga-q2666603",
+  "qid": "Q2666603",
+  "country": "MX",
+  "emoji": "🌯",
+  "localName": "Chimichanga",
+  "name": {
+   "en": "Chimichanga",
+   "vi": "Bánh mì cuộn chiên giòn"
+  },
+  "blurb": {
+   "en": "Deep-fried tortilla stuffed with meat and cheese, served with salsa and guacamole.",
+   "vi": "Bánh ngô cuộn nhân thịt và phô mai đem chiên giòn, ăn kèm xốt."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "mx-motul-style-eggs-q5929345",
+  "qid": "Q5929345",
+  "country": "MX",
+  "emoji": "🍳",
+  "localName": "Huevos motuleños",
+  "name": {
+   "en": "Motul-style eggs",
+   "vi": "Trứng ốp la kiểu Motul"
+  },
+  "blurb": {
+   "en": "Fried eggs on tortillas with black bean paste, tomato sauce, ham, and peas.",
+   "vi": "Trứng rán trên bánh ngô với sốt đậu đen, sốt cà chua, giăm bông và đậu Hà Lan."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "mx-divorced-eggs-q5929327",
+  "qid": "Q5929327",
+  "country": "MX",
+  "emoji": "🍳",
+  "localName": "Huevos divorciados",
+  "name": {
+   "en": "Divorced eggs",
+   "vi": "Trứng ly hôn Huevos divorciados"
+  },
+  "blurb": {
+   "en": "Two fried eggs on tortillas, one covered in red salsa and the other in green salsa.",
+   "vi": "Hai quả trứng ốp la trên bánh ngô, một phủ xốt đỏ và một phủ xốt xanh."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "mx-chalupa-q5069084",
+  "qid": "Q5069084",
+  "country": "MX",
+  "emoji": "🛶",
+  "localName": "Chalupa",
+  "name": {
+   "en": "Chalupa",
+   "vi": "Bánh thuyền Chalupa"
+  },
+  "blurb": {
+   "en": "Boat-shaped fried masa dough filled with shredded meat, cheese, and fresh salsa.",
+   "vi": "Bánh bột ngô hình thuyền chiên giòn nhồi thịt xé, phô mai và xốt tươi."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "mx-cemita-q109353074",
+  "qid": "Q109353074",
+  "country": "MX",
+  "emoji": "🥪",
+  "localName": "Cemita",
+  "name": {
+   "en": "Cemita",
+   "vi": "Bánh mì Cemita"
+  },
+  "blurb": {
+   "en": "Puebla-style sandwich on a sesame roll with avocado, meat, quesillo, and chipotle.",
+   "vi": "Bánh mì kiểu Puebla nhân bơ, thịt, phô mai quesillo và ớt chipotle."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "in-rasgulla-q3349224",
+  "qid": "Q3349224",
+  "country": "IN",
+  "emoji": "🧆",
+  "localName": "রসগোল্লা",
+  "name": {
+   "en": "Rasgulla",
+   "vi": "Bánh Rasgulla"
+  },
+  "blurb": {
+   "en": "Spongy chhena cheese balls cooked in light sugar syrup.",
+   "vi": "Bánh phô mai tươi xốp ngâm trong nước đường ngọt thanh."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "fr-quiche-lorraine-q7882068",
+  "qid": "Q7882068",
+  "country": "FR",
+  "emoji": "🥧",
+  "localName": "Quiche Lorraine",
+  "name": {
+   "en": "Quiche Lorraine",
+   "vi": "Bánh trứng thịt xông khói Lorraine"
+  },
+  "blurb": {
+   "en": "A savory French pastry crust filled with rich cream, eggs, and smoky bacon.",
+   "vi": "Bánh nướng mặn kiểu Pháp nhân kem trứng béo ngậy và thịt xông khói thơm lừng."
+  },
+  "addedAt": "2026-10-16"
  }
 ]

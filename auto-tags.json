@@ -206,6 +206,12 @@
  "fr-quiche": {
   "noodles": false
  },
+ "fr-quiche-lorraine-q7882068": {
+  "spicy": false,
+  "vegetarian": false,
+  "soup": false,
+  "noodles": false
+ },
  "fr-raclette-q20748": {
   "spicy": false,
   "vegetarian": false,
@@ -321,6 +327,12 @@
   "spicy": true,
   "soup": true,
   "vegetarian": true,
+  "noodles": false
+ },
+ "in-rasgulla-q3349224": {
+  "spicy": false,
+  "vegetarian": true,
+  "soup": false,
   "noodles": false
  },
  "in-rava-idli-q7296297": {
@@ -492,6 +504,12 @@
   "spicy": false,
   "soup": false,
   "vegetarian": false,
+  "noodles": false
+ },
+ "jp-inarizushi-q874397": {
+  "spicy": false,
+  "vegetarian": true,
+  "soup": false,
   "noodles": false
  },
  "jp-karaage-q1104399": {
@@ -752,6 +770,12 @@
  "kr-sundubu": {
   "noodles": false
  },
+ "kr-sweet-korean-pancake-q496999": {
+  "spicy": false,
+  "vegetarian": true,
+  "soup": false,
+  "noodles": false
+ },
  "kr-tteokbokki": {
   "noodles": false
  },
@@ -776,6 +800,18 @@
   "vegetarian": false,
   "noodles": false
  },
+ "mx-cemita-q109353074": {
+  "spicy": true,
+  "vegetarian": false,
+  "soup": false,
+  "noodles": false
+ },
+ "mx-chalupa-q5069084": {
+  "spicy": false,
+  "vegetarian": false,
+  "soup": false,
+  "noodles": false
+ },
  "mx-chilaquiles-q2963582": {
   "spicy": true,
   "soup": false,
@@ -783,6 +819,18 @@
   "noodles": false
  },
  "mx-chili": {
+  "noodles": false
+ },
+ "mx-chimichanga-q2666603": {
+  "spicy": false,
+  "vegetarian": false,
+  "soup": false,
+  "noodles": false
+ },
+ "mx-divorced-eggs-q5929327": {
+  "spicy": false,
+  "vegetarian": true,
+  "soup": false,
   "noodles": false
  },
  "mx-enchiladas": {
@@ -819,6 +867,12 @@
   "spicy": true,
   "soup": false,
   "vegetarian": false,
+  "noodles": false
+ },
+ "mx-motul-style-eggs-q5929345": {
+  "spicy": false,
+  "vegetarian": false,
+  "soup": false,
   "noodles": false
  },
  "mx-nachos": {
@@ -989,6 +1043,12 @@
   "vegetarian": false,
   "noodles": false
  },
+ "sg-yong-tau-foo-q713892": {
+  "spicy": false,
+  "vegetarian": false,
+  "soup": true,
+  "noodles": false
+ },
  "th-beef-waterfall-salad-q4923638": {
   "spicy": true,
   "soup": false,
@@ -1076,6 +1136,12 @@
   "soup": false,
   "noodles": false
  },
+ "us-baked-potato-q1193251": {
+  "spicy": false,
+  "vegetarian": true,
+  "soup": false,
+  "noodles": false
+ },
  "us-biscuits-and-gravy-q4917275": {
   "spicy": false,
   "soup": false,
@@ -1097,10 +1163,22 @@
   "vegetarian": false,
   "noodles": false
  },
+ "us-cheesesteak-q1068892": {
+  "spicy": false,
+  "vegetarian": false,
+  "soup": false,
+  "noodles": false
+ },
  "us-chicago-style-hot-dog-q3141050": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
+  "noodles": false
+ },
+ "us-chicken-and-waffles-q5096287": {
+  "spicy": false,
+  "vegetarian": false,
+  "soup": false,
   "noodles": false
  },
  "us-chowder": {
@@ -1230,6 +1308,12 @@
   "noodles": false
  },
  "us-steak": {
+  "noodles": false
+ },
+ "us-tater-tots-q3516025": {
+  "spicy": false,
+  "vegetarian": true,
+  "soup": false,
   "noodles": false
  },
  "us-tuna-salad-q2884546": {
