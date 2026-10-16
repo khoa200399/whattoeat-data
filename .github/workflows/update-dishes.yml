@@ -1,0 +1,66 @@
+name: Update dishes
+
+on:
+  schedule:
+    - cron: "0 2 * * 1"   # every Monday, 02:00 UTC
+  workflow_dispatch:       # "Run workflow" button on the Actions tab
+  push:
+    branches: [main]
+    paths:
+      - dish-seed.json
+      - build_dishes.py
+      - .github/workflows/update-dishes.yml
+
+permissions:
+  contents: write   # commit discovered.json and public/dishes.json
+  pages: write
+  id-token: write
+
+concurrency:
+  group: update-dishes
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Build dishes.json
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+        run: python build_dishes.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/dishes.json
+          [ -f discovered.json ] && git add discovered.json
+          if git diff --cached --quiet; then
+            echo "No dish changes"
+          else
+            git commit -m "Update dishes $(date -u +%F)"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

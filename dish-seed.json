@@ -1,0 +1,1862 @@
+{
+  "_comment": "Curated dishes: texts here are final. build_dishes.py only adds images and Wikipedia links from Wikidata (via QLever). AI-found dishes live in discovered.json.",
+  "countries": [
+    {
+      "code": "VN",
+      "flag": "🇻🇳",
+      "name": {
+        "en": "Vietnam",
+        "vi": "Việt Nam"
+      }
+    },
+    {
+      "code": "JP",
+      "flag": "🇯🇵",
+      "name": {
+        "en": "Japan",
+        "vi": "Nhật Bản"
+      }
+    },
+    {
+      "code": "KR",
+      "flag": "🇰🇷",
+      "name": {
+        "en": "Korea",
+        "vi": "Hàn Quốc"
+      }
+    },
+    {
+      "code": "TH",
+      "flag": "🇹🇭",
+      "name": {
+        "en": "Thailand",
+        "vi": "Thái Lan"
+      }
+    },
+    {
+      "code": "SG",
+      "flag": "🇸🇬",
+      "name": {
+        "en": "Singapore",
+        "vi": "Singapore"
+      }
+    },
+    {
+      "code": "CN",
+      "flag": "🇨🇳",
+      "name": {
+        "en": "China",
+        "vi": "Trung Quốc"
+      }
+    },
+    {
+      "code": "IT",
+      "flag": "🇮🇹",
+      "name": {
+        "en": "Italy",
+        "vi": "Ý"
+      }
+    },
+    {
+      "code": "US",
+      "flag": "🇺🇸",
+      "name": {
+        "en": "USA",
+        "vi": "Mỹ"
+      }
+    },
+    {
+      "code": "MX",
+      "flag": "🇲🇽",
+      "name": {
+        "en": "Mexico",
+        "vi": "Mexico"
+      }
+    },
+    {
+      "code": "IN",
+      "flag": "🇮🇳",
+      "name": {
+        "en": "India",
+        "vi": "Ấn Độ"
+      }
+    },
+    {
+      "code": "FR",
+      "flag": "🇫🇷",
+      "name": {
+        "en": "France",
+        "vi": "Pháp"
+      }
+    }
+  ],
+  "dishes": [
+    {
+      "id": "vn-pho",
+      "qid": "Q420646",
+      "country": "VN",
+      "emoji": "🍜",
+      "localName": "Phở",
+      "tags": [
+        "soup"
+      ],
+      "name": {
+        "en": "Pho",
+        "vi": "Phở"
+      },
+      "blurb": {
+        "en": "Pho is a Vietnamese soup dish consisting of broth, rice noodles, herbs, and meat – usually beef, and sometimes chicken.",
+        "vi": "Nước dùng hầm xương cả đêm, bánh phở mềm, thêm chanh ớt."
+      }
+    },
+    {
+      "id": "vn-buncha",
+      "qid": "Q50634",
+      "country": "VN",
+      "emoji": "🥢",
+      "localName": "Bún chả Hà Nội",
+      "tags": [],
+      "name": {
+        "en": "Bun cha",
+        "vi": "Bún chả"
+      },
+      "blurb": {
+        "en": "Bún chả is a Vietnamese dish of grilled pork and noodles, which is thought to have originated from Hanoi, Vietnam.",
+        "vi": "Chả nướng than hoa thơm lừng, chấm nước mắm chua ngọt."
+      }
+    },
+    {
+      "id": "vn-bunbo",
+      "qid": "Q1130800",
+      "country": "VN",
+      "emoji": "🌶️",
+      "localName": "Bún bò Huế",
+      "tags": [
+        "soup",
+        "spicy"
+      ],
+      "name": {
+        "en": "Bún bò Huế",
+        "vi": "Bún bò Huế"
+      },
+      "blurb": {
+        "en": "Bún bò Huế or bún bò is a Vietnamese rice noodle dish with sliced beef, chả lụa, and sometimes pork knuckles.",
+        "vi": "Sợi bún to, nước dùng sả ớt đậm đà, có giò heo."
+      }
+    },
+    {
+      "id": "vn-comtam",
+      "qid": "Q5202964",
+      "country": "VN",
+      "emoji": "🍚",
+      "localName": "Cơm tấm",
+      "tags": [],
+      "name": {
+        "en": "Cơm tấm",
+        "vi": "Cơm tấm"
+      },
+      "blurb": {
+        "en": "Cơm tấm, also referred as cơm sườn, is a Vietnamese dish made from broken rice, ribs, cucumbers, and pickled carrots, often served with sweet and sour fish sauce.",
+        "vi": "Sườn nướng, bì, chả trứng, mỡ hành. Đúng chất Sài Gòn."
+      }
+    },
+    {
+      "id": "vn-banhmi",
+      "qid": "Q615392",
+      "country": "VN",
+      "emoji": "🥖",
+      "localName": "Bánh mì",
+      "tags": [],
+      "name": {
+        "en": "Bánh mì",
+        "vi": "Bánh mì Việt Nam"
+      },
+      "blurb": {
+        "en": "In Vietnamese cuisine, bánh mì, bánh mỳ or banh mi, is a short baguette with thin, crisp crust and a soft, airy texture.",
+        "vi": "Vỏ giòn rụm, pate, thịt nguội, đồ chua, ngò."
+      }
+    },
+    {
+      "id": "vn-banhxeo",
+      "qid": "Q50633",
+      "country": "VN",
+      "emoji": "🥞",
+      "localName": "Bánh xèo",
+      "tags": [],
+      "name": {
+        "en": "Bánh xèo",
+        "vi": "Bánh xèo"
+      },
+      "blurb": {
+        "en": "Bánh xèo is a crispy, stuffed rice crepe popular in Vietnam.",
+        "vi": "Vỏ vàng giòn, nhân tôm thịt giá, cuốn rau sống."
+      }
+    },
+    {
+      "id": "vn-goicuon",
+      "qid": "Q7799573",
+      "country": "VN",
+      "emoji": "🌯",
+      "localName": "Gỏi cuốn",
+      "tags": [],
+      "name": {
+        "en": "Gỏi cuốn (spring rolls)",
+        "vi": "Gỏi cuốn"
+      },
+      "blurb": {
+        "en": "Gỏi cuốn, nem cuốn, salad roll, summer roll, fresh spring roll, or rice paper roll is a Vietnamese dish traditionally consisting of pork, prawn, vegetables, bún, and other ingredients wrapped in bánh tráng.",
+        "vi": "Tôm thịt cuốn bánh tráng, chấm tương đậu phộng."
+      }
+    },
+    {
+      "id": "vn-hutieu",
+      "qid": "Q27909648",
+      "country": "VN",
+      "emoji": "🍜",
+      "localName": "Hủ tiếu",
+      "tags": [
+        "soup"
+      ],
+      "name": {
+        "en": "Hủ tiếu",
+        "vi": "Hủ tiếu"
+      },
+      "blurb": {
+        "en": "Hủ tiếu or Hủ tíu is a Vietnamese dish eaten in Vietnam as breakfast.",
+        "vi": "Nước dùng ngọt thanh, tôm, gan, thịt bằm."
+      }
+    },
+    {
+      "id": "vn-miquang",
+      "qid": "Q6950186",
+      "country": "VN",
+      "emoji": "🍝",
+      "localName": "Mì Quảng",
+      "tags": [],
+      "name": {
+        "en": "Mì Quảng",
+        "vi": "Mì Quảng"
+      },
+      "blurb": {
+        "en": "Mì Quảng, literally \"Quảng noodles\", is a Vietnamese noodle dish that originated in Quảng Nam Province in central Vietnam.",
+        "vi": "Sợi mì vàng, ít nước, bánh tráng mè giòn."
+      }
+    },
+    {
+      "id": "vn-bundau",
+      "qid": null,
+      "country": "VN",
+      "emoji": "🍢",
+      "localName": "Bún đậu",
+      "tags": [],
+      "name": {
+        "en": "Bún đậu mắm tôm",
+        "vi": "Bún đậu mắm tôm"
+      },
+      "blurb": {
+        "en": "Fried tofu, rice vermicelli, pork and herbs, dipped in fermented shrimp paste.",
+        "vi": "Đậu rán giòn, chả cốm, thịt luộc, mắm tôm thần thánh."
+      }
+    },
+    {
+      "id": "vn-bunrieu",
+      "qid": "Q4997403",
+      "country": "VN",
+      "emoji": "🦀",
+      "localName": "Bún riêu",
+      "tags": [
+        "soup"
+      ],
+      "name": {
+        "en": "Bun rieu",
+        "vi": "Bún riêu cua"
+      },
+      "blurb": {
+        "en": "Bún riêu is a traditional Vietnamese soup of clear stock and rice noodles.",
+        "vi": "Riêu cua béo, cà chua chua nhẹ, thêm mắm tôm."
+      }
+    },
+    {
+      "id": "vn-banhcuon",
+      "qid": "Q50622",
+      "country": "VN",
+      "emoji": "🫓",
+      "localName": "Bánh cuốn",
+      "tags": [],
+      "name": {
+        "en": "Bánh cuốn",
+        "vi": "Bánh cuốn"
+      },
+      "blurb": {
+        "en": "Bánh cuốn or bánh quấn is a Vietnamese dish originating from Northern Vietnam.",
+        "vi": "Bánh mỏng mềm, nhân thịt mộc nhĩ, hành phi."
+      }
+    },
+    {
+      "id": "vn-comchay",
+      "qid": null,
+      "country": "VN",
+      "emoji": "🥬",
+      "localName": "Cơm chay",
+      "tags": [
+        "vegetarian"
+      ],
+      "name": {
+        "en": "Vegetarian rice plate",
+        "vi": "Cơm chay thập cẩm"
+      },
+      "blurb": {
+        "en": "Tofu, mushrooms and stir-fried veggies. Light but satisfying.",
+        "vi": "Đậu hũ, nấm, rau củ xào. Nhẹ bụng mà vẫn ngon."
+      }
+    },
+    {
+      "id": "jp-sushi",
+      "qid": "Q46383",
+      "country": "JP",
+      "emoji": "🍣",
+      "localName": "寿司",
+      "tags": [],
+      "name": {
+        "en": "Sushi",
+        "vi": "Sushi"
+      },
+      "blurb": {
+        "en": "Portioned prepared vinegared rice topped or rolled with other ingredients",
+        "vi": "Cơm giấm và cá tươi. Ăn bao nhiêu cũng thấy thiếu."
+      }
+    },
+    {
+      "id": "jp-ramen",
+      "qid": "Q234646",
+      "country": "JP",
+      "emoji": "🍜",
+      "localName": "ラーメン",
+      "tags": [
+        "soup"
+      ],
+      "name": {
+        "en": "Ramen",
+        "vi": "Ramen"
+      },
+      "blurb": {
+        "en": "Ramen is a Japanese-Chinese fusion noodle dish.",
+        "vi": "Nước dùng tonkotsu béo ngậy, trứng lòng đào."
+      }
+    },
+    {
+      "id": "jp-udon",
+      "qid": "Q471861",
+      "country": "JP",
+      "emoji": "🍲",
+      "localName": "うどん",
+      "tags": [
+        "soup"
+      ],
+      "name": {
+        "en": "Udon",
+        "vi": "Mì Udon"
+      },
+      "blurb": {
+        "en": "Udon is a thick noodle made from wheat flour, used in Japanese cuisine.",
+        "vi": "Sợi mì to dai, nước dùng dashi thanh nhẹ."
+      }
+    },
+    {
+      "id": "jp-tempura",
+      "qid": "Q328709",
+      "country": "JP",
+      "emoji": "🍤",
+      "localName": "天ぷら",
+      "tags": [],
+      "name": {
+        "en": "Tempura",
+        "vi": "Tempura"
+      },
+      "blurb": {
+        "en": "Tempura is a Japanese dish that usually consists of seafood and vegetables that have been coated in a thin batter and deep-fried.",
+        "vi": "Tôm và rau chiên bột mỏng, giòn tan."
+      }
+    },
+    {
+      "id": "jp-katsudon",
+      "qid": "Q702028",
+      "country": "JP",
+      "emoji": "🍱",
+      "localName": "カツ丼",
+      "tags": [],
+      "name": {
+        "en": "Katsudon",
+        "vi": "Katsudon"
+      },
+      "blurb": {
+        "en": "Katsudon is a popular Japanese food, a bowl of rice topped with a fried tonkatsu pork cutlet, egg, vegetables, and condiments.",
+        "vi": "Cơm thịt heo chiên xù phủ trứng."
+      }
+    },
+    {
+      "id": "jp-okonomiyaki",
+      "qid": "Q701075",
+      "country": "JP",
+      "emoji": "🥞",
+      "localName": "お好み焼き",
+      "tags": [],
+      "name": {
+        "en": "Okonomiyaki",
+        "vi": "Okonomiyaki"
+      },
+      "blurb": {
+        "en": "Okonomiyaki is a Japanese teppanyaki savory pancake dish consisting of wheat flour batter and other ingredients cooked on a teppan.",
+        "vi": "Bánh xèo Nhật với bắp cải, sốt mayo."
+      }
+    },
+    {
+      "id": "jp-takoyaki",
+      "qid": "Q905527",
+      "country": "JP",
+      "emoji": "🐙",
+      "localName": "たこ焼き",
+      "tags": [],
+      "name": {
+        "en": "Takoyaki",
+        "vi": "Takoyaki"
+      },
+      "blurb": {
+        "en": "Takoyaki is a ball-shaped Japanese snack made of a wheat flour–based batter and cooked in a special molded pan.",
+        "vi": "Bánh bạch tuộc viên nóng hổi, cá bào nhảy múa."
+      }
+    },
+    {
+      "id": "jp-gyudon",
+      "qid": "Q203176",
+      "country": "JP",
+      "emoji": "🥩",
+      "localName": "牛丼",
+      "tags": [],
+      "name": {
+        "en": "Gyūdon",
+        "vi": "Gyūdon"
+      },
+      "blurb": {
+        "en": "Gyūdon, also known as gyūmeshi, is a Japanese dish consisting of a bowl of rice topped with beef and onion, simmered in a mildly sweet sauce flavored with dashi, soy sauce and mirin.",
+        "vi": "Cơm thịt bò thái mỏng hầm hành tây."
+      }
+    },
+    {
+      "id": "jp-zarusoba",
+      "qid": "Q753910",
+      "country": "JP",
+      "emoji": "🥢",
+      "localName": "ざるそば",
+      "tags": [
+        "vegetarian"
+      ],
+      "name": {
+        "en": "Zaru soba",
+        "vi": "Soba lạnh"
+      },
+      "blurb": {
+        "en": "Soba are Japanese noodles made from buckwheat flour, with varying amounts of wheat flour mixed in.",
+        "vi": "Mì kiều mạch lạnh chấm nước tương. Mát lạnh ngày hè."
+      }
+    },
+    {
+      "id": "jp-curry",
+      "qid": "Q701870",
+      "country": "JP",
+      "emoji": "🍛",
+      "localName": "カレーライス",
+      "tags": [],
+      "name": {
+        "en": "Japanese curry",
+        "vi": "Cà ri Nhật Bản"
+      },
+      "blurb": {
+        "en": "Japanese curry is commonly served in three main forms: curry rice, curry udon, and curry bread.",
+        "vi": "Cà ri ngọt dịu, sánh đặc, ăn cùng cơm trắng."
+      }
+    },
+    {
+      "id": "jp-yakitori",
+      "qid": "Q483163",
+      "country": "JP",
+      "emoji": "🍢",
+      "localName": "焼き鳥",
+      "tags": [],
+      "name": {
+        "en": "Yakitori",
+        "vi": "Yakitori"
+      },
+      "blurb": {
+        "en": "In Japanese cuisine, yakitori is chicken cooked on a skewer over a charcoal fire and seasoned with tare sauce or salt.",
+        "vi": "Xiên gà nướng than, quết sốt tare."
+      }
+    },
+    {
+      "id": "kr-kimchijjigae",
+      "qid": "Q701756",
+      "country": "KR",
+      "emoji": "🍲",
+      "localName": "김치찌개",
+      "tags": [
+        "soup",
+        "spicy"
+      ],
+      "name": {
+        "en": "Kimchi-jjigae",
+        "vi": "Kimchi jjigae"
+      },
+      "blurb": {
+        "en": "Kimchi-jjigae or kimchi stew is a jjigae, or stew-like Korean dish, made with kimchi and other ingredients, such as pork, scallions, onions, and diced tofu.",
+        "vi": "Kim chi chua cay hầm với thịt heo và đậu hũ."
+      }
+    },
+    {
+      "id": "kr-bibimbap",
+      "qid": "Q648352",
+      "country": "KR",
+      "emoji": "🍚",
+      "localName": "비빔밥",
+      "tags": [],
+      "name": {
+        "en": "Bibimbap",
+        "vi": "Bibimbap"
+      },
+      "blurb": {
+        "en": "Bibimbap, sometimes romanised as bi bim bap or bi bim bop, is a Korean rice dish.",
+        "vi": "Cơm trộn rau, trứng và tương ớt gochujang."
+      }
+    },
+    {
+      "id": "kr-tteokbokki",
+      "qid": "Q1190475",
+      "country": "KR",
+      "emoji": "🌶️",
+      "localName": "떡볶이",
+      "tags": [
+        "spicy"
+      ],
+      "name": {
+        "en": "Tteokbokki",
+        "vi": "Tteokbokki"
+      },
+      "blurb": {
+        "en": "Tteokbokki, topokki or simmered rice cake, is a Korean food made from small-sized garae-tteok called tteokmyeon or commonly tteokbokki-tteok.",
+        "vi": "Bánh gạo sốt cay ngọt, món quốc dân của Hàn."
+      }
+    },
+    {
+      "id": "kr-samgyeopsal",
+      "qid": "Q1338822",
+      "country": "KR",
+      "emoji": "🥓",
+      "localName": "삼겹살",
+      "tags": [],
+      "name": {
+        "en": "Samgyeopsal",
+        "vi": "Samgyeopsal"
+      },
+      "blurb": {
+        "en": "Samgyeopsal, samgyeopsal-gui, or grilled pork belly is a type of gui in Korean cuisine.",
+        "vi": "Ba chỉ nướng tại bàn, cuốn xà lách."
+      }
+    },
+    {
+      "id": "kr-chicken",
+      "qid": "Q626723",
+      "country": "KR",
+      "emoji": "🍗",
+      "localName": "치킨",
+      "tags": [],
+      "name": {
+        "en": "Korean fried chicken",
+        "vi": "Gà rán Hàn Quốc"
+      },
+      "blurb": {
+        "en": "Korean fried chicken, in Korean chikin, refers to a variety of fried chicken dishes created in South Korea.",
+        "vi": "Gà giòn phủ sốt yangnyeom, ăn cùng bia."
+      }
+    },
+    {
+      "id": "kr-jjajangmyeon",
+      "qid": "Q1141033",
+      "country": "KR",
+      "emoji": "🍝",
+      "localName": "짜장면",
+      "tags": [],
+      "name": {
+        "en": "Jajangmyeon",
+        "vi": "Jajangmyeon"
+      },
+      "blurb": {
+        "en": "Jjajangmyeon or Jajangmyeon is a Korean Chinese noodle dish topped with a thick sauce made of chunjang, diced pork, and vegetables.",
+        "vi": "Mì trộn sốt tương đen, món của hội độc thân."
+      }
+    },
+    {
+      "id": "kr-naengmyeon",
+      "qid": "Q715084",
+      "country": "KR",
+      "emoji": "🧊",
+      "localName": "냉면",
+      "tags": [
+        "soup"
+      ],
+      "name": {
+        "en": "Naengmyeon",
+        "vi": "Naengmyeon"
+      },
+      "blurb": {
+        "en": "Korean dish of cold noodles",
+        "vi": "Mì kiều mạch trong nước dùng lạnh có đá."
+      }
+    },
+    {
+      "id": "kr-kimbap",
+      "qid": "Q495360",
+      "country": "KR",
+      "emoji": "🍙",
+      "localName": "김밥",
+      "tags": [],
+      "name": {
+        "en": "Gimbap",
+        "vi": "Kimbap"
+      },
+      "blurb": {
+        "en": "Gimbap, also romanized as kimbap, is a Korean dish made from bap, vegetables, and optionally, cooked seafood or meat rolled in gim—dried sheets of seaweed—and served in bite-sized slices.",
+        "vi": "Cơm cuộn rong biển, tiện mang theo."
+      }
+    },
+    {
+      "id": "kr-sundubu",
+      "qid": "Q909649",
+      "country": "KR",
+      "emoji": "🔥",
+      "localName": "순두부찌개",
+      "tags": [
+        "soup",
+        "spicy"
+      ],
+      "name": {
+        "en": "Sundubu-jjigae",
+        "vi": "Canh đậu hũ non"
+      },
+      "blurb": {
+        "en": "Sundubu-jjigae is a jjigae in Korean cuisine.",
+        "vi": "Đậu hũ non mềm trong nồi đá sôi sùng sục."
+      }
+    },
+    {
+      "id": "kr-japchae",
+      "qid": "Q715040",
+      "country": "KR",
+      "emoji": "🥢",
+      "localName": "잡채",
+      "tags": [
+        "vegetarian"
+      ],
+      "name": {
+        "en": "Japchae",
+        "vi": "Japchae"
+      },
+      "blurb": {
+        "en": "Japchae is a savory and slightly sweet dish of stir-fried glass noodles and vegetables that is popular in Korean cuisine.",
+        "vi": "Miến khoai lang xào rau củ, ngọt nhẹ."
+      }
+    },
+    {
+      "id": "th-padthai",
+      "qid": "Q730298",
+      "country": "TH",
+      "emoji": "🍜",
+      "localName": "ผัดไทย",
+      "tags": [],
+      "name": {
+        "en": "Pad thai",
+        "vi": "Mì xào Thái"
+      },
+      "blurb": {
+        "en": "Pad thai is a stir-fried rice noodle dish commonly served as a street food in Thailand as part of Thai cuisine.",
+        "vi": "Hủ tiếu xào me chua ngọt, đậu phộng giã."
+      }
+    },
+    {
+      "id": "th-tomyum",
+      "qid": "Q1052469",
+      "country": "TH",
+      "emoji": "🦐",
+      "localName": "ต้มยำ",
+      "tags": [
+        "soup",
+        "spicy"
+      ],
+      "name": {
+        "en": "Tom yum",
+        "vi": "Tom yum"
+      },
+      "blurb": {
+        "en": "Tom yum or tom yam is a family of hot and sour Thai soups.",
+        "vi": "Canh chua cay với tôm, sả, lá chanh."
+      }
+    },
+    {
+      "id": "th-greencurry",
+      "qid": "Q629345",
+      "country": "TH",
+      "emoji": "🍛",
+      "localName": "แกงเขียวหวาน",
+      "tags": [
+        "spicy"
+      ],
+      "name": {
+        "en": "Green curry",
+        "vi": "Cà ri xanh"
+      },
+      "blurb": {
+        "en": "Green curry is a variety of curry originating from central Thailand.",
+        "vi": "Cà ri nước cốt dừa cay, thơm húng quế."
+      }
+    },
+    {
+      "id": "th-somtum",
+      "qid": "Q106768821",
+      "country": "TH",
+      "emoji": "🥗",
+      "localName": "ส้มตำ",
+      "tags": [
+        "spicy"
+      ],
+      "name": {
+        "en": "Green papaya salad",
+        "vi": "Gỏi đu đủ"
+      },
+      "blurb": {
+        "en": "Green papaya salad is a spicy salad made from shredded unripe papaya.",
+        "vi": "Đu đủ xanh giã chua cay, giòn sần sật."
+      }
+    },
+    {
+      "id": "th-khaomangai",
+      "qid": "Q3239751",
+      "country": "TH",
+      "emoji": "🍗",
+      "localName": "ข้าวมันไก่",
+      "tags": [],
+      "name": {
+        "en": "Hainanese chicken rice",
+        "vi": "Cơm gà Hải Nam"
+      },
+      "blurb": {
+        "en": "Hainanese chicken rice is a dish of poached or roasted chicken with seasoned rice, served with chilli sauce and usually with cucumbers, tomato slices or cilantro garnishes.",
+        "vi": "Gà luộc mềm, cơm nấu nước gà, sốt tương."
+      }
+    },
+    {
+      "id": "th-massaman",
+      "qid": "Q301587",
+      "country": "TH",
+      "emoji": "🥔",
+      "localName": "แกงมัสมั่น",
+      "tags": [],
+      "name": {
+        "en": "Massaman curry",
+        "vi": "Cà ri Massaman"
+      },
+      "blurb": {
+        "en": "Massaman curry is a Thai dish consisting of potatoes, onions, peanuts, and massaman curry paste cooked in coconut milk, generally with chicken added.",
+        "vi": "Cà ri bò khoai tây, béo và ít cay."
+      }
+    },
+    {
+      "id": "th-krapao",
+      "qid": "Q55629806",
+      "country": "TH",
+      "emoji": "🍳",
+      "localName": "ผัดกะเพรา",
+      "tags": [
+        "spicy"
+      ],
+      "name": {
+        "en": "Pad kra pao",
+        "vi": "Cơm thịt xào húng quế"
+      },
+      "blurb": {
+        "en": "Pad kaphrao, also spelled pad kaprow, pad kaprao, or pad gaprao, is one of the most popular Thai dishes in Thailand.",
+        "vi": "Thịt bằm xào húng quế, ớt và trứng ốp la."
+      }
+    },
+    {
+      "id": "th-mangosticky",
+      "qid": "Q13013369",
+      "country": "TH",
+      "emoji": "🥭",
+      "localName": "ข้าวเหนียวมะม่วง",
+      "tags": [
+        "vegetarian"
+      ],
+      "name": {
+        "en": "Mango sticky rice",
+        "vi": "Xôi xoài"
+      },
+      "blurb": {
+        "en": "Mango sticky rice is a traditional Southeast Asian and South Asian dessert made with glutinous rice, fresh mango and coconut milk.",
+        "vi": "Xôi nước cốt dừa với xoài chín. Ăn tráng miệng thôi cũng được."
+      }
+    },
+    {
+      "id": "th-khaosoi",
+      "qid": "Q4922950",
+      "country": "TH",
+      "emoji": "🍜",
+      "localName": "ข้าวซอย",
+      "tags": [
+        "soup",
+        "spicy"
+      ],
+      "name": {
+        "en": "Khao soi",
+        "vi": "Khao soi"
+      },
+      "blurb": {
+        "en": "Khao soi or khao soy is a dish served in Northern Thailand.",
+        "vi": "Mì cà ri vàng miền Bắc Thái, topping mì chiên giòn."
+      }
+    },
+    {
+      "id": "cn-pekingduck",
+      "qid": "Q404973",
+      "country": "CN",
+      "emoji": "🦆",
+      "localName": "北京烤鸭",
+      "tags": [],
+      "name": {
+        "en": "Peking duck",
+        "vi": "Vịt quay Bắc Kinh"
+      },
+      "blurb": {
+        "en": "Peking duck is a dish from Beijing that has been prepared since the Imperial era.",
+        "vi": "Da giòn bóng, cuốn bánh mỏng với hành và tương."
+      }
+    },
+    {
+      "id": "cn-dimsum",
+      "qid": "Q339836",
+      "country": "CN",
+      "emoji": "🥟",
+      "localName": "点心",
+      "tags": [],
+      "name": {
+        "en": "Dim sum",
+        "vi": "Dimsum"
+      },
+      "blurb": {
+        "en": "Dim sum is a large range of small Chinese dishes that are traditionally eaten in restaurants for brunch.",
+        "vi": "Há cảo, xíu mại, bánh bao. Gọi cả xửng cho vui."
+      }
+    },
+    {
+      "id": "cn-mapo",
+      "qid": "Q1298577",
+      "country": "CN",
+      "emoji": "🌶️",
+      "localName": "麻婆豆腐",
+      "tags": [
+        "spicy"
+      ],
+      "name": {
+        "en": "Mapo tofu",
+        "vi": "Đậu hũ Tứ Xuyên"
+      },
+      "blurb": {
+        "en": "Mapo tofu is a popular Chinese dish from Sichuan province.",
+        "vi": "Đậu hũ sốt cay tê đầu lưỡi."
+      }
+    },
+    {
+      "id": "cn-hotpot",
+      "qid": "Q18883046",
+      "country": "CN",
+      "emoji": "🍲",
+      "localName": "四川火锅",
+      "tags": [
+        "soup",
+        "spicy"
+      ],
+      "name": {
+        "en": "Sichuan hot pot",
+        "vi": "Lẩu Tứ Xuyên"
+      },
+      "blurb": {
+        "en": "Chongqing hot pot, also known as spicy hot pot or mala hotpot, is usually eaten at restaurants, but otherwise is similar to roadside malatang.",
+        "vi": "Nồi lẩu đỏ rực, cay xé lưỡi, nhúng đủ thứ."
+      }
+    },
+    {
+      "id": "cn-lanzhou",
+      "qid": "Q6127173",
+      "country": "CN",
+      "emoji": "🍜",
+      "localName": "兰州拉面",
+      "tags": [
+        "soup"
+      ],
+      "name": {
+        "en": "Lanzhou beef noodle soup",
+        "vi": "Mì bò Lan Châu"
+      },
+      "blurb": {
+        "en": "Lanzhou beef noodles is a type of beef noodle soup from Lanzhou, China.",
+        "vi": "Sợi mì kéo tay, nước dùng bò trong vắt."
+      }
+    },
+    {
+      "id": "cn-friedrice",
+      "qid": "Q1133722",
+      "country": "CN",
+      "emoji": "🍚",
+      "localName": "扬州炒饭",
+      "tags": [],
+      "name": {
+        "en": "Yangzhou fried rice",
+        "vi": "Cơm chiên Dương Châu"
+      },
+      "blurb": {
+        "en": "Yangzhou fried rice, also known by several other spellings and names, is a popular Chinese wok-fried rice dish.",
+        "vi": "Cơm chiên tơi hạt với trứng, tôm, lạp xưởng."
+      }
+    },
+    {
+      "id": "cn-kungpao",
+      "qid": "Q549713",
+      "country": "CN",
+      "emoji": "🥜",
+      "localName": "宫保鸡丁",
+      "tags": [
+        "spicy"
+      ],
+      "name": {
+        "en": "Kung Pao chicken",
+        "vi": "Gà Kung Pao"
+      },
+      "blurb": {
+        "en": "Kung Pao chicken, also transcribed Gong Bao or Kung Po, is a spicy, stir-fried Chinese dish made with cubes of cooked chicken, peanuts, vegetables and chili peppers, and Sichuan peppercorns.",
+        "vi": "Gà xào ớt khô và đậu phộng."
+      }
+    },
+    {
+      "id": "cn-xiaolongbao",
+      "qid": "Q702662",
+      "country": "CN",
+      "emoji": "🥟",
+      "localName": "小笼包",
+      "tags": [],
+      "name": {
+        "en": "Xiaolongbao",
+        "vi": "Tiểu long bao"
+      },
+      "blurb": {
+        "en": "Xiaolongbao is a type of Chinese tangbao, traditionally prepared in a xiaolong, a small bamboo steaming basket.",
+        "vi": "Bánh bao nhân súp nóng. Cắn nhẹ thôi kẻo bỏng."
+      }
+    },
+    {
+      "id": "cn-wonton",
+      "qid": "Q3269812",
+      "country": "CN",
+      "emoji": "🍥",
+      "localName": "云吞面",
+      "tags": [
+        "soup"
+      ],
+      "name": {
+        "en": "Wonton noodles",
+        "vi": "Mì vằn thắn"
+      },
+      "blurb": {
+        "en": "Wonton noodles is a noodle dish of Cantonese origin.",
+        "vi": "Hoành thánh tôm và mì trứng trong nước dùng thanh."
+      }
+    },
+    {
+      "id": "it-margherita",
+      "qid": "Q500724",
+      "country": "IT",
+      "emoji": "🍕",
+      "localName": "Pizza Margherita",
+      "tags": [
+        "vegetarian"
+      ],
+      "name": {
+        "en": "Pizza Margherita",
+        "vi": "Pizza Margherita"
+      },
+      "blurb": {
+        "en": "Pizza Margherita, also known as Margherita pizza, is, together with the pizza marinara, the typical Neapolitan pizza.",
+        "vi": "Cà chua, mozzarella, húng quế. Đơn giản mà đỉnh."
+      }
+    },
+    {
+      "id": "it-carbonara",
+      "qid": "Q876624",
+      "country": "IT",
+      "emoji": "🍝",
+      "localName": "Carbonara",
+      "tags": [],
+      "name": {
+        "en": "Carbonara",
+        "vi": "Spaghetti alla carbonara"
+      },
+      "blurb": {
+        "en": "Carbonara is a pasta dish made with cured pork, hard cheese, eggs, salt, and black pepper.",
+        "vi": "Trứng, phô mai pecorino, thịt má heo guanciale."
+      }
+    },
+    {
+      "id": "it-lasagna",
+      "qid": "Q20034",
+      "country": "IT",
+      "emoji": "🧀",
+      "localName": "Lasagne",
+      "tags": [],
+      "name": {
+        "en": "Lasagna",
+        "vi": "Lasagna"
+      },
+      "blurb": {
+        "en": "Lasagna, also known by the plural form lasagne, is a type of pasta made in wide, flat sheets.",
+        "vi": "Nhiều lớp mì, sốt bò bằm và béchamel."
+      }
+    },
+    {
+      "id": "it-risotto",
+      "qid": "Q208105",
+      "country": "IT",
+      "emoji": "🍄",
+      "localName": "Risotto ai funghi",
+      "tags": [
+        "vegetarian"
+      ],
+      "name": {
+        "en": "Risotto",
+        "vi": "Risotto"
+      },
+      "blurb": {
+        "en": "Risotto is an Italian rice dish cooked with broth until it reaches a creamy consistency.",
+        "vi": "Cơm Ý nấu kem với nấm thơm."
+      }
+    },
+    {
+      "id": "it-bolognese",
+      "qid": "Q1162965",
+      "country": "IT",
+      "emoji": "🍝",
+      "localName": "Ragù alla bolognese",
+      "tags": [],
+      "name": {
+        "en": "Spaghetti Bolognese",
+        "vi": "Mì sốt bò bằm"
+      },
+      "blurb": {
+        "en": "Bolognese sauce, known in Italian as ragù alla bolognese or ragù bolognese, is the main variety of ragù in Italian cuisine, typical of the city of Bologna.",
+        "vi": "Sốt bò hầm cà chua đậm vị."
+      }
+    },
+    {
+      "id": "it-gnocchi",
+      "qid": "Q20063",
+      "country": "IT",
+      "emoji": "🥔",
+      "localName": "Gnocchi",
+      "tags": [
+        "vegetarian"
+      ],
+      "name": {
+        "en": "Gnocchi",
+        "vi": "Gnocchi"
+      },
+      "blurb": {
+        "en": "Gnocchi are a varied family of pasta-like dumplings in Italian cuisine.",
+        "vi": "Bánh khoai tây mềm, sốt bơ xô thơm."
+      }
+    },
+    {
+      "id": "it-minestrone",
+      "qid": "Q581462",
+      "country": "IT",
+      "emoji": "🥣",
+      "localName": "Minestrone",
+      "tags": [
+        "soup",
+        "vegetarian"
+      ],
+      "name": {
+        "en": "Minestrone",
+        "vi": "Súp Minestrone"
+      },
+      "blurb": {
+        "en": "Minestrone or minestrone di verdure is a thick vegetable soup of Italian origin.",
+        "vi": "Súp rau củ và đậu, ấm bụng."
+      }
+    },
+    {
+      "id": "it-arrabbiata",
+      "qid": "Q1891043",
+      "country": "IT",
+      "emoji": "🌶️",
+      "localName": "Penne all'arrabbiata",
+      "tags": [
+        "vegetarian",
+        "spicy"
+      ],
+      "name": {
+        "en": "Penne all'arrabbiata",
+        "vi": "Penne Arrabbiata"
+      },
+      "blurb": {
+        "en": "Arrabbiata sauce, known in Italian as arrabbiata, is a spicy sauce made with tomatoes, garlic, peperoncino, parsley, and extra virgin olive oil.",
+        "vi": "Nui sốt cà chua tỏi ớt."
+      }
+    },
+    {
+      "id": "us-burger",
+      "qid": "Q6663",
+      "country": "US",
+      "emoji": "🍔",
+      "localName": "Cheeseburger",
+      "tags": [],
+      "name": {
+        "en": "Hamburger",
+        "vi": "Hamburger"
+      },
+      "blurb": {
+        "en": "A hamburger, often known as a burger, consists of fillings—usually a patty of panfried or grilled ground meat, typically beef—placed inside a sliced bun, sesame seed bun, or bread roll.",
+        "vi": "Bò nướng, phô mai chảy, khoai tây chiên ăn kèm."
+      }
+    },
+    {
+      "id": "us-friedchicken",
+      "qid": "Q1065241",
+      "country": "US",
+      "emoji": "🍗",
+      "localName": "Southern fried chicken",
+      "tags": [],
+      "name": {
+        "en": "Fried chicken",
+        "vi": "Gà rán"
+      },
+      "blurb": {
+        "en": "Fried chicken, more formally known as Southern fried chicken, is a dish consisting of chicken pieces, coated with seasoned flour or batter, that are pan-fried, deep-fried, pressure-fried, or air-fried.",
+        "vi": "Lớp vỏ giòn rụm, thịt mọng nước."
+      }
+    },
+    {
+      "id": "us-ribs",
+      "qid": "Q1967823",
+      "country": "US",
+      "emoji": "🍖",
+      "localName": "BBQ ribs",
+      "tags": [],
+      "name": {
+        "en": "BBQ ribs",
+        "vi": "Sườn nướng BBQ"
+      },
+      "blurb": {
+        "en": "Spare ribs are a variety of ribs cut from the lower portion of a pig, specifically the belly and breastbone, behind the shoulder, and include 11 to 13 long bones.",
+        "vi": "Sườn nướng chậm, sốt BBQ ngọt khói."
+      }
+    },
+    {
+      "id": "us-hotdog",
+      "qid": "Q181055",
+      "country": "US",
+      "emoji": "🌭",
+      "localName": "Hot dog",
+      "tags": [],
+      "name": {
+        "en": "Hot dog",
+        "vi": "Hot dog"
+      },
+      "blurb": {
+        "en": "A hot dog is a grilled, steamed, or boiled sausage served in the slit of a partially sliced bun.",
+        "vi": "Xúc xích kẹp bánh, mù tạt và hành."
+      }
+    },
+    {
+      "id": "us-maccheese",
+      "qid": "Q378341",
+      "country": "US",
+      "emoji": "🧀",
+      "localName": "Mac and cheese",
+      "tags": [
+        "vegetarian"
+      ],
+      "name": {
+        "en": "Macaroni and cheese",
+        "vi": "Mac & cheese"
+      },
+      "blurb": {
+        "en": "Macaroni and cheese is a pasta dish of macaroni covered in cheese sauce, most commonly cheddar sauce.",
+        "vi": "Nui phô mai béo ngậy."
+      }
+    },
+    {
+      "id": "us-chowder",
+      "qid": "Q1094882",
+      "country": "US",
+      "emoji": "🥣",
+      "localName": "Clam chowder",
+      "tags": [
+        "soup"
+      ],
+      "name": {
+        "en": "Clam chowder",
+        "vi": "Súp nghêu"
+      },
+      "blurb": {
+        "en": "Clam chowder is any of several chowder soups in American cuisine containing clams.",
+        "vi": "Súp kem nghêu đặc, ăn với bánh mì."
+      }
+    },
+    {
+      "id": "us-wings",
+      "qid": "Q1072203",
+      "country": "US",
+      "emoji": "🔥",
+      "localName": "Buffalo wings",
+      "tags": [
+        "spicy"
+      ],
+      "name": {
+        "en": "Buffalo wings",
+        "vi": "Cánh gà Buffalo"
+      },
+      "blurb": {
+        "en": "A Buffalo wing in American cuisine is an unbreaded chicken wing section that is generally deep-fried, then coated or dipped in a sauce consisting of a vinegar-based cayenne pepper hot sauce and melted butter.",
+        "vi": "Cánh gà sốt cay chấm sốt blue cheese."
+      }
+    },
+    {
+      "id": "us-steak",
+      "qid": "Q213062",
+      "country": "US",
+      "emoji": "🥩",
+      "localName": "Steak",
+      "tags": [],
+      "name": {
+        "en": "Steak",
+        "vi": "Bít tết"
+      },
+      "blurb": {
+        "en": "A steak is a cut of meat sliced across muscle fibers, sometimes including a bone.",
+        "vi": "Thăn bò áp chảo medium rare."
+      }
+    },
+    {
+      "id": "us-pancake",
+      "qid": "Q44541",
+      "country": "US",
+      "emoji": "🥞",
+      "localName": "Pancakes",
+      "tags": [
+        "vegetarian"
+      ],
+      "name": {
+        "en": "Pancake",
+        "vi": "Bánh nướng chảo"
+      },
+      "blurb": {
+        "en": "A brown thin, round cake made of eggs, milk and flour",
+        "vi": "Bánh mềm xốp, bơ và siro lá phong."
+      }
+    },
+    {
+      "id": "mx-tacos",
+      "qid": "Q2386967",
+      "country": "MX",
+      "emoji": "🌮",
+      "localName": "Tacos al pastor",
+      "tags": [],
+      "name": {
+        "en": "Tacos al pastor",
+        "vi": "Tacos al pastor"
+      },
+      "blurb": {
+        "en": "Mexican dish",
+        "vi": "Bánh ngô kẹp thịt heo nướng, dứa và rau mùi."
+      }
+    },
+    {
+      "id": "mx-burrito",
+      "qid": "Q390823",
+      "country": "MX",
+      "emoji": "🌯",
+      "localName": "Burrito",
+      "tags": [],
+      "name": {
+        "en": "Burrito",
+        "vi": "Burrito"
+      },
+      "blurb": {
+        "en": "A burrito or burro is historically a regional name in Mexico for what in other parts of the country is known as a taco.",
+        "vi": "Cuộn bánh bột mì to với thịt, cơm, đậu."
+      }
+    },
+    {
+      "id": "mx-quesadilla",
+      "qid": "Q865325",
+      "country": "MX",
+      "emoji": "🧀",
+      "localName": "Quesadilla",
+      "tags": [
+        "vegetarian"
+      ],
+      "name": {
+        "en": "Quesadilla",
+        "vi": "Quesadilla"
+      },
+      "blurb": {
+        "en": "A quesadilla is a Mexican dish made from a tortilla folded in half or two tortillas that are filled with cheese, and sometimes meats, spices, and other fillings, and then cooked on a griddle or stove.",
+        "vi": "Bánh nướng kẹp phô mai chảy."
+      }
+    },
+    {
+      "id": "mx-nachos",
+      "qid": "Q466430",
+      "country": "MX",
+      "emoji": "🫔",
+      "localName": "Nachos",
+      "tags": [],
+      "name": {
+        "en": "Nachos",
+        "vi": "Nacho"
+      },
+      "blurb": {
+        "en": "Mexican dish",
+        "vi": "Bánh tortilla chiên phủ phô mai và salsa."
+      }
+    },
+    {
+      "id": "mx-enchiladas",
+      "qid": "Q876096",
+      "country": "MX",
+      "emoji": "🌶️",
+      "localName": "Enchiladas",
+      "tags": [
+        "spicy"
+      ],
+      "name": {
+        "en": "Enchilada",
+        "vi": "Enchilada"
+      },
+      "blurb": {
+        "en": "An enchilada is a Mexican dish consisting of a corn tortilla rolled around a filling and covered with a savory sauce.",
+        "vi": "Bánh cuộn phủ sốt ớt đỏ."
+      }
+    },
+    {
+      "id": "mx-pozole",
+      "qid": "Q515692",
+      "country": "MX",
+      "emoji": "🍲",
+      "localName": "Pozole",
+      "tags": [
+        "soup"
+      ],
+      "name": {
+        "en": "Pozole",
+        "vi": "Súp Pozole"
+      },
+      "blurb": {
+        "en": "Pozole is a traditional soup or stew from Mexican cuisine.",
+        "vi": "Súp ngô hạt to với thịt heo."
+      }
+    },
+    {
+      "id": "mx-guacamole",
+      "qid": "Q207968",
+      "country": "MX",
+      "emoji": "🥑",
+      "localName": "Guacamole",
+      "tags": [
+        "vegetarian"
+      ],
+      "name": {
+        "en": "Guacamole",
+        "vi": "Guacamole"
+      },
+      "blurb": {
+        "en": "Guacamole, sometimes informally shortened to guac in the United States, is an avocado-based dip, spread, or salad first developed in Mexico.",
+        "vi": "Bơ nghiền với chanh, cà chua, hành."
+      }
+    },
+    {
+      "id": "mx-chili",
+      "qid": "Q863794",
+      "country": "MX",
+      "emoji": "🫘",
+      "localName": "Chili con carne",
+      "tags": [
+        "spicy",
+        "soup"
+      ],
+      "name": {
+        "en": "Chili con carne",
+        "vi": "Chili con carne"
+      },
+      "blurb": {
+        "en": "Chili con carne, often shortened to chili, is a spicy stew of Mexican origin containing chili peppers, meat, tomatoes, and beans.",
+        "vi": "Bò bằm hầm đậu và ớt."
+      }
+    },
+    {
+      "id": "in-tikka",
+      "qid": "Q654159",
+      "country": "IN",
+      "emoji": "🍛",
+      "localName": "Chicken tikka masala",
+      "tags": [],
+      "name": {
+        "en": "Chicken tikka masala",
+        "vi": "Gà Tikka Masala"
+      },
+      "blurb": {
+        "en": "Chicken tikka masala is a curry consisting of roasted marinated chicken pieces in a creamy spiced sauce.",
+        "vi": "Gà nướng trong sốt cà chua kem."
+      }
+    },
+    {
+      "id": "in-biryani",
+      "qid": "Q271555",
+      "country": "IN",
+      "emoji": "🍚",
+      "localName": "Biryani",
+      "tags": [
+        "spicy"
+      ],
+      "name": {
+        "en": "Biryani",
+        "vi": "Biryani"
+      },
+      "blurb": {
+        "en": "Biryani is a mixed rice dish traditionally made with spiced meat, seafood, or vegetables.",
+        "vi": "Cơm gạo basmati nấu với gia vị và thịt."
+      }
+    },
+    {
+      "id": "in-butterchicken",
+      "qid": "Q1322549",
+      "country": "IN",
+      "emoji": "🧈",
+      "localName": "Butter chicken",
+      "tags": [],
+      "name": {
+        "en": "Butter chicken",
+        "vi": "Gà sốt bơ"
+      },
+      "blurb": {
+        "en": "Butter chicken or murgh makhani is a curry made from chicken cooked in a spiced tomato and butter-based gravy.",
+        "vi": "Sốt bơ cà chua béo, ít cay. Chấm naan là hết sảy."
+      }
+    },
+    {
+      "id": "in-dal",
+      "qid": "Q1139389",
+      "country": "IN",
+      "emoji": "🫘",
+      "localName": "Dal tadka",
+      "tags": [
+        "soup",
+        "vegetarian"
+      ],
+      "name": {
+        "en": "Dal",
+        "vi": "Cà ri đậu lăng"
+      },
+      "blurb": {
+        "en": "Dal are dried, split pulses that can require soaking before cooking.",
+        "vi": "Đậu lăng hầm với thì là, tỏi phi."
+      }
+    },
+    {
+      "id": "in-samosa",
+      "qid": "Q491517",
+      "country": "IN",
+      "emoji": "🥟",
+      "localName": "Samosa",
+      "tags": [
+        "vegetarian"
+      ],
+      "name": {
+        "en": "Samosa",
+        "vi": "Samosa"
+      },
+      "blurb": {
+        "en": "A samosa or shingara is a fried Indian subcontinent turnover with a savoury filling that mostly consists of vegetables like spiced potatoes, onions, and peas, but can include cheese such as paneer, meat or even fish.",
+        "vi": "Bánh tam giác chiên nhân khoai tây cà ri."
+      }
+    },
+    {
+      "id": "in-paneer",
+      "qid": "Q5687757",
+      "country": "IN",
+      "emoji": "🧀",
+      "localName": "Palak paneer",
+      "tags": [
+        "vegetarian"
+      ],
+      "name": {
+        "en": "Palak paneer",
+        "vi": "Palak paneer"
+      },
+      "blurb": {
+        "en": "Palak paneer or palak chhena is a dish from the Indian subcontinent consisting of chhena or paneer in a thick paste made from puréed spinach, called palak in Hindi, Marathi, Gujarati, Punjabi and other Indian languages.",
+        "vi": "Phô mai tươi trong sốt rau chân vịt."
+      }
+    },
+    {
+      "id": "in-vindaloo",
+      "qid": "Q1339633",
+      "country": "IN",
+      "emoji": "🔥",
+      "localName": "Vindaloo",
+      "tags": [
+        "spicy"
+      ],
+      "name": {
+        "en": "Vindaloo",
+        "vi": "Vindaloo"
+      },
+      "blurb": {
+        "en": "Vindaloo is a curry dish known globally in its British form as a staple of curry houses and Indian restaurants, specifically a fiery, spicy dish that can be made with a choice of meats.",
+        "vi": "Cà ri cay nồng xứ Goa. Chỉ dành cho người gan dạ."
+      }
+    },
+    {
+      "id": "in-dosa",
+      "qid": "Q11771087",
+      "country": "IN",
+      "emoji": "🫓",
+      "localName": "Masala dosa",
+      "tags": [
+        "vegetarian"
+      ],
+      "name": {
+        "en": "Masala dosa",
+        "vi": "Masala dosa"
+      },
+      "blurb": {
+        "en": "Masala dosa is a dish of South India, consisting of a savoury dosa crepe stuffed with a spiced potato stir fry.",
+        "vi": "Bánh crepe gạo giòn cuộn khoai tây."
+      }
+    },
+    {
+      "id": "fr-croissant",
+      "qid": "Q207832",
+      "country": "FR",
+      "emoji": "🥐",
+      "localName": "Croissant",
+      "tags": [
+        "vegetarian"
+      ],
+      "name": {
+        "en": "Croissant",
+        "vi": "Bánh sừng bò"
+      },
+      "blurb": {
+        "en": "A croissant is a Viennoiserie in a crescent shape made from a laminated yeast dough that sits between a bread and a puff pastry.",
+        "vi": "Bánh sừng bò ngàn lớp, thơm bơ."
+      }
+    },
+    {
+      "id": "fr-bourguignon",
+      "qid": "Q1022124",
+      "country": "FR",
+      "emoji": "🍷",
+      "localName": "Bœuf bourguignon",
+      "tags": [],
+      "name": {
+        "en": "Beef bourguignon",
+        "vi": "Bœuf bourguignon"
+      },
+      "blurb": {
+        "en": "French wine-based beef stew",
+        "vi": "Bò hầm rượu vang với nấm và hành."
+      }
+    },
+    {
+      "id": "fr-onionsoup",
+      "qid": "Q244617",
+      "country": "FR",
+      "emoji": "🧅",
+      "localName": "Soupe à l'oignon",
+      "tags": [
+        "soup"
+      ],
+      "name": {
+        "en": "French onion soup",
+        "vi": "Súp hành Pháp"
+      },
+      "blurb": {
+        "en": "French onion soup is a soup of onions which are sautéed and then cooked in meat stock or water, usually served gratinéed with croutons or a larger piece of bread covered with cheese floating on top.",
+        "vi": "Hành tây caramel, phủ bánh mì và phô mai nướng."
+      }
+    },
+    {
+      "id": "fr-crepe",
+      "qid": "Q12200",
+      "country": "FR",
+      "emoji": "🥞",
+      "localName": "Crêpe",
+      "tags": [
+        "vegetarian"
+      ],
+      "name": {
+        "en": "Crêpe",
+        "vi": "Bánh kếp"
+      },
+      "blurb": {
+        "en": "A crêpe is a dish made from unleavened batter or dough that is cooked on a frying pan or a griddle.",
+        "vi": "Bánh kếp mỏng, ngọt hay mặn đều được."
+      }
+    },
+    {
+      "id": "fr-ratatouille",
+      "qid": "Q183095",
+      "country": "FR",
+      "emoji": "🍆",
+      "localName": "Ratatouille",
+      "tags": [
+        "vegetarian"
+      ],
+      "name": {
+        "en": "Ratatouille",
+        "vi": "Ratatouille"
+      },
+      "blurb": {
+        "en": "Ratatouille is a traditional French vegetable dish originating in the Provence region of southern France, particularly associated with Nice and its surrounding region.",
+        "vi": "Rau củ hầm kiểu Provence. Ai xem phim chuột đầu bếp sẽ biết."
+      }
+    },
+    {
+      "id": "fr-quiche",
+      "qid": "Q722595",
+      "country": "FR",
+      "emoji": "🥧",
+      "localName": "Quiche lorraine",
+      "tags": [],
+      "name": {
+        "en": "Quiche",
+        "vi": "Quiche"
+      },
+      "blurb": {
+        "en": "Quiche is a French tart consisting of a pastry case filled with savory custard and pieces of cheese, meat, seafood or vegetables.",
+        "vi": "Bánh tart trứng, kem và thịt xông khói."
+      }
+    },
+    {
+      "id": "fr-coqauvin",
+      "qid": "Q527323",
+      "country": "FR",
+      "emoji": "🐓",
+      "localName": "Coq au vin",
+      "tags": [],
+      "name": {
+        "en": "Coq au vin",
+        "vi": "Coq au vin"
+      },
+      "blurb": {
+        "en": "Coq au vin is a French dish of chicken braised with wine, lardons, mushrooms, and optionally garlic.",
+        "vi": "Gà hầm rượu vang, đậm và thơm."
+      }
+    },
+    {
+      "id": "fr-steakfrites",
+      "qid": "Q3497742",
+      "country": "FR",
+      "emoji": "🍟",
+      "localName": "Steak frites",
+      "tags": [],
+      "name": {
+        "en": "Steak frites",
+        "vi": "Steak frites"
+      },
+      "blurb": {
+        "en": "Steak frites, meaning \"steak [and] chipped potatoes\" in French, is a dish consisting of beefsteak accompanied by fried chipped potatoes.",
+        "vi": "Bò áp chảo kèm khoai tây chiên giòn."
+      }
+    },
+    {
+      "id": "sg-chickenrice",
+      "qid": "Q3239751",
+      "country": "SG",
+      "emoji": "🍗",
+      "localName": "Chicken rice",
+      "tags": [],
+      "name": {
+        "en": "Hainanese chicken rice",
+        "vi": "Cơm gà Hải Nam"
+      },
+      "blurb": {
+        "en": "Hainanese chicken rice is a dish of poached or roasted chicken with seasoned rice, served with chilli sauce and usually with cucumbers, tomato slices or cilantro garnishes.",
+        "vi": "Món quốc dân của Singapore: gà luộc mềm, cơm nấu nước gà, chấm tương ớt gừng."
+      }
+    },
+    {
+      "id": "sg-chillicrab",
+      "qid": "Q841908",
+      "country": "SG",
+      "emoji": "🦀",
+      "localName": "Chilli crab",
+      "tags": [
+        "spicy"
+      ],
+      "name": {
+        "en": "Chilli crab",
+        "vi": "Cua sốt ớt"
+      },
+      "blurb": {
+        "en": "Chilli crab is a Southeast Asian seafood dish popular in Malaysian and Singaporean cuisines.",
+        "vi": "Cua xào sốt cà chua ớt sánh đặc, chấm bánh mantou chiên."
+      }
+    },
+    {
+      "id": "sg-laksa",
+      "qid": "Q934095",
+      "country": "SG",
+      "emoji": "🍜",
+      "localName": "Katong laksa",
+      "tags": [
+        "soup",
+        "spicy"
+      ],
+      "name": {
+        "en": "Laksa",
+        "vi": "Bún Laksa"
+      },
+      "blurb": {
+        "en": "Laksa is a spicy noodle dish popular in Southeast Asia.",
+        "vi": "Mì trong nước cốt dừa cà ri cay, tôm, sò huyết, đậu hũ chiên."
+      }
+    },
+    {
+      "id": "sg-charkwayteow",
+      "qid": "Q5073693",
+      "country": "SG",
+      "emoji": "🍳",
+      "localName": "Char kway teow",
+      "tags": [],
+      "name": {
+        "en": "Char kway teow",
+        "vi": "Hủ tiếu xào Char kway teow"
+      },
+      "blurb": {
+        "en": "Char kway teow is a stir-fried rice noodle dish from Maritime Southeast Asia.",
+        "vi": "Bánh phở xào chảo lửa lớn với xì dầu đen, lạp xưởng, sò, giá."
+      }
+    },
+    {
+      "id": "sg-bakkutteh",
+      "qid": "Q983160",
+      "country": "SG",
+      "emoji": "🍲",
+      "localName": "Bak kut teh",
+      "tags": [
+        "soup"
+      ],
+      "name": {
+        "en": "Bak kut teh",
+        "vi": "Canh sườn Bak kut teh"
+      },
+      "blurb": {
+        "en": "Bak kut teh is a pork rib dish cooked in broth popularly served in Malaysia and Singapore where there is a predominant Hoklo and Teochew community.",
+        "vi": "Sườn heo hầm tiêu và tỏi, ăn với quẩy và trà nóng."
+      }
+    },
+    {
+      "id": "sg-kayatoast",
+      "qid": "Q6380358",
+      "country": "SG",
+      "emoji": "🍞",
+      "localName": "Kaya toast",
+      "tags": [
+        "vegetarian"
+      ],
+      "name": {
+        "en": "Kaya toast",
+        "vi": "Bánh mì kaya"
+      },
+      "blurb": {
+        "en": "Kaya toast is a dish consisting of two slices of toast with butter and kaya, commonly served alongside kopi and soft-boiled eggs.",
+        "vi": "Bánh mì nướng giòn kẹp mứt dừa kaya và bơ, ăn với trứng lòng đào."
+      }
+    },
+    {
+      "id": "sg-satay",
+      "qid": "Q209253",
+      "country": "SG",
+      "emoji": "🍢",
+      "localName": "Satay",
+      "tags": [],
+      "name": {
+        "en": "Satay",
+        "vi": "Xiên nướng Satay"
+      },
+      "blurb": {
+        "en": "Satay or sate is a Southeast Asian dish consisting of small pieces of seasoned meat, seafood or vegetables skewered on sticks and grilled over charcoal.",
+        "vi": "Xiên thịt nướng than, chấm sốt đậu phộng ngọt bùi."
+      }
+    },
+    {
+      "id": "sg-hokkienmee",
+      "qid": "Q1624233",
+      "country": "SG",
+      "emoji": "🍝",
+      "localName": "Hokkien prawn mee",
+      "tags": [],
+      "name": {
+        "en": "Hokkien prawn mee",
+        "vi": "Mì xào tôm Phúc Kiến"
+      },
+      "blurb": {
+        "en": "Hokkien mee, meaning \"Fujian noodles\" in Southern Min, is a group of related Southeast Asian dishes that have their origins in the cuisine of China's Fujian province.",
+        "vi": "Mì trứng và bún xào trong nước dùng tôm đậm đà, vắt chanh."
+      }
+    },
+    {
+      "id": "sg-rotiprata",
+      "qid": "Q2039365",
+      "country": "SG",
+      "emoji": "🫓",
+      "localName": "Roti prata",
+      "tags": [
+        "vegetarian"
+      ],
+      "name": {
+        "en": "Roti prata",
+        "vi": "Bánh roti prata"
+      },
+      "blurb": {
+        "en": "Crispy, flaky pan-fried flatbread served with curry for dipping.",
+        "vi": "Bánh kếp chiên giòn nhiều lớp, chấm cà ri."
+      }
+    },
+    {
+      "id": "sg-nasilemak",
+      "qid": "Q1420553",
+      "country": "SG",
+      "emoji": "🍚",
+      "localName": "Nasi lemak",
+      "tags": [
+        "spicy"
+      ],
+      "name": {
+        "en": "Nasi lemak",
+        "vi": "Cơm dừa Nasi lemak"
+      },
+      "blurb": {
+        "en": "Nasi lemak is a dish originating in Malay cuisine that consists of rice cooked in coconut milk and pandan leaf.",
+        "vi": "Cơm nấu nước cốt dừa, ăn với cá cơm chiên, đậu phộng, trứng và sambal cay."
+      }
+    }
+  ]
+}
