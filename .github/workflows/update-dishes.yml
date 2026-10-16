@@ -24,7 +24,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # Always build on the latest main, even for "Re-run" of an old run,
+      # so the commit below never conflicts with one an earlier run pushed.
       - uses: actions/checkout@v5
+        with:
+          ref: main
 
       - uses: actions/setup-python@v6
         with:
@@ -46,7 +50,8 @@ jobs:
             echo "No dish changes"
           else
             git commit -m "Update dishes $(date -u +%F)"
-            git push
+            git pull --rebase origin main
+            git push origin HEAD:main
           fi
 
       - uses: actions/configure-pages@v5
