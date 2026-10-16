@@ -2174,5 +2174,693 @@
    "vi": "Món hầm nhừ từ thịt và lúa mì béo ngậy đặc sản Hyderabad."
   },
   "addedAt": "2026-10-16"
+ },
+ {
+  "id": "vn-snail-rice-vermicelli-soup-q5005251",
+  "qid": "Q5005251",
+  "country": "VN",
+  "emoji": "🐌",
+  "localName": "Bún ốc",
+  "name": {
+   "en": "Snail rice vermicelli soup",
+   "vi": "Bún ốc"
+  },
+  "blurb": {
+   "en": "Tangy, spicy snail noodle soup bursting with fresh herbs and tomatoes.",
+   "vi": "Bún ốc chua cay thanh mát ăn kèm rau sống và dọc mùng giòn sần sật."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "vn-rice-porridge-with-pork-offal-q10748166",
+  "qid": "Q10748166",
+  "country": "VN",
+  "emoji": "🥣",
+  "localName": "Cháo lòng",
+  "name": {
+   "en": "Rice porridge with pork offal",
+   "vi": "Cháo lòng"
+  },
+  "blurb": {
+   "en": "Savory rice porridge simmered with rich pork broth and assorted organ meats.",
+   "vi": "Tô cháo lòng nóng hổi sánh mịn ăn cùng lòng heo luộc giòn sần sật."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "vn-grilled-pork-sausage-q19893634",
+  "qid": "Q19893634",
+  "country": "VN",
+  "emoji": "🍢",
+  "localName": "Nem nướng",
+  "name": {
+   "en": "Grilled pork sausage",
+   "vi": "Nem nướng"
+  },
+  "blurb": {
+   "en": "Smoky, sweet grilled pork skewers often wrapped in rice paper rolls.",
+   "vi": "Nem nướng thơm phức cuốn bánh tráng cùng rau sống và chấm nước lèo."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "jp-monjayaki-q167692",
+  "qid": "Q167692",
+  "country": "JP",
+  "emoji": "🥞",
+  "localName": "もんじゃ焼き",
+  "name": {
+   "en": "Monjayaki",
+   "vi": "Bánh monjayaki"
+  },
+  "blurb": {
+   "en": "Pan-fried batter dish from Tokyo with a delightfully runny texture.",
+   "vi": "Món bánh bột chiên chảo từ Tokyo với kết cấu lỏng thú vị."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "jp-yakisoba-q1144102",
+  "qid": "Q1144102",
+  "country": "JP",
+  "emoji": "🍝",
+  "localName": "焼きそば",
+  "name": {
+   "en": "Yakisoba",
+   "vi": "Mì xào yakisoba"
+  },
+  "blurb": {
+   "en": "Tantalizing stir-fried wheat noodles tossed with crisp vegetables and savory sauce.",
+   "vi": "Mì lúa mì xào hấp dẫn trộn cùng rau củ giòn và sốt đậm đà."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "jp-edamame-q1377879",
+  "qid": "Q1377879",
+  "country": "JP",
+  "emoji": "🫛",
+  "localName": "枝豆",
+  "name": {
+   "en": "Edamame",
+   "vi": "Đậu nành Nhật"
+  },
+  "blurb": {
+   "en": "Tender young soybeans boiled in the pod and sprinkled with coarse salt.",
+   "vi": "Hạt đậu nành non luộc trong vỏ rắc muối hạt đậm đà."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "jp-nikuman-q1091253",
+  "qid": "Q1091253",
+  "country": "JP",
+  "emoji": "🥟",
+  "localName": "肉まん",
+  "name": {
+   "en": "Nikuman",
+   "vi": "Bánh bao nhân thịt"
+  },
+  "blurb": {
+   "en": "Fluffy steamed buns generously stuffed with a juicy minced pork filling.",
+   "vi": "Chiếc bánh bao mềm xốp nhồi đầy nhân thịt heo băm mọng nước."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "jp-omurice-q427226",
+  "qid": "Q427226",
+  "country": "JP",
+  "emoji": "🍳",
+  "localName": "オムライス",
+  "name": {
+   "en": "Omurice",
+   "vi": "Cơm cuộn trứng"
+  },
+  "blurb": {
+   "en": "Savory ketchup fried rice snugly wrapped in a velvety soft omelet.",
+   "vi": "Cơm chiên sốt cà chua đậm đà được bọc khéo léo trong lớp trứng ốp lết mềm mịn."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "kr-ginseng-chicken-soup-q1335219",
+  "qid": "Q1335219",
+  "country": "KR",
+  "emoji": "🍲",
+  "localName": "삼계탕",
+  "name": {
+   "en": "Ginseng chicken soup",
+   "vi": "Canh gà nhân sâm"
+  },
+  "blurb": {
+   "en": "Nourishing whole chicken soup stuffed with ginseng and jujubes.",
+   "vi": "Món canh gà nguyên con tẩm bổ với nhân sâm và táo đỏ."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "th-isan-fermented-sausage-q18353389",
+  "qid": "Q18353389",
+  "country": "TH",
+  "emoji": "🌭",
+  "localName": "ไส้กรอกอีสาน",
+  "name": {
+   "en": "Isan fermented sausage",
+   "vi": "Xúc xích chua Đông Bắc Thái"
+  },
+  "blurb": {
+   "en": "Tangy and savory fermented pork and rice sausages grilled to perfection.",
+   "vi": "Xúc xích heo và gạo lên men có vị chua thanh nướng thơm phức."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "th-thai-chili-paste-q4922876",
+  "qid": "Q4922876",
+  "country": "TH",
+  "emoji": "🌶️",
+  "localName": "น้ำพริก",
+  "name": {
+   "en": "Thai chili paste",
+   "vi": "Kho quẹt kiểu Thái"
+  },
+  "blurb": {
+   "en": "Traditional spicy chili dips served alongside fresh vegetables and rice.",
+   "vi": "Các loại sốt ớt truyền thống ăn kèm rau sống và cơm trắng."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "sg-black-pepper-crab-q4922421",
+  "qid": "Q4922421",
+  "country": "SG",
+  "emoji": "🦀",
+  "localName": "黑胡椒蟹",
+  "name": {
+   "en": "Black pepper crab",
+   "vi": "Cua sốt tiêu đen"
+  },
+  "blurb": {
+   "en": "Juicy crab wok-tossed in a pungent, spicy black pepper sauce.",
+   "vi": "Cua tươi mọng nước xảo chảo với sốt tiêu đen cay nồng."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "sg-prawn-paste-chicken-q22099440",
+  "qid": "Q22099440",
+  "country": "SG",
+  "emoji": "🍗",
+  "localName": "虾酱鸡",
+  "name": {
+   "en": "Prawn paste chicken",
+   "vi": "Gà chiên mắm tôm"
+  },
+  "blurb": {
+   "en": "Crispy chicken wings marinated in pungent fermented prawn paste.",
+   "vi": "Cánh gà giòn rụm được ướp với mắm tôm lên men đặc trưng."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "sg-mee-pok-q6807485",
+  "qid": "Q6807485",
+  "country": "SG",
+  "emoji": "🍜",
+  "localName": "面薄",
+  "name": {
+   "en": "Mee pok",
+   "vi": "Mì dẹt Singapore"
+  },
+  "blurb": {
+   "en": "Flat yellow egg noodles tossed in spicy chili paste and vinegar.",
+   "vi": "Mì trứng vàng dẹt trộn với sốt ớt cay và giấm."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "sg-orh-jian-q710618",
+  "qid": "Q710618",
+  "country": "SG",
+  "emoji": "🦪",
+  "localName": "蚝煎",
+  "name": {
+   "en": "Orh Jian",
+   "vi": "Trứng chiên hàu"
+  },
+  "blurb": {
+   "en": "Savory pan-fried egg omelette with plump oysters and starch.",
+   "vi": "Trứng chiên chảo đậm đà với những con hàu mọng sữa và bột năng."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "sg-sambal-stingray-q17053542",
+  "qid": "Q17053542",
+  "country": "SG",
+  "emoji": "🐟",
+  "localName": "叁峇 Stingray",
+  "name": {
+   "en": "Sambal stingray",
+   "vi": "Cá đuối sốt ớt sambal"
+  },
+  "blurb": {
+   "en": "Grilled stingray slathered in spicy, aromatic sambal chili paste.",
+   "vi": "Cá đuối nướng phết đẫm sốt ớt sambal cay nồng thơm lừng."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "cn-beef-chow-fun-q837647",
+  "qid": "Q837647",
+  "country": "CN",
+  "emoji": "🥢",
+  "localName": "干炒牛河",
+  "name": {
+   "en": "Beef Chow Fun",
+   "vi": "Mì xào bò"
+  },
+  "blurb": {
+   "en": "Wok-fried flat rice noodles with tender beef slices and bean sprouts.",
+   "vi": "Bánh phở xảo chảo lửa lớn với thịt bò mềm và giá đỗ."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "cn-chinese-dumplings-q640769",
+  "qid": "Q640769",
+  "country": "CN",
+  "emoji": "🥟",
+  "localName": "饺子",
+  "name": {
+   "en": "Chinese Dumplings",
+   "vi": "Sủi cảo"
+  },
+  "blurb": {
+   "en": "Sealed wheat dough pockets filled with meat and vegetables.",
+   "vi": "Gói bột mì bọc nhân thịt và rau củ thơm ngon."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "it-cacio-e-pepe-q5016033",
+  "qid": "Q5016033",
+  "country": "IT",
+  "emoji": "🍝",
+  "localName": "Cacio e pepe",
+  "name": {
+   "en": "Cacio e Pepe",
+   "vi": "Mì phô mai tiêu Cacio e Pepe"
+  },
+  "blurb": {
+   "en": "Roman pasta dish made with simple grated pecorino cheese and black pepper.",
+   "vi": "Món mì Ý sốt phô mai pecorino béo ngậy và tiêu đen cay thơm hấp dẫn."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "it-fettuccine-alfredo-q2915859",
+  "qid": "Q2915859",
+  "country": "IT",
+  "emoji": "🍝",
+  "localName": "Fettuccine Alfredo",
+  "name": {
+   "en": "Fettuccine Alfredo",
+   "vi": "Mì sốt bơ phô mai Fettuccine Alfredo"
+  },
+  "blurb": {
+   "en": "Rich pasta dish tossed in butter and aged Parmigiano-Reggiano cheese.",
+   "vi": "Món mì dẹt trộn bơ thơm lừng và phô mai Parmigiano-Reggiano đậm đà."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "it-caprese-salad-q568364",
+  "qid": "Q568364",
+  "country": "IT",
+  "emoji": "🥗",
+  "localName": "Insalata Caprese",
+  "name": {
+   "en": "Caprese Salad",
+   "vi": "Salad Caprese"
+  },
+  "blurb": {
+   "en": "Refreshing salad featuring sliced fresh mozzarella, tomatoes, and sweet basil.",
+   "vi": "Món salad thanh mát gồm phô mai mozzarella tươi, cà chua và húng quế."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "it-ribollita-q1559248",
+  "qid": "Q1559248",
+  "country": "IT",
+  "emoji": "🥣",
+  "localName": "Ribollita",
+  "name": {
+   "en": "Ribollita",
+   "vi": "Súp bánh mì rau củ Ribollita"
+  },
+  "blurb": {
+   "en": "Hearty Tuscan bread soup thickened with white beans, kale, and vegetables.",
+   "vi": "Món súp bánh mì vùng Toscana đậm đà nấu cùng đậu trắng và rau cải."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "it-pasta-alla-norma-q548521",
+  "qid": "Q548521",
+  "country": "IT",
+  "emoji": "🍝",
+  "localName": "Pasta alla Norma",
+  "name": {
+   "en": "Pasta alla Norma",
+   "vi": "Mì Ý sốt cà tím Pasta alla Norma"
+  },
+  "blurb": {
+   "en": "Sicilian pasta tossed with fried eggplant, tomatoes, ricotta salata, and basil.",
+   "vi": "Món mì Sicilia trộn cà tím chiên, cà chua, phô mai ricotta và húng quế."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "it-porchetta-q1106345",
+  "qid": "Q1106345",
+  "country": "IT",
+  "emoji": "🥩",
+  "localName": "Porchetta",
+  "name": {
+   "en": "Porchetta",
+   "vi": "Thịt lợn quay cuộn thảo mộc Porchetta"
+  },
+  "blurb": {
+   "en": "Savory, fatty, and moist suckling pig roast stuffed with aromatic herbs.",
+   "vi": "Thịt lợn sữa quay tẩm ướp thảo mộc thơm lừng với lớp da giòn rụm."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "it-saltimbocca-q1060834",
+  "qid": "Q1060834",
+  "country": "IT",
+  "emoji": "🥩",
+  "localName": "Saltimbocca",
+  "name": {
+   "en": "Saltimbocca",
+   "vi": "Thịt bê cuộn giăm bông Saltimbocca"
+  },
+  "blurb": {
+   "en": "Tender veal cutlets wrapped with prosciutto and sage, cooked in white wine.",
+   "vi": "Thịt bê mềm cuộn giăm bông prosciutto và lá xô thơm áp chảo rượu vang."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "us-tuna-salad-q2884546",
+  "qid": "Q2884546",
+  "country": "US",
+  "emoji": "🥗",
+  "localName": "Tuna salad",
+  "name": {
+   "en": "Tuna salad",
+   "vi": "Sa-lát cá ngừ"
+  },
+  "blurb": {
+   "en": "A creamy blend of canned tuna, mayonnaise, and seasonings.",
+   "vi": "Hỗn hợp cá ngừ đóng hộp, sốt mayonnaise và gia vị béo ngậy."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "us-egg-salad-q558625",
+  "qid": "Q558625",
+  "country": "US",
+  "emoji": "🥚",
+  "localName": "Egg salad",
+  "name": {
+   "en": "Egg salad",
+   "vi": "Sa-lát trứng"
+  },
+  "blurb": {
+   "en": "Hard-boiled eggs mixed with mayonnaise and mustard.",
+   "vi": "Trứng luộc chín trộn với sốt mayonnaise và mù tạt."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "us-lobster-roll-q3122402",
+  "qid": "Q3122402",
+  "country": "US",
+  "emoji": "🦞",
+  "localName": "Lobster roll",
+  "name": {
+   "en": "Lobster roll",
+   "vi": "Bánh mì kẹp tôm hùm"
+  },
+  "blurb": {
+   "en": "Sweet lobster meat served in a grilled hot dog-style bun.",
+   "vi": "Thịt tôm hùm ngọt ngọt kẹp trong bánh mì nướng."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "us-bagel-with-cream-cheese-q34421086",
+  "qid": "Q34421086",
+  "country": "US",
+  "emoji": "🥯",
+  "localName": "Bagel and cream cheese",
+  "name": {
+   "en": "Bagel with cream cheese",
+   "vi": "Bánh vòng phô mai"
+  },
+  "blurb": {
+   "en": "Chewy ring-shaped bread served toasted with thick cream cheese.",
+   "vi": "Bánh mì hình vòng dẻo dai ăn kèm phô mai tươi béo."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "us-peanut-butter-and-jelly-sandwich-q1369093",
+  "qid": "Q1369093",
+  "country": "US",
+  "emoji": "🥪",
+  "localName": "PB&J sandwich",
+  "name": {
+   "en": "Peanut butter and jelly sandwich",
+   "vi": "Bánh mì bơ đậu phộng và mứt"
+  },
+  "blurb": {
+   "en": "Classic sandwich spread with peanut butter and fruit jelly.",
+   "vi": "Món bánh mì kẹp phết bơ đậu phộng và mứt trái cây kinh điển."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "us-pigs-in-a-blanket-q105550816",
+  "qid": "Q105550816",
+  "country": "US",
+  "emoji": "🌭",
+  "localName": "Pigs in a blanket",
+  "name": {
+   "en": "Pigs in a blanket",
+   "vi": "Xúc xích bọc bột nướng"
+  },
+  "blurb": {
+   "en": "Sausages wrapped in flaky pastry dough and baked golden.",
+   "vi": "Xúc xích được cuộn trong lớp bột ngàn lớp nướng vàng ruộm."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "us-deviled-eggs-q551458",
+  "qid": "Q551458",
+  "country": "US",
+  "emoji": "🥚",
+  "localName": "Deviled eggs",
+  "name": {
+   "en": "Deviled eggs",
+   "vi": "Trứng nhồi mayonnaise"
+  },
+  "blurb": {
+   "en": "Hard-boiled egg halves filled with a seasoned yolk paste.",
+   "vi": "Trứng luộc cắt đôi nhồi phần lòng đỏ trộn gia vị béo ngậy."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "mx-aguachile-q19949631",
+  "qid": "Q19949631",
+  "country": "MX",
+  "emoji": "🦐",
+  "localName": "Aguachile",
+  "name": {
+   "en": "Aguachile",
+   "vi": "Gỏi hải sản ớt chanh"
+  },
+  "blurb": {
+   "en": "Fresh shrimp marinated in lime juice, cucumber, cilantro, and fiery green chilis.",
+   "vi": "Tôm tươi ướp nước cốt chanh, dưa chuột, rau mùi và ớt xanh cay xè."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "mx-tlayuda-q7810735",
+  "qid": "Q7810735",
+  "country": "MX",
+  "emoji": "🫓",
+  "localName": "Tlayuda",
+  "name": {
+   "en": "Tlayuda",
+   "vi": "Bánh pizza Oaxacan"
+  },
+  "blurb": {
+   "en": "A large, crunchy tortilla topped with refried beans, asiento, cheese, and meats.",
+   "vi": "Bánh ngô nướng giòn rụm phủ đậu nhừ, mỡ heo, phô mai và thịt thơm ngon."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "in-gulab-jamun-q1554207",
+  "qid": "Q1554207",
+  "country": "IN",
+  "emoji": "🍩",
+  "localName": "गुab जाmun",
+  "name": {
+   "en": "Gulab jamun",
+   "vi": "Gulab jamun"
+  },
+  "blurb": {
+   "en": "Deep-fried milk-solid balls soaked in rose-flavored sugar syrup.",
+   "vi": "Những viên sữa chiên giòn ngâm trong nước đường thơm hương hoa hồng."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "in-dhokla-q171983",
+  "qid": "Q171983",
+  "country": "IN",
+  "emoji": "🥮",
+  "localName": "ढोकला",
+  "name": {
+   "en": "Dhokla",
+   "vi": "Dhokla"
+  },
+  "blurb": {
+   "en": "A savory, spongy fermented chickpea cake tempered with mustard seeds.",
+   "vi": "Bánh bột đậu lên men xốp mềm đậm vị, rắc hạt mù tạt thơm lừng."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "in-jalebi-q59139",
+  "qid": "Q59139",
+  "country": "IN",
+  "emoji": "🥨",
+  "localName": "जलेबी",
+  "name": {
+   "en": "Jalebi",
+   "vi": "Jalebi"
+  },
+  "blurb": {
+   "en": "Crispy, pretzel-shaped wheat flour spirals soaked in saffron syrup.",
+   "vi": "Bánh bột mì hình xoắn ốc giòn rụm thấm đẫm si-rô nghệ tây."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "in-medu-vada-q2723131",
+  "qid": "Q2723131",
+  "country": "IN",
+  "emoji": "🍩",
+  "localName": "वड़ा",
+  "name": {
+   "en": "Medu vada",
+   "vi": "Medu vada"
+  },
+  "blurb": {
+   "en": "Crispy, savory lentil doughnuts with a fluffy interior.",
+   "vi": "Bánh rán đậu lăng hình vành khuyên giòn rụm bên ngoài, xốp mềm bên trong."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "in-dal-tadka-q126961970",
+  "qid": "Q126961970",
+  "country": "IN",
+  "emoji": "🍲",
+  "localName": "दाल तड़का",
+  "name": {
+   "en": "Dal tadka",
+   "vi": "Dal tadka"
+  },
+  "blurb": {
+   "en": "Yellow lentils tempered with sizzling ghee, garlic, and hot chili.",
+   "vi": "Đậu lăng vàng nấu nhừ với bơ ghee phi tỏi ớt thơm phức."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "fr-nicoise-salad-q209486",
+  "qid": "Q209486",
+  "country": "FR",
+  "emoji": "🥗",
+  "localName": "Salade niçoise",
+  "name": {
+   "en": "Nicoise salad",
+   "vi": "Salad kiểu Nice"
+  },
+  "blurb": {
+   "en": "A refreshing Provençal salad featuring tuna, tomatoes, olives, and eggs.",
+   "vi": "Món salad miền Nam tươi mát gồm cá ngừ, cà chua, ô liu và trứng."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "fr-raclette-q20748",
+  "qid": "Q20748",
+  "country": "FR",
+  "emoji": "🧀",
+  "localName": "Raclette",
+  "name": {
+   "en": "Raclette",
+   "vi": "Phô mai nướng Raclette"
+  },
+  "blurb": {
+   "en": "Melted cheese scraped over potatoes, pickles, and cured meats.",
+   "vi": "Phô mai tan chảy cạo lên khoai tây, dưa chuột muối và thịt nguội."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "fr-cheese-fondue-q190531",
+  "qid": "Q190531",
+  "country": "FR",
+  "emoji": "🫕",
+  "localName": "Fondue savoyarde",
+  "name": {
+   "en": "Cheese fondue",
+   "vi": "Lẩu phô mai"
+  },
+  "blurb": {
+   "en": "Melted Alpine cheese enjoyed by dipping pieces of bread.",
+   "vi": "Phô mai núi Alps tan chảy dùng để nhúng bánh mì."
+  },
+  "addedAt": "2026-10-16"
+ },
+ {
+  "id": "fr-blanquette-de-veau-q1191278",
+  "qid": "Q1191278",
+  "country": "FR",
+  "emoji": "🍲",
+  "localName": "Blanquette de veau",
+  "name": {
+   "en": "Blanquette de veau",
+   "vi": "Thịt bê hầm sốt kem"
+  },
+  "blurb": {
+   "en": "Tender veal pieces simmered in a rich, velvety white cream sauce.",
+   "vi": "Thịt bê mềm hầm trong nước sốt kem trắng sánh mịn."
+  },
+  "addedAt": "2026-10-16"
  }
 ]
