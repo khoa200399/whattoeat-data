@@ -8,7 +8,7 @@ https://<your-github-username>.github.io/whattoeat-data/dishes.json
 
 ## How it works
 
-Every Monday (or when you press **Run workflow**), GitHub Actions runs `build_dishes.py`:
+Every day at midnight Vietnam time (or when you press **Run workflow**), GitHub Actions runs `build_dishes.py`:
 
 1. **Curated dishes** come from `dish-seed.json`. Their names, descriptions, emoji and tags are hand-checked and never overwritten.
 2. **New dishes:** Gemini suggests popular dishes for each country, with English and Vietnamese names, a short description, an emoji and tags from `tags.json`. Each suggestion is kept only if [QLever](https://qlever.dev) finds its English Wikipedia article on Wikidata and Wikidata classes it as food, so made-up dishes are dropped. Kept dishes are added to `discovered.json`, until each country has 30.
