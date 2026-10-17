@@ -302,6 +302,12 @@
   "soup": false,
   "noodles": false
  },
+ "in-kheer-q59134": {
+  "spicy": false,
+  "vegetarian": true,
+  "soup": false,
+  "noodles": false
+ },
  "in-medu-vada-q2723131": {
   "spicy": false,
   "vegetarian": true,
@@ -329,6 +335,12 @@
   "vegetarian": true,
   "noodles": false
  },
+ "in-ras-malai-q5656299": {
+  "spicy": false,
+  "vegetarian": true,
+  "soup": false,
+  "noodles": false
+ },
  "in-rasgulla-q3349224": {
   "spicy": false,
   "vegetarian": true,
@@ -345,6 +357,18 @@
   "spicy": true,
   "soup": false,
   "vegetarian": false,
+  "noodles": false
+ },
+ "in-saag-q2748359": {
+  "spicy": true,
+  "vegetarian": true,
+  "soup": false,
+  "noodles": false
+ },
+ "in-sambar-q188420": {
+  "spicy": true,
+  "vegetarian": true,
+  "soup": true,
   "noodles": false
  },
  "in-samosa": {
@@ -521,10 +545,22 @@
  "jp-katsudon": {
   "noodles": false
  },
+ "jp-matcha-q822331": {
+  "spicy": false,
+  "vegetarian": false,
+  "soup": false,
+  "noodles": false
+ },
  "jp-miso-soup-q471866": {
   "spicy": false,
   "soup": true,
   "vegetarian": false,
+  "noodles": false
+ },
+ "jp-mochi-q470519": {
+  "spicy": false,
+  "vegetarian": true,
+  "soup": false,
   "noodles": false
  },
  "jp-monjayaki-q167692": {
@@ -713,6 +749,12 @@
   "vegetarian": false,
   "noodles": false
  },
+ "kr-dumpling-soup-q851714": {
+  "spicy": false,
+  "vegetarian": false,
+  "soup": true,
+  "noodles": false
+ },
  "kr-ginseng-chicken-soup-q1335219": {
   "spicy": false,
   "vegetarian": false,
@@ -767,6 +809,18 @@
   "vegetarian": false,
   "noodles": false
  },
+ "kr-spicy-cold-buckwheat-noodles-q12476145": {
+  "spicy": true,
+  "vegetarian": false,
+  "soup": false,
+  "noodles": true
+ },
+ "kr-spicy-seafood-noodle-soup-q17063016": {
+  "spicy": true,
+  "vegetarian": false,
+  "soup": true,
+  "noodles": true
+ },
  "kr-sundubu": {
   "noodles": false
  },
@@ -801,6 +855,12 @@
   "noodles": false
  },
  "mx-cemita-q109353074": {
+  "spicy": true,
+  "vegetarian": false,
+  "soup": false,
+  "noodles": false
+ },
+ "mx-ceviche-q1057953": {
   "spicy": true,
   "vegetarian": false,
   "soup": false,

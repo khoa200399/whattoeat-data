@@ -3086,5 +3086,165 @@
    "vi": "Bánh nướng mặn kiểu Pháp nhân kem trứng béo ngậy và thịt xông khói thơm lừng."
   },
   "addedAt": "2026-10-16"
+ },
+ {
+  "id": "jp-matcha-q822331",
+  "qid": "Q822331",
+  "country": "JP",
+  "emoji": "🍵",
+  "localName": "抹茶",
+  "name": {
+   "en": "Matcha",
+   "vi": "Trà xanh matcha"
+  },
+  "blurb": {
+   "en": "Fine powder of specially grown and processed green tea leaves.",
+   "vi": "Bột trà xanh mịn màng có hương vị thơm ngon đặc trưng."
+  },
+  "addedAt": "2026-10-17"
+ },
+ {
+  "id": "jp-mochi-q470519",
+  "qid": "Q470519",
+  "country": "JP",
+  "emoji": "🍡",
+  "localName": "餅",
+  "name": {
+   "en": "Mochi",
+   "vi": "Bánh mochi"
+  },
+  "blurb": {
+   "en": "Chewy Japanese rice cake made from mochigome pounded into paste.",
+   "vi": "Bánh gạo dẻo ngọt ngào truyền thống của ẩm thực Nhật Bản."
+  },
+  "addedAt": "2026-10-17"
+ },
+ {
+  "id": "kr-dumpling-soup-q851714",
+  "qid": "Q851714",
+  "country": "KR",
+  "emoji": "🥟",
+  "localName": "만두국",
+  "name": {
+   "en": "Dumpling soup",
+   "vi": "Canh sủi cảo Hàn Quốc"
+  },
+  "blurb": {
+   "en": "Hearty broth filled with delicious Korean dumplings and vegetables.",
+   "vi": "Nước dùng đậm đà tràn ngập những chiếc há cảo Hàn Quốc thơm ngon và rau củ."
+  },
+  "addedAt": "2026-10-17"
+ },
+ {
+  "id": "kr-spicy-seafood-noodle-soup-q17063016",
+  "qid": "Q17063016",
+  "country": "KR",
+  "emoji": "🌶️",
+  "localName": "짬뽕",
+  "name": {
+   "en": "Spicy seafood noodle soup",
+   "vi": "Mì hải sản cay"
+  },
+  "blurb": {
+   "en": "Fiery noodle soup packed with an abundance of fresh seafood and vegetables.",
+   "vi": "Tô mì cay nồng ngập tràn hải sản tươi ngon và các loại rau củ."
+  },
+  "addedAt": "2026-10-17"
+ },
+ {
+  "id": "kr-spicy-cold-buckwheat-noodles-q12476145",
+  "qid": "Q12476145",
+  "country": "KR",
+  "emoji": "🌶️",
+  "localName": "비빔냉면",
+  "name": {
+   "en": "Spicy cold buckwheat noodles",
+   "vi": "Mì lạnh trộn cay"
+  },
+  "blurb": {
+   "en": "Chewy buckwheat noodles tossed in a sharp, sweet and spicy gochujang sauce.",
+   "vi": "Mì kiều mạch dai trộn đều với sốt ớt gochujang cay ngọt đậm đà."
+  },
+  "addedAt": "2026-10-17"
+ },
+ {
+  "id": "mx-ceviche-q1057953",
+  "qid": "Q1057953",
+  "country": "MX",
+  "emoji": "🐟",
+  "localName": "Ceviche",
+  "name": {
+   "en": "Ceviche",
+   "vi": "Gỏi hải sản tươi sống"
+  },
+  "blurb": {
+   "en": "Fresh raw fish cured in citrus juices with chili, onions and cilantro.",
+   "vi": "Cá tươi ướp nước cốt chanh chua ngọt cùng ớt, hành tây và ngò rí."
+  },
+  "addedAt": "2026-10-17"
+ },
+ {
+  "id": "in-saag-q2748359",
+  "qid": "Q2748359",
+  "country": "IN",
+  "emoji": "🥬",
+  "localName": "साग",
+  "name": {
+   "en": "Saag",
+   "vi": "Saag"
+  },
+  "blurb": {
+   "en": "Deliciously spiced leafy greens cooked to smooth perfection.",
+   "vi": "Món rau xanh nấu nhừ kết hợp gia vị thơm ngon."
+  },
+  "addedAt": "2026-10-17"
+ },
+ {
+  "id": "in-sambar-q188420",
+  "qid": "Q188420",
+  "country": "IN",
+  "emoji": "🥣",
+  "localName": "साambar",
+  "name": {
+   "en": "Sambar",
+   "vi": "Sambar"
+  },
+  "blurb": {
+   "en": "Tangy and spicy lentil stew packed with vegetables.",
+   "vi": "Canh đậu lăng chua cay thanh mát nấu cùng rau củ."
+  },
+  "addedAt": "2026-10-17"
+ },
+ {
+  "id": "in-ras-malai-q5656299",
+  "qid": "Q5656299",
+  "country": "IN",
+  "emoji": "🍮",
+  "localName": "रसमलाई",
+  "name": {
+   "en": "Ras malai",
+   "vi": "Ras malai"
+  },
+  "blurb": {
+   "en": "Delicate cheese dumplings soaked in sweet thickened milk.",
+   "vi": "Bánh phô mai mềm ngâm trong sữa đặc ngọt thơm."
+  },
+  "addedAt": "2026-10-17"
+ },
+ {
+  "id": "in-kheer-q59134",
+  "qid": "Q59134",
+  "country": "IN",
+  "emoji": "🥣",
+  "localName": "खीर",
+  "name": {
+   "en": "Kheer",
+   "vi": "Kheer"
+  },
+  "blurb": {
+   "en": "Traditional sweet rice pudding scented with cardamom and nuts.",
+   "vi": "Chè gạo sữa truyền thống thơm mùi bạch đậu khấu và các loại hạt."
+  },
+  "addedAt": "2026-10-17"
  }
 ]
