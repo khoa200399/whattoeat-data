@@ -3246,5 +3246,85 @@
    "vi": "Chè gạo sữa truyền thống thơm mùi bạch đậu khấu và các loại hạt."
   },
   "addedAt": "2026-10-17"
+ },
+ {
+  "id": "vn-fried-rice-flour-cake-q20984265",
+  "qid": "Q20984265",
+  "country": "VN",
+  "emoji": "🍳",
+  "localName": "Bột chiên",
+  "name": {
+   "en": "Fried rice flour cake",
+   "vi": "Bột chiên"
+  },
+  "blurb": {
+   "en": "Pan-fried rice flour cakes crispy on the outside with eggs.",
+   "vi": "Bột chiên giòn rụm ngoài vỏ kết hợp cùng trứng gà thơm béo."
+  },
+  "addedAt": "2026-10-18"
+ },
+ {
+  "id": "vn-baby-clam-rice-q5202956",
+  "qid": "Q5202956",
+  "country": "VN",
+  "emoji": "🍚",
+  "localName": "Cơm hến",
+  "name": {
+   "en": "Baby clam rice",
+   "vi": "Cơm hến"
+  },
+  "blurb": {
+   "en": "Spicy rice dish topped with tender baby clams and crispy pork skin.",
+   "vi": "Cơm hến cay nồng đậm đà hương vị xứ Huế mộng mơ."
+  },
+  "addedAt": "2026-10-18"
+ },
+ {
+  "id": "kr-ginseng-chicken-soup-q126190581",
+  "qid": "Q126190581",
+  "country": "KR",
+  "emoji": "🍲",
+  "localName": "삼계탕",
+  "name": {
+   "en": "Ginseng chicken soup",
+   "vi": "Gà hầm sâm"
+  },
+  "blurb": {
+   "en": "Whole young chicken stuffed with ginseng, garlic, and sticky rice.",
+   "vi": "Gà non nguyên con nhồi nhân sâm, tỏi và gạo nếp bổ dưỡng."
+  },
+  "addedAt": "2026-10-18"
+ },
+ {
+  "id": "th-leaf-wrapped-bite-sized-snack-q6665878",
+  "qid": "Q6665878",
+  "country": "TH",
+  "emoji": "🍃",
+  "localName": "เมี่ยงคำ",
+  "name": {
+   "en": "Leaf-wrapped bite-sized snack",
+   "vi": "Món cuốn lá lốt kiểu Thái"
+  },
+  "blurb": {
+   "en": "Delightful betel leaf wraps filled with aromatic herbs, toasted peanuts, lime, and sweet sauce.",
+   "vi": "Món cuốn lá trầu không thú vị nhân các loại thảo mộc, đậu phộng rang, chanh và sốt ngọt."
+  },
+  "addedAt": "2026-10-18"
+ },
+ {
+  "id": "it-pasta-with-pesto-q9896",
+  "qid": "Q9896",
+  "country": "IT",
+  "emoji": "🌿",
+  "localName": "Pasta al Pesto",
+  "name": {
+   "en": "Pasta with Pesto",
+   "vi": "Mì Ý sốt Pesto"
+  },
+  "blurb": {
+   "en": "Vibrant green pasta tossed in fresh basil, pine nut, and garlic sauce.",
+   "vi": "Mì Ý trộn sốt húng quế tươi, hạt thông và tỏi thơm phức."
+  },
+  "addedAt": "2026-10-18"
  }
 ]
