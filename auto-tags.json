@@ -41,6 +41,12 @@
   "soup": false,
   "noodles": false
  },
+ "cn-chinese-steamed-eggs-q5100943": {
+  "spicy": false,
+  "vegetarian": true,
+  "soup": false,
+  "noodles": false
+ },
  "cn-chow-mein-q964107": {
   "spicy": false,
   "soup": false,
@@ -108,6 +114,12 @@
   "spicy": false,
   "soup": true,
   "vegetarian": true,
+  "noodles": false
+ },
+ "cn-tomato-and-egg-soup-q7818554": {
+  "spicy": false,
+  "vegetarian": true,
+  "soup": true,
   "noodles": false
  },
  "cn-twice-cooked-pork-q3238049": {
@@ -327,6 +339,12 @@
   "spicy": true,
   "soup": false,
   "vegetarian": true,
+  "noodles": false
+ },
+ "in-pani-puri-q2722122": {
+  "spicy": true,
+  "vegetarian": true,
+  "soup": false,
   "noodles": false
  },
  "in-pav-bhaji-q3629971": {
@@ -797,6 +815,12 @@
   "vegetarian": false,
   "noodles": true
  },
+ "kr-milk-shaved-ice-dessert-q493784": {
+  "spicy": false,
+  "vegetarian": false,
+  "soup": false,
+  "noodles": false
+ },
  "kr-naengmyeon": {
   "noodles": true
  },
@@ -811,6 +835,12 @@
   "soup": true,
   "vegetarian": false,
   "noodles": false
+ },
+ "kr-ramen-and-rice-cake-hotpot-q12593925": {
+  "spicy": true,
+  "vegetarian": false,
+  "soup": true,
+  "noodles": true
  },
  "kr-samgyeopsal": {
   "noodles": false
@@ -1062,6 +1092,12 @@
   "spicy": true,
   "soup": true,
   "vegetarian": false,
+  "noodles": true
+ },
+ "sg-mee-siam-q1886310": {
+  "spicy": true,
+  "vegetarian": false,
+  "soup": true,
   "noodles": true
  },
  "sg-nasilemak": {

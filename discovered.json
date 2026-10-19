@@ -3326,5 +3326,101 @@
    "vi": "Mì Ý trộn sốt húng quế tươi, hạt thông và tỏi thơm phức."
   },
   "addedAt": "2026-10-18"
+ },
+ {
+  "id": "kr-ramen-and-rice-cake-hotpot-q12593925",
+  "qid": "Q12593925",
+  "country": "KR",
+  "emoji": "🍲",
+  "localName": "라볶이",
+  "name": {
+   "en": "Ramen and rice cake hotpot",
+   "vi": "Lẩu bánh gạo mì tôm"
+  },
+  "blurb": {
+   "en": "Addictive spicy street food combining chewy rice cakes and ramen noodles.",
+   "vi": "Món ăn vặt cay nghiện kết hợp bánh gạo dẻo dai và mì tôm đậm vị."
+  },
+  "addedAt": "2026-10-19"
+ },
+ {
+  "id": "kr-milk-shaved-ice-dessert-q493784",
+  "qid": "Q493784",
+  "country": "KR",
+  "emoji": "🍧",
+  "localName": "빙수",
+  "name": {
+   "en": "Milk shaved ice dessert",
+   "vi": "Đá bào sữa"
+  },
+  "blurb": {
+   "en": "Delicate shaved snow milk topped with sweet red beans and fruits.",
+   "vi": "Món đá bào sữa mềm mịn như tuyết ăn kèm đậu đỏ ngọt và trái cây."
+  },
+  "addedAt": "2026-10-19"
+ },
+ {
+  "id": "sg-mee-siam-q1886310",
+  "qid": "Q1886310",
+  "country": "SG",
+  "emoji": "🍜",
+  "localName": "米暹",
+  "name": {
+   "en": "Mee siam",
+   "vi": "Mì Siam"
+  },
+  "blurb": {
+   "en": "Thin rice noodles in a spicy, sweet, and tangy gravy.",
+   "vi": "Bún gạo sợi mảnh trong nước sốt chua ngọt cay nồng."
+  },
+  "addedAt": "2026-10-19"
+ },
+ {
+  "id": "cn-chinese-steamed-eggs-q5100943",
+  "qid": "Q5100943",
+  "country": "CN",
+  "emoji": "🍳",
+  "localName": "蒸水蛋",
+  "name": {
+   "en": "Chinese steamed eggs",
+   "vi": "Trứng hấp kiểu Trung Hoa"
+  },
+  "blurb": {
+   "en": "Silky smooth custard eggs steamed to delicate perfection.",
+   "vi": "Món trứng hấp mượt mà tan ngay trong miệng."
+  },
+  "addedAt": "2026-10-19"
+ },
+ {
+  "id": "cn-tomato-and-egg-soup-q7818554",
+  "qid": "Q7818554",
+  "country": "CN",
+  "emoji": "🍲",
+  "localName": "西红柿鸡蛋汤",
+  "name": {
+   "en": "Tomato and egg soup",
+   "vi": "Canh trứng cà chua"
+  },
+  "blurb": {
+   "en": "Comforting broth featuring ribbons of egg and sweet tomatoes.",
+   "vi": "Món canh thanh đạm với trứng đánh sợi và cà chua."
+  },
+  "addedAt": "2026-10-19"
+ },
+ {
+  "id": "in-pani-puri-q2722122",
+  "qid": "Q2722122",
+  "country": "IN",
+  "emoji": "🥟",
+  "localName": "पानी पुरी",
+  "name": {
+   "en": "Pani puri",
+   "vi": "Pani puri"
+  },
+  "blurb": {
+   "en": "Crispy hollow spheres filled with tangy water and potatoes.",
+   "vi": "Bánh phồng giòn nhân khoai tây ăn kèm nước sốt chua cay."
+  },
+  "addedAt": "2026-10-19"
  }
 ]
