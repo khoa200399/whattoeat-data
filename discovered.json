@@ -3422,5 +3422,101 @@
    "vi": "Bánh phồng giòn nhân khoai tây ăn kèm nước sốt chua cay."
   },
   "addedAt": "2026-10-19"
+ },
+ {
+  "id": "vn-grilled-pork-with-vermicelli-q5005249",
+  "qid": "Q5005249",
+  "country": "VN",
+  "emoji": "🍜",
+  "localName": "Bún thịt nướng",
+  "name": {
+   "en": "Grilled pork with vermicelli",
+   "vi": "Bún thịt nướng"
+  },
+  "blurb": {
+   "en": "Grilled marinated pork served over rice vermicelli with fresh herbs and fish sauce.",
+   "vi": "Thịt heo nướng thơm phức ăn kèm bún tươi, rau sống và nước mắm chua ngọt."
+  },
+  "addedAt": "2026-10-20"
+ },
+ {
+  "id": "vn-sweet-and-sour-soup-q564573",
+  "qid": "Q564573",
+  "country": "VN",
+  "emoji": "🍲",
+  "localName": "Canh chua",
+  "name": {
+   "en": "Sweet and sour soup",
+   "vi": "Canh chua"
+  },
+  "blurb": {
+   "en": "A refreshing, tangy fish soup with pineapple, tomatoes, and herbs.",
+   "vi": "Món canh chua thanh mát nấu với cá, dứa, cà chua và rau thơm."
+  },
+  "addedAt": "2026-10-20"
+ },
+ {
+  "id": "kr-grilled-ribs-q682384",
+  "qid": "Q682384",
+  "country": "KR",
+  "emoji": "🥩",
+  "localName": "갈비",
+  "name": {
+   "en": "Grilled ribs",
+   "vi": "Sườn nướng Hàn Quốc"
+  },
+  "blurb": {
+   "en": "Juicy grilled beef short ribs marinated in a sweet and savory sauce.",
+   "vi": "Sườn bò nướng mọng nước ướp trong sốt ngọt và đậm đà."
+  },
+  "addedAt": "2026-10-20"
+ },
+ {
+  "id": "mx-papadzules-q6060064",
+  "qid": "Q6060064",
+  "country": "MX",
+  "emoji": "🍳",
+  "localName": "Papadzules",
+  "name": {
+   "en": "Papadzules",
+   "vi": "Bánh ngô sốt hạt bí Papadzules"
+  },
+  "blurb": {
+   "en": "Yucatan-style rolled tortillas filled with hard-boiled eggs in pumpkin seed sauce.",
+   "vi": "Bánh ngô cuộn trứng luộc kiểu Yucatan trong sốt hạt bí xanh đặc trưng."
+  },
+  "addedAt": "2026-10-20"
+ },
+ {
+  "id": "in-chicken-tikka-q2548408",
+  "qid": "Q2548408",
+  "country": "IN",
+  "emoji": "🍗",
+  "localName": "चिकेन टिक्का",
+  "name": {
+   "en": "Chicken tikka",
+   "vi": "Gà tikka"
+  },
+  "blurb": {
+   "en": "Juicy chunks of chicken marinated in spices and yogurt.",
+   "vi": "Những miếng gà mọng nước ướp gia vị và sữa chua."
+  },
+  "addedAt": "2026-10-20"
+ },
+ {
+  "id": "in-pakora-q1126275",
+  "qid": "Q1126275",
+  "country": "IN",
+  "emoji": "🥟",
+  "localName": "पकोड़ा",
+  "name": {
+   "en": "Pakora",
+   "vi": "Bánh chiên Pakora"
+  },
+  "blurb": {
+   "en": "Crispy fried vegetable fritters coated in chickpea batter.",
+   "vi": "Bánh rau củ chiên giòn áo lớp bột đậu gà thơm ngon."
+  },
+  "addedAt": "2026-10-20"
  }
 ]
