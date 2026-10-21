@@ -3518,5 +3518,21 @@
    "vi": "Bánh rau củ chiên giòn áo lớp bột đậu gà thơm ngon."
   },
   "addedAt": "2026-10-20"
+ },
+ {
+  "id": "kr-hangover-soup-q705375",
+  "qid": "Q705375",
+  "country": "KR",
+  "emoji": "🍲",
+  "localName": "해장국",
+  "name": {
+   "en": "Hangover soup",
+   "vi": "Canh giải rượu"
+  },
+  "blurb": {
+   "en": "Hearty broth loaded with napa cabbage and meat to cure the morning after.",
+   "vi": "Món canh đậm đà với bắp cải thảo và thịt giúp giải rượu buổi sáng hôm sau."
+  },
+  "addedAt": "2026-10-21"
  }
 ]

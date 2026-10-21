@@ -809,6 +809,12 @@
   "soup": false,
   "noodles": false
  },
+ "kr-hangover-soup-q705375": {
+  "spicy": false,
+  "vegetarian": false,
+  "soup": true,
+  "noodles": false
+ },
  "kr-japchae": {
   "noodles": true
  },
