@@ -869,6 +869,12 @@
  "kr-samgyeopsal": {
   "noodles": false
  },
+ "kr-soup-with-rice-q1037909": {
+  "spicy": false,
+  "vegetarian": false,
+  "soup": true,
+  "noodles": false
+ },
  "kr-spicy-beef-soup-q1069561": {
   "spicy": true,
   "soup": true,

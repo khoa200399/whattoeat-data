@@ -3534,5 +3534,21 @@
    "vi": "Món canh đậm đà với bắp cải thảo và thịt giúp giải rượu buổi sáng hôm sau."
   },
   "addedAt": "2026-10-21"
+ },
+ {
+  "id": "kr-soup-with-rice-q1037909",
+  "qid": "Q1037909",
+  "country": "KR",
+  "emoji": "🍲",
+  "localName": "국밥",
+  "name": {
+   "en": "Soup with rice",
+   "vi": "Cơm canh"
+  },
+  "blurb": {
+   "en": "Hearty and nourishing hot soup served alongside a steaming bowl of rice.",
+   "vi": "Món canh nóng hổi bổ dưỡng ăn kèm một chén cơm trắng dẻo thơm."
+  },
+  "addedAt": "2026-10-22"
  }
 ]
