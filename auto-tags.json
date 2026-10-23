@@ -518,6 +518,12 @@
   "soup": false,
   "noodles": false
  },
+ "it-spaghetti-with-clams-q1236601": {
+  "spicy": false,
+  "vegetarian": false,
+  "soup": false,
+  "noodles": true
+ },
  "it-tiramisu-q131582": {
   "spicy": false,
   "soup": false,
@@ -1442,6 +1448,12 @@
   "soup": false,
   "noodles": false
  },
+ "us-pulled-pork-q1347028": {
+  "spicy": false,
+  "vegetarian": false,
+  "soup": false,
+  "noodles": false
+ },
  "us-reuben-sandwich-q3180957": {
   "spicy": false,
   "soup": false,
@@ -1526,6 +1538,12 @@
   "vegetarian": false,
   "noodles": true
  },
+ "vn-cassava-cake-q5004802": {
+  "spicy": false,
+  "vegetarian": true,
+  "soup": false,
+  "noodles": false
+ },
  "vn-cha-ca-la-vong-q3274058": {
   "spicy": false,
   "soup": false,
@@ -1576,6 +1594,12 @@
   "vegetarian": false,
   "soup": false,
   "noodles": true
+ },
+ "vn-honeycomb-cake-q5004795": {
+  "spicy": false,
+  "vegetarian": true,
+  "soup": false,
+  "noodles": false
  },
  "vn-hutieu": {
   "noodles": true

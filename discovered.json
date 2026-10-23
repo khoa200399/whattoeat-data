@@ -3550,5 +3550,69 @@
    "vi": "Món canh nóng hổi bổ dưỡng ăn kèm một chén cơm trắng dẻo thơm."
   },
   "addedAt": "2026-10-22"
+ },
+ {
+  "id": "vn-cassava-cake-q5004802",
+  "qid": "Q5004802",
+  "country": "VN",
+  "emoji": "🥮",
+  "localName": "Bánh khoai mì",
+  "name": {
+   "en": "Cassava cake",
+   "vi": "Bánh khoai mì"
+  },
+  "blurb": {
+   "en": "Sweet, chewy baked cassava cake flavored with coconut milk.",
+   "vi": "Món bánh khoai mì nướng dẻo ngọt đậm vị nước cốt dừa."
+  },
+  "addedAt": "2026-10-23"
+ },
+ {
+  "id": "vn-honeycomb-cake-q5004795",
+  "qid": "Q5004795",
+  "country": "VN",
+  "emoji": "🧁",
+  "localName": "Bánh bò",
+  "name": {
+   "en": "Honeycomb cake",
+   "vi": "Bánh bò"
+  },
+  "blurb": {
+   "en": "Sponge-like sweet rice cake with a distinct honeycomb texture.",
+   "vi": "Bánh ngọt xốp nhẹ có cấu trúc rễ tre đặc trưng từ bột gạo."
+  },
+  "addedAt": "2026-10-23"
+ },
+ {
+  "id": "it-spaghetti-with-clams-q1236601",
+  "qid": "Q1236601",
+  "country": "IT",
+  "emoji": "🍝",
+  "localName": "Spaghetti alle vongole",
+  "name": {
+   "en": "Spaghetti with Clams",
+   "vi": "Mì Ý sốt nghêu"
+  },
+  "blurb": {
+   "en": "Delicate seafood pasta tossed with fresh clams, garlic, and white wine.",
+   "vi": "Mì Ý hải sản tinh tế trộn cùng nghêu tươi, tỏi và rượu vang trắng."
+  },
+  "addedAt": "2026-10-23"
+ },
+ {
+  "id": "us-pulled-pork-q1347028",
+  "qid": "Q1347028",
+  "country": "US",
+  "emoji": "🍖",
+  "localName": "Pulled pork",
+  "name": {
+   "en": "Pulled pork",
+   "vi": "Thịt heo xé"
+  },
+  "blurb": {
+   "en": "Tender, slow-cooked pork shoulder shredded and mixed with barbecue sauce.",
+   "vi": "Thịt vai heo ninh nhừ được xé nhỏ và trộn với sốt thịt nướng."
+  },
+  "addedAt": "2026-10-23"
  }
 ]
