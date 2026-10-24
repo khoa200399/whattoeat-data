@@ -1,6 +1,6 @@
 {
  "schemaVersion": 2,
- "generatedAt": "2026-10-23T20:18:12+00:00",
+ "generatedAt": "2026-10-24T19:24:56+00:00",
  "source": "Curated list and Gemini suggestions checked against Wikidata (CC0). Images from Wikimedia Commons, see each image page for its license.",
  "countries": [
   {
@@ -1059,8 +1059,8 @@
    },
    "curated": true,
    "image": {
-    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Phat_Thai_kung_Chang_Khien_street_stall.jpg?width=800",
-    "page": "https://commons.wikimedia.org/wiki/File:Phat_Thai_kung_Chang_Khien_street_stall.jpg"
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Phat_thai_-_Chiang_Mai_-_2017-07-08_%28002%29.jpg?width=800",
+    "page": "https://commons.wikimedia.org/wiki/File:Phat_thai_-_Chiang_Mai_-_2017-07-08_%28002%29.jpg"
    },
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Pad_thai",
@@ -2665,8 +2665,8 @@
    },
    "curated": true,
    "image": {
-    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Thai_laksa_dish_at_Yim_Thai_Yeronga%2C_Queensland.jpg?width=800",
-    "page": "https://commons.wikimedia.org/wiki/File:Thai_laksa_dish_at_Yim_Thai_Yeronga%2C_Queensland.jpg"
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chicken_curry_served_in_an_Indonesian_restaurant%3B_February_2010.jpg?width=800",
+    "page": "https://commons.wikimedia.org/wiki/File:Chicken_curry_served_in_an_Indonesian_restaurant%3B_February_2010.jpg"
    },
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Laksa",
@@ -3934,8 +3934,8 @@
    ],
    "curated": false,
    "image": {
-    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cantonese_rice_porridge.JPG?width=800",
-    "page": "https://commons.wikimedia.org/wiki/File:Cantonese_rice_porridge.JPG"
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chinese_rice_congee.jpg?width=800",
+    "page": "https://commons.wikimedia.org/wiki/File:Chinese_rice_congee.jpg"
    },
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Congee",
@@ -8732,6 +8732,59 @@
    },
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Pulled_pork"
+   }
+  },
+  {
+   "id": "jp-takuan-q701797",
+   "qid": "Q701797",
+   "country": "JP",
+   "emoji": "🥢",
+   "localName": "沢庵",
+   "name": {
+    "en": "Takuan",
+    "vi": "Takuan"
+   },
+   "blurb": {
+    "en": "Crunchy and flavorful pickled daikon radish, perfect as a snack or side.",
+    "vi": "Củ cải muối giòn giòn đậm đà, hoàn hảo làm món ăn nhẹ hoặc món phụ."
+   },
+   "tags": [
+    "vegetarian"
+   ],
+   "curated": false,
+   "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Takuan.jpg?width=800",
+    "page": "https://commons.wikimedia.org/wiki/File:Takuan.jpg"
+   },
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Takuan",
+    "vi": "https://vi.wikipedia.org/wiki/Takuan"
+   }
+  },
+  {
+   "id": "kr-pumpkin-porridge-q847245",
+   "qid": "Q847245",
+   "country": "KR",
+   "emoji": "🥣",
+   "localName": "호박죽",
+   "name": {
+    "en": "Pumpkin porridge",
+    "vi": "Cháo bí ngô"
+   },
+   "blurb": {
+    "en": "Warm and soothing pumpkin porridge with chewy rice cake balls.",
+    "vi": "Cháo bí ngô ấm áp, ngọt dịu với những viên bánh nếp dẻo dai."
+   },
+   "tags": [
+    "vegetarian"
+   ],
+   "curated": false,
+   "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Korean_pumpkin_porridge-Hobakjuk-01.jpg?width=800",
+    "page": "https://commons.wikimedia.org/wiki/File:Korean_pumpkin_porridge-Hobakjuk-01.jpg"
+   },
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Hobak-juk"
    }
   }
  ]

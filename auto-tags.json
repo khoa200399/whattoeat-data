@@ -695,6 +695,12 @@
  "jp-takoyaki": {
   "noodles": false
  },
+ "jp-takuan-q701797": {
+  "spicy": false,
+  "vegetarian": true,
+  "soup": false,
+  "noodles": false
+ },
  "jp-tamagoyaki-q747302": {
   "spicy": false,
   "soup": false,
@@ -864,6 +870,12 @@
   "spicy": true,
   "soup": true,
   "vegetarian": false,
+  "noodles": false
+ },
+ "kr-pumpkin-porridge-q847245": {
+  "spicy": false,
+  "vegetarian": true,
+  "soup": false,
   "noodles": false
  },
  "kr-ramen-and-rice-cake-hotpot-q12593925": {

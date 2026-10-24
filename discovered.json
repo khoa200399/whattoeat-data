@@ -3614,5 +3614,37 @@
    "vi": "Thịt vai heo ninh nhừ được xé nhỏ và trộn với sốt thịt nướng."
   },
   "addedAt": "2026-10-23"
+ },
+ {
+  "id": "jp-takuan-q701797",
+  "qid": "Q701797",
+  "country": "JP",
+  "emoji": "🥢",
+  "localName": "沢庵",
+  "name": {
+   "en": "Takuan",
+   "vi": "Takuan"
+  },
+  "blurb": {
+   "en": "Crunchy and flavorful pickled daikon radish, perfect as a snack or side.",
+   "vi": "Củ cải muối giòn giòn đậm đà, hoàn hảo làm món ăn nhẹ hoặc món phụ."
+  },
+  "addedAt": "2026-10-24"
+ },
+ {
+  "id": "kr-pumpkin-porridge-q847245",
+  "qid": "Q847245",
+  "country": "KR",
+  "emoji": "🥣",
+  "localName": "호박죽",
+  "name": {
+   "en": "Pumpkin porridge",
+   "vi": "Cháo bí ngô"
+  },
+  "blurb": {
+   "en": "Warm and soothing pumpkin porridge with chewy rice cake balls.",
+   "vi": "Cháo bí ngô ấm áp, ngọt dịu với những viên bánh nếp dẻo dai."
+  },
+  "addedAt": "2026-10-24"
  }
 ]
