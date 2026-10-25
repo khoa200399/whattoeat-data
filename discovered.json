@@ -3646,5 +3646,133 @@
    "vi": "Cháo bí ngô ấm áp, ngọt dịu với những viên bánh nếp dẻo dai."
   },
   "addedAt": "2026-10-24"
+ },
+ {
+  "id": "kr-korean-dumplings-q284983",
+  "qid": "Q284983",
+  "country": "KR",
+  "emoji": "🥟",
+  "localName": "만두",
+  "name": {
+   "en": "Korean dumplings",
+   "vi": "Sủi cảo Hàn Quốc"
+  },
+  "blurb": {
+   "en": "Delightful dumplings filled with seasoned meats and crisp vegetables.",
+   "vi": "Những chiếc há cảo thơm ngon nhân thịt tẩm ướp và rau củ tươi giòn."
+  },
+  "addedAt": "2026-10-25"
+ },
+ {
+  "id": "cn-roast-goose-q36415",
+  "qid": "Q36415",
+  "country": "CN",
+  "emoji": "🍗",
+  "localName": "烧鹅",
+  "name": {
+   "en": "Roast Goose",
+   "vi": "Ngỗng quay"
+  },
+  "blurb": {
+   "en": "Juicy succulent goose with a crispy golden skin and aromatic spices.",
+   "vi": "Thịt ngỗng mọng nước với lớp da vàng giòn cùng gia vị thơm phức."
+  },
+  "addedAt": "2026-10-25"
+ },
+ {
+  "id": "cn-suan-la-fen-q15932455",
+  "qid": "Q15932455",
+  "country": "CN",
+  "emoji": "🍜",
+  "localName": "酸辣粉",
+  "name": {
+   "en": "Suan La Fen",
+   "vi": "Mì chua cay"
+  },
+  "blurb": {
+   "en": "Chewy sweet potato noodles in a fiery, sour, and numbing broth.",
+   "vi": "Mì khoai lang dai trong nước dùng chua cay và tê đầu lưỡi."
+  },
+  "addedAt": "2026-10-25"
+ },
+ {
+  "id": "it-spaghetti-puttanesca-q1262980",
+  "qid": "Q1262980",
+  "country": "IT",
+  "emoji": "🍝",
+  "localName": "Spaghetti alla puttanesca",
+  "name": {
+   "en": "Spaghetti Puttanesca",
+   "vi": "Mì Ý sốt Puttanesca"
+  },
+  "blurb": {
+   "en": "Zesty pasta tossed in a bold, savory sauce of tomatoes, olives, capers, and anchovies.",
+   "vi": "Mì Ý trộn trong loại sốt đậm đà vị cà chua, ô liu, nụ bạch hoa và cá cơm."
+  },
+  "addedAt": "2026-10-25"
+ },
+ {
+  "id": "it-eggplant-parmigiana-q973455",
+  "qid": "Q973455",
+  "country": "IT",
+  "emoji": "🍆",
+  "localName": "Parmigiana di melanzane",
+  "name": {
+   "en": "Eggplant Parmigiana",
+   "vi": "Cà tím đút lò Parmigiana"
+  },
+  "blurb": {
+   "en": "Layered baked eggplant slices smothered in rich tomato sauce and melted cheese.",
+   "vi": "Những lớp cà tím nướng phủ ngập sốt cà chua đậm đà và phô mai tan chảy."
+  },
+  "addedAt": "2026-10-25"
+ },
+ {
+  "id": "it-acquacotta-soup-q15630073",
+  "qid": "Q15630073",
+  "country": "IT",
+  "emoji": "🍲",
+  "localName": "Acquacotta",
+  "name": {
+   "en": "Acquacotta Soup",
+   "vi": "Súp rau củ Acquacotta"
+  },
+  "blurb": {
+   "en": "Hearty Tuscan vegetable soup topped with a poached egg and crusty rustic bread.",
+   "vi": "Món súp rau củ Tuscan thị soạn ăn kèm trứng chần và bánh mì mộc mạc."
+  },
+  "addedAt": "2026-10-25"
+ },
+ {
+  "id": "it-pasta-and-beans-soup-q1137803",
+  "qid": "Q1137803",
+  "country": "IT",
+  "emoji": "🥣",
+  "localName": "Pasta e fagioli",
+  "name": {
+   "en": "Pasta and Beans Soup",
+   "vi": "Súp mì Ý và đậu"
+  },
+  "blurb": {
+   "en": "A comforting, rustic Italian soup packed with tender pasta and creamy beans.",
+   "vi": "Món súp Ý mộc mạc ấm cúng ngập tràn mì ống mềm và đậu bùi béo."
+  },
+  "addedAt": "2026-10-25"
+ },
+ {
+  "id": "it-amatriciana-pasta-q997633",
+  "qid": "Q997633",
+  "country": "IT",
+  "emoji": "🍝",
+  "localName": "Bucatini all'amatriciana",
+  "name": {
+   "en": "Amatriciana Pasta",
+   "vi": "Mì Ý sốt Amatriciana"
+  },
+  "blurb": {
+   "en": "Thick noodle pasta coated in a savory sauce of cured pork cheek and tomatoes.",
+   "vi": "Mì ống sợi dày phủ trong loại sốt đậm đà từ thịt má lợn muối và cà chua."
+  },
+  "addedAt": "2026-10-25"
  }
 ]

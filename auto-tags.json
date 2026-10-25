@@ -98,11 +98,23 @@
   "vegetarian": true,
   "noodles": false
  },
+ "cn-roast-goose-q36415": {
+  "spicy": false,
+  "vegetarian": false,
+  "soup": false,
+  "noodles": false
+ },
  "cn-sticky-rice-dumpling-q713466": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
   "noodles": false
+ },
+ "cn-suan-la-fen-q15932455": {
+  "spicy": true,
+  "vegetarian": false,
+  "soup": true,
+  "noodles": true
  },
  "cn-sweet-and-sour-pork-q1367718": {
   "spicy": false,
@@ -422,6 +434,18 @@
  "in-vindaloo": {
   "noodles": false
  },
+ "it-acquacotta-soup-q15630073": {
+  "spicy": false,
+  "vegetarian": true,
+  "soup": true,
+  "noodles": false
+ },
+ "it-amatriciana-pasta-q997633": {
+  "spicy": false,
+  "vegetarian": false,
+  "soup": false,
+  "noodles": true
+ },
  "it-arancini-q268857": {
   "spicy": false,
   "soup": false,
@@ -461,6 +485,12 @@
   "vegetarian": false,
   "noodles": false
  },
+ "it-eggplant-parmigiana-q973455": {
+  "spicy": false,
+  "vegetarian": true,
+  "soup": false,
+  "noodles": false
+ },
  "it-fettuccine-alfredo-q2915859": {
   "spicy": false,
   "vegetarian": true,
@@ -491,6 +521,12 @@
   "soup": false,
   "noodles": true
  },
+ "it-pasta-and-beans-soup-q1137803": {
+  "spicy": false,
+  "vegetarian": true,
+  "soup": true,
+  "noodles": true
+ },
  "it-pasta-with-pesto-q9896": {
   "spicy": false,
   "vegetarian": true,
@@ -517,6 +553,12 @@
   "vegetarian": false,
   "soup": false,
   "noodles": false
+ },
+ "it-spaghetti-puttanesca-q1262980": {
+  "spicy": true,
+  "vegetarian": false,
+  "soup": false,
+  "noodles": true
  },
  "it-spaghetti-with-clams-q1236601": {
   "spicy": false,
@@ -850,6 +892,12 @@
   "soup": false,
   "vegetarian": false,
   "noodles": true
+ },
+ "kr-korean-dumplings-q284983": {
+  "spicy": false,
+  "vegetarian": false,
+  "soup": false,
+  "noodles": false
  },
  "kr-milk-shaved-ice-dessert-q493784": {
   "spicy": false,
