@@ -3774,5 +3774,21 @@
    "vi": "Mì ống sợi dày phủ trong loại sốt đậm đà từ thịt má lợn muối và cà chua."
   },
   "addedAt": "2026-10-25"
+ },
+ {
+  "id": "mx-chile-relleno-q5098719",
+  "qid": "Q5098719",
+  "country": "MX",
+  "emoji": "🌶️",
+  "localName": "Chile relleno",
+  "name": {
+   "en": "Chile relleno",
+   "vi": "Ớt chuông nhồi phô mai chiên"
+  },
+  "blurb": {
+   "en": "Stuffed poblano peppers coated in fluffy egg batter and fried until golden.",
+   "vi": "Ớt nhồi nhúng bột trứng rồi chiên vàng giòn thơm ngon tuyệt hảo."
+  },
+  "addedAt": "2026-10-26"
  }
 ]

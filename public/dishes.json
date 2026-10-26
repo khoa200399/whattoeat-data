@@ -1,6 +1,6 @@
 {
  "schemaVersion": 2,
- "generatedAt": "2026-10-25T19:30:55+00:00",
+ "generatedAt": "2026-10-26T21:33:09+00:00",
  "source": "Curated list and Gemini suggestions checked against Wikidata (CC0). Images from Wikimedia Commons, see each image page for its license.",
  "countries": [
   {
@@ -1481,8 +1481,8 @@
    },
    "curated": true,
    "image": {
-    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Xiao_Long_Bao_at_Nanxiang_Mantou_Dian_1.jpg?width=800",
-    "page": "https://commons.wikimedia.org/wiki/File:Xiao_Long_Bao_at_Nanxiang_Mantou_Dian_1.jpg"
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Xiao_Long_Bao_by_Junhao%21.jpg?width=800",
+    "page": "https://commons.wikimedia.org/wiki/File:Xiao_Long_Bao_by_Junhao%21.jpg"
    },
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Xiaolongbao",
@@ -2947,8 +2947,8 @@
    "tags": [],
    "curated": false,
    "image": {
-    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rice_flour_cake_with_shrimp_-_Vietnam_Kitchen%2C_Louisville%2C_KY_%282011-05-28_by_Navin75%29.jpg?width=800",
-    "page": "https://commons.wikimedia.org/wiki/File:Rice_flour_cake_with_shrimp_-_Vietnam_Kitchen%2C_Louisville%2C_KY_%282011-05-28_by_Navin75%29.jpg"
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/B%C3%A1nh_b%C3%A8o_ch%C3%A9n.jpg?width=800",
+    "page": "https://commons.wikimedia.org/wiki/File:B%C3%A1nh_b%C3%A8o_ch%C3%A9n.jpg"
    },
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/B%C3%A1nh_b%C3%A8o",
@@ -4144,8 +4144,8 @@
    "tags": [],
    "curated": false,
    "image": {
-    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bacon%2C_lettuce%2C_tomato%2C_and_avocado.jpg?width=800",
-    "page": "https://commons.wikimedia.org/wiki/File:Bacon%2C_lettuce%2C_tomato%2C_and_avocado.jpg"
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/BLT_sandwich_with_pommes_frites.jpg?width=800",
+    "page": "https://commons.wikimedia.org/wiki/File:BLT_sandwich_with_pommes_frites.jpg"
    },
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/BLT"
@@ -5523,8 +5523,8 @@
    "tags": [],
    "curated": false,
    "image": {
-    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Korean_food-Jokbal-01.jpg?width=800",
-    "page": "https://commons.wikimedia.org/wiki/File:Korean_food-Jokbal-01.jpg"
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jokbal-namdaemunmarket.jpg?width=800",
+    "page": "https://commons.wikimedia.org/wiki/File:Jokbal-namdaemunmarket.jpg"
    },
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Jokbal"
@@ -7258,8 +7258,8 @@
    "tags": [],
    "curated": false,
    "image": {
-    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/TLAYUDA.jpg?width=800",
-    "page": "https://commons.wikimedia.org/wiki/File:TLAYUDA.jpg"
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tlayuda12-05oaxaca013x.jpg?width=800",
+    "page": "https://commons.wikimedia.org/wiki/File:Tlayuda12-05oaxaca013x.jpg"
    },
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Tlayuda"
@@ -7575,8 +7575,8 @@
    ],
    "curated": false,
    "image": {
-    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%E9%85%BF%E8%B1%86%E8%85%90_2.jpg?width=800",
-    "page": "https://commons.wikimedia.org/wiki/File:%E9%85%BF%E8%B1%86%E8%85%90_2.jpg"
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Yong_tau_foo_sweet.jpg?width=800",
+    "page": "https://commons.wikimedia.org/wiki/File:Yong_tau_foo_sweet.jpg"
    },
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Yong_tau_foo"
@@ -8998,6 +8998,32 @@
    },
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Amatriciana"
+   }
+  },
+  {
+   "id": "mx-chile-relleno-q5098719",
+   "qid": "Q5098719",
+   "country": "MX",
+   "emoji": "🌶️",
+   "localName": "Chile relleno",
+   "name": {
+    "en": "Chile relleno",
+    "vi": "Ớt chuông nhồi phô mai chiên"
+   },
+   "blurb": {
+    "en": "Stuffed poblano peppers coated in fluffy egg batter and fried until golden.",
+    "vi": "Ớt nhồi nhúng bột trứng rồi chiên vàng giòn thơm ngon tuyệt hảo."
+   },
+   "tags": [
+    "vegetarian"
+   ],
+   "curated": false,
+   "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Algunos_Chiles_rellenos.jpg?width=800",
+    "page": "https://commons.wikimedia.org/wiki/File:Algunos_Chiles_rellenos.jpg"
+   },
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Chile_relleno"
    }
   }
  ]

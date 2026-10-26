@@ -1016,6 +1016,12 @@
   "vegetarian": true,
   "noodles": false
  },
+ "mx-chile-relleno-q5098719": {
+  "spicy": false,
+  "vegetarian": true,
+  "soup": false,
+  "noodles": false
+ },
  "mx-chili": {
   "noodles": false
  },
