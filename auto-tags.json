@@ -470,6 +470,12 @@
   "soup": false,
   "noodles": true
  },
+ "it-cannoli-q836151": {
+  "spicy": false,
+  "vegetarian": true,
+  "soup": false,
+  "noodles": false
+ },
  "it-caprese-salad-q568364": {
   "spicy": false,
   "vegetarian": true,
@@ -496,6 +502,12 @@
   "vegetarian": true,
   "soup": false,
   "noodles": true
+ },
+ "it-focaccia-q832791": {
+  "spicy": false,
+  "vegetarian": true,
+  "soup": false,
+  "noodles": false
  },
  "it-gnocchi": {
   "noodles": false
@@ -532,6 +544,12 @@
   "vegetarian": true,
   "soup": false,
   "noodles": true
+ },
+ "it-polenta-q131607": {
+  "spicy": false,
+  "vegetarian": true,
+  "soup": false,
+  "noodles": false
  },
  "it-porchetta-q1106345": {
   "spicy": false,
@@ -571,6 +589,12 @@
   "soup": false,
   "vegetarian": true,
   "noodles": false
+ },
+ "it-tortellini-in-broth-q20057": {
+  "spicy": false,
+  "vegetarian": false,
+  "soup": true,
+  "noodles": true
  },
  "jp-chawanmushi-q1068574": {
   "spicy": false,
@@ -1269,6 +1293,12 @@
   "spicy": true,
   "soup": false,
   "vegetarian": false,
+  "noodles": false
+ },
+ "th-galangal-chicken-soup-q2268672": {
+  "spicy": false,
+  "vegetarian": false,
+  "soup": true,
   "noodles": false
  },
  "th-greencurry": {

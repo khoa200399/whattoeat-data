@@ -3790,5 +3790,85 @@
    "vi": "Ớt nhồi nhúng bột trứng rồi chiên vàng giòn thơm ngon tuyệt hảo."
   },
   "addedAt": "2026-10-26"
+ },
+ {
+  "id": "th-galangal-chicken-soup-q2268672",
+  "qid": "Q2268672",
+  "country": "TH",
+  "emoji": "🥣",
+  "localName": "ต้มข่าไก่",
+  "name": {
+   "en": "Galangal chicken soup",
+   "vi": "Súp gà riềng cốt dừa"
+  },
+  "blurb": {
+   "en": "Creamy and aromatic coconut soup with tender chicken and galangal.",
+   "vi": "Súp cốt dừa béo ngậy thơm nức mùi riềng và thịt gà mềm."
+  },
+  "addedAt": "2026-10-27"
+ },
+ {
+  "id": "it-polenta-q131607",
+  "qid": "Q131607",
+  "country": "IT",
+  "emoji": "🌽",
+  "localName": "Polenta",
+  "name": {
+   "en": "Polenta",
+   "vi": "Cháo ngô Polenta"
+  },
+  "blurb": {
+   "en": "Creamy, comforting boiled yellow cornmeal served with rich savory toppings.",
+   "vi": "Bột ngô vàng luộc mịn màng, ấm cúng ăn kèm các loại topping mặn đậm đà."
+  },
+  "addedAt": "2026-10-27"
+ },
+ {
+  "id": "it-focaccia-q832791",
+  "qid": "Q832791",
+  "country": "IT",
+  "emoji": "🍞",
+  "localName": "Focaccia",
+  "name": {
+   "en": "Focaccia",
+   "vi": "Bánh mì Focaccia"
+  },
+  "blurb": {
+   "en": "A flat oven-baked Italian bread dimpled with olive oil and aromatic herbs.",
+   "vi": "Món bánh mì dẹt nướng lò của Ý với dầu ô liu và các loại thảo mộc thơm lừng."
+  },
+  "addedAt": "2026-10-27"
+ },
+ {
+  "id": "it-tortellini-in-broth-q20057",
+  "qid": "Q20057",
+  "country": "IT",
+  "emoji": "🍲",
+  "localName": "Tortellini in brodo",
+  "name": {
+   "en": "Tortellini in Broth",
+   "vi": "Mì vằn thắn Tortellini nước dùng"
+  },
+  "blurb": {
+   "en": "Delicate ring-shaped stuffed pasta served in a deeply savory meat broth.",
+   "vi": "Mì nhồi hình chiếc nhẫn tinh tế được phục vụ trong nước dùng thịt đậm đà."
+  },
+  "addedAt": "2026-10-27"
+ },
+ {
+  "id": "it-cannoli-q836151",
+  "qid": "Q836151",
+  "country": "IT",
+  "emoji": "🥐",
+  "localName": "Cannoli",
+  "name": {
+   "en": "Cannoli",
+   "vi": "Bánh ống Cannoli"
+  },
+  "blurb": {
+   "en": "Crispy fried pastry shells filled with sweet, creamy ricotta cheese.",
+   "vi": "Vỏ bánh giòn rụm chiên giòn nhân phô mai ricotta ngọt ngào, béo ngậy."
+  },
+  "addedAt": "2026-10-27"
  }
 ]
