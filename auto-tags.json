@@ -1064,6 +1064,12 @@
  "mx-enchiladas": {
   "noodles": false
  },
+ "mx-esquites-q5243850": {
+  "spicy": true,
+  "vegetarian": true,
+  "soup": false,
+  "noodles": false
+ },
  "mx-fajita-q871272": {
   "spicy": false,
   "soup": false,

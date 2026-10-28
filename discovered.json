@@ -3870,5 +3870,21 @@
    "vi": "Vỏ bánh giòn rụm chiên giòn nhân phô mai ricotta ngọt ngào, béo ngậy."
   },
   "addedAt": "2026-10-27"
+ },
+ {
+  "id": "mx-esquites-q5243850",
+  "qid": "Q5243850",
+  "country": "MX",
+  "emoji": "🌽",
+  "localName": "Esquites",
+  "name": {
+   "en": "Esquites",
+   "vi": "Salad ngô Mexico"
+  },
+  "blurb": {
+   "en": "Savory corn salad cup loaded with mayo, cotija cheese, lime, and chili.",
+   "vi": "Ly salad ngô trộn sốt mayonnaise, phô mai cotija, chanh và ớt."
+  },
+  "addedAt": "2026-10-28"
  }
 ]
