@@ -3886,5 +3886,133 @@
    "vi": "Ly salad ngô trộn sốt mayonnaise, phô mai cotija, chanh và ớt."
   },
   "addedAt": "2026-10-28"
+ },
+ {
+  "id": "kr-pine-nut-porridge-q4215727",
+  "qid": "Q4215727",
+  "country": "KR",
+  "emoji": "🥣",
+  "localName": "잣죽",
+  "name": {
+   "en": "Pine nut porridge",
+   "vi": "Cháo hạt thông"
+  },
+  "blurb": {
+   "en": "A creamy, nourishing porridge made with finely ground pine nuts and rice.",
+   "vi": "Món cháo béo ngậy, bổ dưỡng được làm từ hạt thông xay nhuyễn và gạo."
+  },
+  "addedAt": "2026-10-29"
+ },
+ {
+  "id": "th-shrimp-paste-fried-rice-q30681252",
+  "qid": "Q30681252",
+  "country": "TH",
+  "emoji": "🍚",
+  "localName": "ข้าวคลุกกะปิ",
+  "name": {
+   "en": "Shrimp paste fried rice",
+   "vi": "Cơm chiên mắm ruốc"
+  },
+  "blurb": {
+   "en": "Fragrant rice tossed in fermented shrimp paste, served with flavorful savory toppings.",
+   "vi": "Cơm trộn mắm ruốc thơm lừng ăn kèm nhiều loại thức ăn phụ hấp dẫn."
+  },
+  "addedAt": "2026-10-29"
+ },
+ {
+  "id": "sg-raw-fish-salad-q2609461",
+  "qid": "Q2609461",
+  "country": "SG",
+  "emoji": "🥗",
+  "localName": "鱼生",
+  "name": {
+   "en": "Raw fish salad",
+   "vi": "Gỏi cá hồi"
+  },
+  "blurb": {
+   "en": "Vibrant festive salad tossed high for good fortune and prosperity.",
+   "vi": "Món gỏi tài lộc nhiều màu sắc được tung lên cầu may mắn."
+  },
+  "addedAt": "2026-10-29"
+ },
+ {
+  "id": "cn-chinese-hot-pot-q846849",
+  "qid": "Q846849",
+  "country": "CN",
+  "emoji": "🍲",
+  "localName": "火锅",
+  "name": {
+   "en": "Chinese Hot Pot",
+   "vi": "Lẩu Trung Hoa"
+  },
+  "blurb": {
+   "en": "A communal simmering pot of flavorful broth for cooking meats and veggies.",
+   "vi": "Nồi nước dùng sôi sùng sục để nhúng các loại thịt và rau củ tươi ngon."
+  },
+  "addedAt": "2026-10-29"
+ },
+ {
+  "id": "it-ravioli-q20053",
+  "qid": "Q20053",
+  "country": "IT",
+  "emoji": "🥟",
+  "localName": "Ravioli",
+  "name": {
+   "en": "Ravioli",
+   "vi": "Mì Ý túi nhân Ravioli"
+  },
+  "blurb": {
+   "en": "Delicious pasta pockets filled with savory cheeses, meats, or vegetables.",
+   "vi": "Những chiếc túi mì Ý thơm ngon nhân phô mai, thịt hoặc rau củ."
+  },
+  "addedAt": "2026-10-29"
+ },
+ {
+  "id": "it-panzerotti-q7132009",
+  "qid": "Q7132009",
+  "country": "IT",
+  "emoji": "🥟",
+  "localName": "Panzerotti",
+  "name": {
+   "en": "Panzerotti",
+   "vi": "Bánh gối chiên Panzerotti"
+  },
+  "blurb": {
+   "en": "Crispy fried dough pocket filled with melted cheese and rich tomato sauce.",
+   "vi": "Bánh chiên giòn rụm nhân phô mai tan chảy và sốt cà chua đậm đà."
+  },
+  "addedAt": "2026-10-29"
+ },
+ {
+  "id": "it-vitello-tonnato-q941230",
+  "qid": "Q941230",
+  "country": "IT",
+  "emoji": "🥩",
+  "localName": "Vitello tonnato",
+  "name": {
+   "en": "Vitello Tonnato",
+   "vi": "Thịt bê sốt cá ngừ"
+  },
+  "blurb": {
+   "en": "Tender cold sliced veal served with a creamy, savory tuna caper sauce.",
+   "vi": "Thịt bê thái lát mỏng ăn kèm sốt cá ngừ và nụ bạch hoa béo ngậy."
+  },
+  "addedAt": "2026-10-29"
+ },
+ {
+  "id": "it-cotoletta-q11680910",
+  "qid": "Q11680910",
+  "country": "IT",
+  "emoji": "🍖",
+  "localName": "Cotoletta",
+  "name": {
+   "en": "Cotoletta",
+   "vi": "Cốt lết tẩm bột rán Ý"
+  },
+  "blurb": {
+   "en": "Crispy golden breaded veal cutlet fried to absolute perfection.",
+   "vi": "Miếng sườn bê tẩm vụn bánh mì rán vàng giòn hoàn hảo."
+  },
+  "addedAt": "2026-10-29"
  }
 ]
