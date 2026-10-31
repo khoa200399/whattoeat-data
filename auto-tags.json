@@ -1430,6 +1430,12 @@
  "th-tomyum": {
   "noodles": false
  },
+ "th-yellow-curry-q1144927": {
+  "spicy": false,
+  "vegetarian": false,
+  "soup": false,
+  "noodles": false
+ },
  "us-apple-pie-q1068034": {
   "spicy": false,
   "soup": false,
