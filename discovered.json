@@ -4030,5 +4030,69 @@
    "vi": "Món cà ri Thái vàng ươm dịu vị với hương thơm đặc trưng của nghệ và thì là."
   },
   "addedAt": "2026-10-31"
+ },
+ {
+  "id": "vn-pork-skin-layer-cake-q5004801",
+  "qid": "Q5004801",
+  "country": "VN",
+  "emoji": "🥮",
+  "localName": "Bánh da lợn",
+  "name": {
+   "en": "Pork skin layer cake",
+   "vi": "Bánh da lợn"
+  },
+  "blurb": {
+   "en": "Steamed layer cake made of tapioca starch, rice flour, and mung bean.",
+   "vi": "Bánh da lợn ngọt mềm thơm mùi lá dứa và đậu xanh."
+  },
+  "addedAt": "2026-11-01"
+ },
+ {
+  "id": "jp-unadon-q1352897",
+  "qid": "Q1352897",
+  "country": "JP",
+  "emoji": "🍱",
+  "localName": "うな丼",
+  "name": {
+   "en": "Unadon",
+   "vi": "Cơm lươn Nhật Bản"
+  },
+  "blurb": {
+   "en": "Grilled eel glazed with sweet soy sauce served over warm rice.",
+   "vi": "Lươn nướng sốt tương ngọt ăn cùng cơm nóng thơm ngon."
+  },
+  "addedAt": "2026-11-01"
+ },
+ {
+  "id": "it-gelato-q1362405",
+  "qid": "Q1362405",
+  "country": "IT",
+  "emoji": "🍨",
+  "localName": "Gelato",
+  "name": {
+   "en": "Gelato",
+   "vi": "Kem Gelato"
+  },
+  "blurb": {
+   "en": "Traditional Italian ice cream with rich flavor and dense texture.",
+   "vi": "Món kem truyền thống của Ý với hương vị đậm đà và kết cấu đặc mịn."
+  },
+  "addedAt": "2026-11-01"
+ },
+ {
+  "id": "mx-sope-q10751991",
+  "qid": "Q10751991",
+  "country": "MX",
+  "emoji": "🫓",
+  "localName": "Sope",
+  "name": {
+   "en": "Sope",
+   "vi": "Bánh dày Sopes"
+  },
+  "blurb": {
+   "en": "Thick corn masa base pinched at the edges and topped with beans, meat, and cheese.",
+   "vi": "Đế bánh ngô dày viền nổi gờ, phủ đậu nhuyễn, thịt và phô mai thơm ngậy."
+  },
+  "addedAt": "2026-11-01"
  }
 ]
