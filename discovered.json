@@ -4110,5 +4110,53 @@
    "vi": "Ớt poblano nhồi thịt, phủ sốt hạt óc chó béo ngậy và hạt lựu đỏ tươi."
   },
   "addedAt": "2026-11-02"
+ },
+ {
+  "id": "th-crispy-sweet-noodles-q6827067",
+  "qid": "Q6827067",
+  "country": "TH",
+  "emoji": "🍜",
+  "localName": "หมี่กรอบ",
+  "name": {
+   "en": "Crispy sweet noodles",
+   "vi": "Mì giòn xào ngọt"
+  },
+  "blurb": {
+   "en": "Crispy fried rice noodles coated in a delightful sweet and sour sauce.",
+   "vi": "Mì gạo chiên giòn phủ sốt chua ngọt đậm đà hấp dẫn."
+  },
+  "addedAt": "2026-11-04"
+ },
+ {
+  "id": "sg-beef-kway-teow-q22583433",
+  "qid": "Q22583433",
+  "country": "SG",
+  "emoji": "🍲",
+  "localName": "牛肉河粉",
+  "name": {
+   "en": "Beef kway teow",
+   "vi": "Phở xào thịt bò Singapore"
+  },
+  "blurb": {
+   "en": "Flat rice noodles stir-fried with tender beef in a rich gravy.",
+   "vi": "Bánh phở xào với thịt bò mềm trong phần nước sốt đậm đà."
+  },
+  "addedAt": "2026-11-04"
+ },
+ {
+  "id": "sg-satay-bee-hoon-q7425966",
+  "qid": "Q7425966",
+  "country": "SG",
+  "emoji": "🥜",
+  "localName": "沙爹米粉",
+  "name": {
+   "en": "Satay bee hoon",
+   "vi": "Bún sốt satay"
+  },
+  "blurb": {
+   "en": "Rice vermicelli drenched in a rich, nutty, and spicy satay sauce.",
+   "vi": "Bún tươi chan nước sốt đậu phộng satay béo cay đậm đà."
+  },
+  "addedAt": "2026-11-04"
  }
 ]

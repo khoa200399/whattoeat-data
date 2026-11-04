@@ -1226,6 +1226,12 @@
  "sg-bakkutteh": {
   "noodles": false
  },
+ "sg-beef-kway-teow-q22583433": {
+  "spicy": false,
+  "vegetarian": false,
+  "soup": false,
+  "noodles": true
+ },
  "sg-black-pepper-crab-q4922421": {
   "spicy": true,
   "vegetarian": false,
@@ -1343,6 +1349,12 @@
  "sg-satay": {
   "noodles": false
  },
+ "sg-satay-bee-hoon-q7425966": {
+  "spicy": true,
+  "vegetarian": false,
+  "soup": false,
+  "noodles": true
+ },
  "sg-sliced-fish-soup-q5454668": {
   "spicy": false,
   "soup": true,
@@ -1366,6 +1378,12 @@
   "soup": false,
   "vegetarian": false,
   "noodles": false
+ },
+ "th-crispy-sweet-noodles-q6827067": {
+  "spicy": false,
+  "vegetarian": false,
+  "soup": false,
+  "noodles": true
  },
  "th-galangal-chicken-soup-q2268672": {
   "spicy": false,
