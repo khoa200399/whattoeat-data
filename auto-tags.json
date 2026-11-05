@@ -86,6 +86,12 @@
  "cn-lanzhou": {
   "noodles": true
  },
+ "cn-maocai-q10894961": {
+  "spicy": true,
+  "vegetarian": false,
+  "soup": true,
+  "noodles": false
+ },
  "cn-mapo": {
   "noodles": false
  },
@@ -1188,6 +1194,12 @@
   "spicy": false,
   "soup": false,
   "vegetarian": false,
+  "noodles": false
+ },
+ "mx-sincronizada-q9077681": {
+  "spicy": false,
+  "vegetarian": false,
+  "soup": false,
   "noodles": false
  },
  "mx-sope-q10751991": {

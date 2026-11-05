@@ -4158,5 +4158,37 @@
    "vi": "Bún tươi chan nước sốt đậu phộng satay béo cay đậm đà."
   },
   "addedAt": "2026-11-04"
+ },
+ {
+  "id": "cn-maocai-q10894961",
+  "qid": "Q10894961",
+  "country": "CN",
+  "emoji": "🍲",
+  "localName": "毛菜",
+  "name": {
+   "en": "Maocai",
+   "vi": "Mao thái"
+  },
+  "blurb": {
+   "en": "Sichuan individual hot pot featuring ingredients cooked in fiery broth.",
+   "vi": "Lẩu cá nhân Tứ Xuyên với các nguyên liệu nhúng nước dùng cay cay."
+  },
+  "addedAt": "2026-11-05"
+ },
+ {
+  "id": "mx-sincronizada-q9077681",
+  "qid": "Q9077681",
+  "country": "MX",
+  "emoji": "🧀",
+  "localName": "Sincronizada",
+  "name": {
+   "en": "Sincronizada",
+   "vi": "Bánh mì kẹp phô mai Sincronizada"
+  },
+  "blurb": {
+   "en": "Crispy flour tortillas filled with melted cheese and ham, toasted to perfection.",
+   "vi": "Bánh tráng nướng kẹp phô mai tan chảy và thịt nguội giòn rụm."
+  },
+  "addedAt": "2026-11-05"
  }
 ]
