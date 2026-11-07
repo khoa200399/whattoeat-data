@@ -4190,5 +4190,21 @@
    "vi": "Bánh tráng nướng kẹp phô mai tan chảy và thịt nguội giòn rụm."
   },
   "addedAt": "2026-11-05"
+ },
+ {
+  "id": "vn-vietnamese-banana-cake-q5004793",
+  "qid": "Q5004793",
+  "country": "VN",
+  "emoji": "🍌",
+  "localName": "Bánh chuối",
+  "name": {
+   "en": "Vietnamese banana cake",
+   "vi": "Bánh chuối"
+  },
+  "blurb": {
+   "en": "Sweet baked or steamed dessert cake featuring fragrant ripe bananas.",
+   "vi": "Món bánh ngọt ngào thơm mùi chuối chín đặc trưng."
+  },
+  "addedAt": "2026-11-07"
  }
 ]
