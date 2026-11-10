@@ -4206,5 +4206,53 @@
    "vi": "Món bánh ngọt ngào thơm mùi chuối chín đặc trưng."
   },
   "addedAt": "2026-11-07"
+ },
+ {
+  "id": "sg-kway-chap-q13012696",
+  "qid": "Q13012696",
+  "country": "SG",
+  "emoji": "🍲",
+  "localName": "粿汁",
+  "name": {
+   "en": "Kway chap",
+   "vi": "Bánh canh lòng heo"
+  },
+  "blurb": {
+   "en": "Flat rice sheets in herbal broth served with braised pork offal.",
+   "vi": "Bánh tráng phẳng trong nước dùng thảo mộc ăn cùng lòng heo."
+  },
+  "addedAt": "2026-11-10"
+ },
+ {
+  "id": "sg-otak-otak-q3234931",
+  "qid": "Q3234931",
+  "country": "SG",
+  "emoji": "🐟",
+  "localName": "乌达",
+  "name": {
+   "en": "Otak-otak",
+   "vi": "Chả cá nướng lá chuối"
+  },
+  "blurb": {
+   "en": "Spicy grilled fish paste wrapped tightly in aromatic banana leaves.",
+   "vi": "Chả cá cay nướng thơm lừng trong lá chuối xanh."
+  },
+  "addedAt": "2026-11-10"
+ },
+ {
+  "id": "cn-taiwanese-beef-noodle-soup-q697498",
+  "qid": "Q697498",
+  "country": "CN",
+  "emoji": "🍜",
+  "localName": "牛肉麵",
+  "name": {
+   "en": "Taiwanese beef noodle soup",
+   "vi": "Mì bò"
+  },
+  "blurb": {
+   "en": "Hearty wheat noodles in rich beef broth with tender braised beef shank.",
+   "vi": "Mì sợi dai trong nước dùng bò đậm đà cùng thịt bắp mềm tan."
+  },
+  "addedAt": "2026-11-10"
  }
 ]

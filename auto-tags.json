@@ -134,6 +134,12 @@
   "vegetarian": false,
   "noodles": false
  },
+ "cn-taiwanese-beef-noodle-soup-q697498": {
+  "spicy": false,
+  "vegetarian": false,
+  "soup": true,
+  "noodles": true
+ },
  "cn-tangyuan-q115474": {
   "spicy": false,
   "soup": true,
@@ -1289,6 +1295,12 @@
  "sg-kayatoast": {
   "noodles": false
  },
+ "sg-kway-chap-q13012696": {
+  "spicy": false,
+  "vegetarian": false,
+  "soup": true,
+  "noodles": true
+ },
  "sg-laksa": {
   "noodles": true
  },
@@ -1321,6 +1333,12 @@
  },
  "sg-orh-jian-q710618": {
   "spicy": false,
+  "vegetarian": false,
+  "soup": false,
+  "noodles": false
+ },
+ "sg-otak-otak-q3234931": {
+  "spicy": true,
   "vegetarian": false,
   "soup": false,
   "noodles": false
