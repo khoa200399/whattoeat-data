@@ -4254,5 +4254,21 @@
    "vi": "Mì sợi dai trong nước dùng bò đậm đà cùng thịt bắp mềm tan."
   },
   "addedAt": "2026-11-10"
+ },
+ {
+  "id": "in-chana-masala-q1061604",
+  "qid": "Q1061604",
+  "country": "IN",
+  "emoji": "🍲",
+  "localName": "चना मसाला",
+  "name": {
+   "en": "Chana masala",
+   "vi": "Chana masala"
+  },
+  "blurb": {
+   "en": "A delicious and savory chickpea curry cooked with aromatic spices.",
+   "vi": "Cà ri đậu gà thơm ngon đậm đà nấu cùng các loại gia vị."
+  },
+  "addedAt": "2026-11-13"
  }
 ]
