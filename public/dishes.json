@@ -1,6 +1,6 @@
 {
  "schemaVersion": 2,
- "generatedAt": "2026-11-13T22:29:26+00:00",
+ "generatedAt": "2026-11-15T21:38:40+00:00",
  "source": "Curated list and Gemini suggestions checked against Wikidata (CC0). Images from Wikimedia Commons, see each image page for its license.",
  "countries": [
   {
@@ -2665,8 +2665,8 @@
    },
    "curated": true,
    "image": {
-    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Thai_laksa_dish_at_Yim_Thai_Yeronga%2C_Queensland.jpg?width=800",
-    "page": "https://commons.wikimedia.org/wiki/File:Thai_laksa_dish_at_Yim_Thai_Yeronga%2C_Queensland.jpg"
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chicken_curry_served_in_an_Indonesian_restaurant%3B_February_2010.jpg?width=800",
+    "page": "https://commons.wikimedia.org/wiki/File:Chicken_curry_served_in_an_Indonesian_restaurant%3B_February_2010.jpg"
    },
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Laksa",
@@ -3705,8 +3705,8 @@
    "tags": [],
    "curated": false,
    "image": {
-    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rueblitorte.jpg?width=800",
-    "page": "https://commons.wikimedia.org/wiki/File:Rueblitorte.jpg"
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/WD_Q656071_carrot_cake_encased_at_WCNA_2018_jeh.jpg?width=800",
+    "page": "https://commons.wikimedia.org/wiki/File:WD_Q656071_carrot_cake_encased_at_WCNA_2018_jeh.jpg"
    },
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Carrot_cake",
@@ -3934,8 +3934,8 @@
    ],
    "curated": false,
    "image": {
-    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cantonese_rice_porridge.JPG?width=800",
-    "page": "https://commons.wikimedia.org/wiki/File:Cantonese_rice_porridge.JPG"
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chinese_rice_congee.jpg?width=800",
+    "page": "https://commons.wikimedia.org/wiki/File:Chinese_rice_congee.jpg"
    },
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Congee",
@@ -4627,8 +4627,8 @@
    ],
    "curated": false,
    "image": {
-    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Idli.jpg?width=800",
-    "page": "https://commons.wikimedia.org/wiki/File:Idli.jpg"
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Button_idli.JPG?width=800",
+    "page": "https://commons.wikimedia.org/wiki/File:Button_idli.JPG"
    },
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Idli",
@@ -7258,8 +7258,8 @@
    "tags": [],
    "curated": false,
    "image": {
-    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/TLAYUDA.jpg?width=800",
-    "page": "https://commons.wikimedia.org/wiki/File:TLAYUDA.jpg"
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tlayuda12-05oaxaca013x.jpg?width=800",
+    "page": "https://commons.wikimedia.org/wiki/File:Tlayuda12-05oaxaca013x.jpg"
    },
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Tlayuda"
@@ -7336,8 +7336,8 @@
    ],
    "curated": false,
    "image": {
-    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%D9%82%D9%87%D9%88%D8%A9_%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A%D8%A9_%D9%85%D8%B9_%D8%B2%D9%84%D8%A7%D8%A8%D9%8A%D8%A9_%D9%88%D9%81%D8%B4%D8%A7%D8%B1.jpg?width=800",
-    "page": "https://commons.wikimedia.org/wiki/File:%D9%82%D9%87%D9%88%D8%A9_%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A%D8%A9_%D9%85%D8%B9_%D8%B2%D9%84%D8%A7%D8%A8%D9%8A%D8%A9_%D9%88%D9%81%D8%B4%D8%A7%D8%B1.jpg"
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/2nd_Ayurveda_World_Summit%2C_Palace_grounds%2C_Bangalore_%282025%29_87.jpg?width=800",
+    "page": "https://commons.wikimedia.org/wiki/File:2nd_Ayurveda_World_Summit%2C_Palace_grounds%2C_Bangalore_%282025%29_87.jpg"
    },
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Jalebi",
@@ -9279,8 +9279,8 @@
    ],
    "curated": false,
    "image": {
-    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hot_pot_in_Taiwanese_restaurant.jpg?width=800",
-    "page": "https://commons.wikimedia.org/wiki/File:Hot_pot_in_Taiwanese_restaurant.jpg"
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Day177lilybday.JPG?width=800",
+    "page": "https://commons.wikimedia.org/wiki/File:Day177lilybday.JPG"
    },
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Hot_pot",
@@ -9798,6 +9798,33 @@
    },
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Chana_masala"
+   }
+  },
+  {
+   "id": "in-rava-dosa-q5573944",
+   "qid": "Q5573944",
+   "country": "IN",
+   "emoji": "🥞",
+   "localName": "ரவா தோசை",
+   "name": {
+    "en": "Rava dosa",
+    "vi": "Bánh kếp bột semolina"
+   },
+   "blurb": {
+    "en": "Crispy, lacy crêpes made from semolina and rice flour.",
+    "vi": "Bánh kếp giòn rụm làm từ bột lúa mì semolina và bột gạo."
+   },
+   "tags": [
+    "spicy",
+    "vegetarian"
+   ],
+   "curated": false,
+   "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rava_dosa.JPG?width=800",
+    "page": "https://commons.wikimedia.org/wiki/File:Rava_dosa.JPG"
+   },
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Rava_dosa"
    }
   }
  ]

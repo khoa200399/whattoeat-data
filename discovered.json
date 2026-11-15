@@ -4270,5 +4270,21 @@
    "vi": "Cà ri đậu gà thơm ngon đậm đà nấu cùng các loại gia vị."
   },
   "addedAt": "2026-11-13"
+ },
+ {
+  "id": "in-rava-dosa-q5573944",
+  "qid": "Q5573944",
+  "country": "IN",
+  "emoji": "🥞",
+  "localName": "ரவா தோசை",
+  "name": {
+   "en": "Rava dosa",
+   "vi": "Bánh kếp bột semolina"
+  },
+  "blurb": {
+   "en": "Crispy, lacy crêpes made from semolina and rice flour.",
+   "vi": "Bánh kếp giòn rụm làm từ bột lúa mì semolina và bột gạo."
+  },
+  "addedAt": "2026-11-15"
  }
 ]
