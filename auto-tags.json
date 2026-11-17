@@ -1915,5 +1915,11 @@
   "soup": true,
   "vegetarian": false,
   "noodles": false
+ },
+ "vn-woven-rice-vermicelli-q5004799": {
+  "spicy": false,
+  "vegetarian": false,
+  "soup": false,
+  "noodles": true
  }
 }

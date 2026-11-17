@@ -4286,5 +4286,21 @@
    "vi": "Bánh kếp giòn rụm làm từ bột lúa mì semolina và bột gạo."
   },
   "addedAt": "2026-11-15"
+ },
+ {
+  "id": "vn-woven-rice-vermicelli-q5004799",
+  "qid": "Q5004799",
+  "country": "VN",
+  "emoji": "🍝",
+  "localName": "Bánh hỏi",
+  "name": {
+   "en": "Woven rice vermicelli",
+   "vi": "Bánh hỏi"
+  },
+  "blurb": {
+   "en": "Delicate woven bundles of rice vermicelli topped with scallion oil and meat.",
+   "vi": "Bánh hỏi dẻo mịn rưới mỡ hành thơm lừng, ăn kèm thịt nướng hấp dẫn."
+  },
+  "addedAt": "2026-11-17"
  }
 ]
