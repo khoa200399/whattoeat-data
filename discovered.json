@@ -4254,5 +4254,21 @@
    "vi": "Bánh hỏi dẻo mịn rưới mỡ hành thơm lừng, ăn kèm thịt nướng hấp dẫn."
   },
   "addedAt": "2026-11-17"
+ },
+ {
+  "id": "cn-chinese-dumplings-q640769",
+  "qid": "Q640769",
+  "country": "CN",
+  "emoji": "🥟",
+  "localName": "饺子",
+  "name": {
+   "en": "Chinese dumplings",
+   "vi": "Sủi cảo"
+  },
+  "blurb": {
+   "en": "Delicate wheat wrappers filled with seasoned meat and vegetables.",
+   "vi": "Những chiếc bánh xếp bọc nhân thịt và rau củ thơm ngon đậm đà."
+  },
+  "addedAt": "2026-11-17"
  }
 ]

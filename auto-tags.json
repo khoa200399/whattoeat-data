@@ -3,1905 +3,4131 @@
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "cn-beef-chow-fun-q837647": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": false,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "cn-biangbiang-noodles-q213105": {
   "spicy": true,
   "soup": false,
   "vegetarian": true,
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "cn-century-egg-q622547": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "cn-chinese-cruller-q713879": {
   "spicy": false,
   "soup": false,
   "vegetarian": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": true,
+  "rice": false,
+  "streetfood": true
  },
  "cn-chinese-dumplings-q1854639": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
+ },
+ "cn-chinese-dumplings-q640769": {
+  "spicy": false,
+  "vegetarian": false,
+  "soup": false,
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "cn-chinese-hot-pot-q846849": {
   "spicy": false,
   "vegetarian": false,
   "soup": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "cn-chinese-steamed-eggs-q5100943": {
   "spicy": false,
   "vegetarian": true,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "cn-chow-mein-q964107": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "cn-dimsum": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": true,
+  "rice": false,
+  "streetfood": false
  },
  "cn-egg-fried-rice-q122957244": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": true,
+  "streetfood": false
  },
  "cn-friedrice": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": true,
+  "streetfood": false
  },
  "cn-hot-and-sour-soup-q711494": {
   "spicy": true,
   "soup": true,
   "vegetarian": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "cn-hotpot": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "cn-kungpao": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "cn-lanzhou": {
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": false,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "cn-maocai-q10894961": {
   "spicy": true,
   "vegetarian": false,
   "soup": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "cn-mapo": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "cn-mooncake-q197969": {
   "spicy": false,
   "soup": false,
   "vegetarian": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "cn-pekingduck": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "cn-rice-congee-q878624": {
   "spicy": false,
   "soup": true,
   "vegetarian": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": true,
+  "rice": true,
+  "streetfood": false
  },
  "cn-roast-goose-q36415": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "cn-sticky-rice-dumpling-q713466": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": true,
+  "streetfood": false
  },
  "cn-suan-la-fen-q15932455": {
   "spicy": true,
   "vegetarian": false,
   "soup": true,
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "cn-sweet-and-sour-pork-q1367718": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "cn-taiwanese-beef-noodle-soup-q697498": {
   "spicy": false,
   "vegetarian": false,
   "soup": true,
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": false,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "cn-tangyuan-q115474": {
   "spicy": false,
   "soup": true,
   "vegetarian": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "cn-tomato-and-egg-soup-q7818554": {
   "spicy": false,
   "vegetarian": true,
   "soup": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "cn-twice-cooked-pork-q3238049": {
   "spicy": true,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "cn-wonton": {
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "cn-wonton-soup-q553905": {
   "spicy": false,
   "soup": true,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "cn-xiaolongbao": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "fr-baguette-q208172": {
   "spicy": false,
   "soup": false,
   "vegetarian": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "fr-blanquette-de-veau-q1191278": {
   "spicy": false,
   "vegetarian": false,
   "soup": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "fr-bouillabaisse-q828043": {
   "spicy": false,
   "soup": true,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "fr-bourguignon": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "fr-buckwheat-galette-q242003": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "fr-cassoulet-q3039": {
   "spicy": false,
   "soup": true,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "fr-cheese-fondue-q190531": {
   "spicy": false,
   "vegetarian": true,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "fr-coqauvin": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "fr-crepe": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "fr-croissant": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": true,
+  "rice": false,
+  "streetfood": false
  },
  "fr-croque-monsieur-q738": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "fr-gratin-dauphinois-q1647122": {
   "spicy": false,
   "soup": false,
   "vegetarian": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "fr-nicoise-salad-q209486": {
   "spicy": false,
   "vegetarian": true,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "fr-onionsoup": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "fr-pot-au-feu-q10398": {
   "spicy": false,
   "soup": true,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "fr-quiche": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "fr-raclette-q20748": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "fr-ratatouille": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "fr-steakfrites": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "fr-tarte-tatin-q1147946": {
   "spicy": false,
   "soup": false,
   "vegetarian": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "in-aloo-tikki-q2624505": {
   "spicy": true,
   "soup": false,
   "vegetarian": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "in-biryani": {
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": true,
+  "beef": true,
+  "breakfast": false,
+  "rice": true,
+  "streetfood": false
  },
  "in-butterchicken": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "in-chana-masala-q1061604": {
   "spicy": true,
   "vegetarian": true,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "in-chicken-65-q2450914": {
   "spicy": true,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "in-chicken-tikka-q2548408": {
   "spicy": true,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "in-chole-bhature-q2451463": {
   "spicy": true,
   "soup": false,
   "vegetarian": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": true,
+  "rice": false,
+  "streetfood": true
  },
  "in-dal": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "in-dal-makhani-q58610": {
   "spicy": false,
   "soup": true,
   "vegetarian": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "in-dal-tadka-q126961970": {
   "spicy": true,
   "vegetarian": true,
   "soup": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "in-dhokla-q171983": {
   "spicy": false,
   "vegetarian": true,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": true,
+  "rice": false,
+  "streetfood": false
  },
  "in-dosa": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": true,
+  "rice": false,
+  "streetfood": false
  },
  "in-gulab-jamun-q1554207": {
   "spicy": false,
   "vegetarian": true,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "in-hyderabadi-haleem-q15982556": {
   "spicy": true,
   "soup": true,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "in-idli-q956595": {
   "spicy": false,
   "soup": false,
   "vegetarian": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": true,
+  "rice": false,
+  "streetfood": false
  },
  "in-jalebi-q59139": {
   "spicy": false,
   "vegetarian": true,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": true,
+  "rice": false,
+  "streetfood": true
  },
  "in-kheer-q59134": {
   "spicy": false,
   "vegetarian": true,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": true,
+  "streetfood": false
  },
  "in-medu-vada-q2723131": {
   "spicy": false,
   "vegetarian": true,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": true,
+  "rice": false,
+  "streetfood": true
  },
  "in-naan-q689950": {
   "spicy": false,
   "soup": false,
   "vegetarian": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "in-pakora-q1126275": {
   "spicy": false,
   "vegetarian": true,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "in-paneer": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "in-paneer-tikka-q7130800": {
   "spicy": true,
   "soup": false,
   "vegetarian": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "in-pani-puri-q2722122": {
   "spicy": true,
   "vegetarian": true,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "in-pav-bhaji-q3629971": {
   "spicy": true,
   "soup": true,
   "vegetarian": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "in-ras-malai-q5656299": {
   "spicy": false,
   "vegetarian": true,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "in-rasgulla-q3349224": {
   "spicy": false,
   "vegetarian": true,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "in-rava-dosa-q5573944": {
   "spicy": true,
   "vegetarian": true,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": true,
+  "rice": false,
+  "streetfood": false
  },
  "in-rava-idli-q7296297": {
   "spicy": false,
   "soup": false,
   "vegetarian": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": true,
+  "rice": false,
+  "streetfood": false
  },
  "in-rogan-josh-q1135831": {
   "spicy": true,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "in-saag-q2748359": {
   "spicy": true,
   "vegetarian": true,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "in-sambar-q188420": {
   "spicy": true,
   "vegetarian": true,
   "soup": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "in-samosa": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "in-tandoori-chicken-q1057649": {
   "spicy": true,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "in-tikka": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "in-vada-pav-q2985347": {
   "spicy": true,
   "soup": false,
   "vegetarian": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "in-vindaloo": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "it-acquacotta-soup-q15630073": {
   "spicy": false,
   "vegetarian": true,
   "soup": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "it-amatriciana-pasta-q997633": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "it-arancini-q268857": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": true,
+  "streetfood": true
  },
  "it-arrabbiata": {
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "it-bolognese": {
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": true,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "it-bruschetta-q614448": {
   "spicy": false,
   "soup": false,
   "vegetarian": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "it-cacio-e-pepe-q5016033": {
   "spicy": false,
   "vegetarian": true,
   "soup": false,
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "it-cannoli-q836151": {
   "spicy": false,
   "vegetarian": true,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "it-caprese-salad-q568364": {
   "spicy": false,
   "vegetarian": true,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "it-carbonara": {
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "it-carpaccio-q840392": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": false,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "it-cotoletta-q11680910": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "it-eggplant-parmigiana-q973455": {
   "spicy": false,
   "vegetarian": true,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "it-fettuccine-alfredo-q2915859": {
   "spicy": false,
   "vegetarian": true,
   "soup": false,
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "it-focaccia-q832791": {
   "spicy": false,
   "vegetarian": true,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "it-gelato-q1362405": {
   "spicy": false,
   "vegetarian": true,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "it-gnocchi": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "it-lasagna": {
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": true,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "it-margherita": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "it-minestrone": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "it-ossobuco-q1057256": {
   "spicy": false,
   "soup": true,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "it-panzerotti-q7132009": {
   "spicy": false,
   "vegetarian": true,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "it-pasta-alla-norma-q548521": {
   "spicy": false,
   "vegetarian": true,
   "soup": false,
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "it-pasta-and-beans-soup-q1137803": {
   "spicy": false,
   "vegetarian": true,
   "soup": true,
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "it-pasta-with-pesto-q9896": {
   "spicy": false,
   "vegetarian": true,
   "soup": false,
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "it-polenta-q131607": {
   "spicy": false,
   "vegetarian": true,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "it-porchetta-q1106345": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "it-ravioli-q20053": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": true,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "it-ribollita-q1559248": {
   "spicy": false,
   "vegetarian": true,
   "soup": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "it-risotto": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": true,
+  "streetfood": false
  },
  "it-saltimbocca-q1060834": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "it-spaghetti-puttanesca-q1262980": {
   "spicy": true,
   "vegetarian": false,
   "soup": false,
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "it-spaghetti-with-clams-q1236601": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": true
+  "noodles": true,
+  "seafood": true,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "it-tiramisu-q131582": {
   "spicy": false,
   "soup": false,
   "vegetarian": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "it-tortellini-in-broth-q20057": {
   "spicy": false,
   "vegetarian": false,
   "soup": true,
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": true,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "it-vitello-tonnato-q941230": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": false,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "jp-chawanmushi-q1068574": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "jp-chazuke-q1061824": {
   "spicy": false,
   "soup": true,
   "vegetarian": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": true,
+  "streetfood": false
  },
  "jp-curry": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": true,
+  "breakfast": false,
+  "rice": true,
+  "streetfood": false
  },
  "jp-dango-q877913": {
   "spicy": false,
   "soup": false,
   "vegetarian": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "jp-edamame-q1377879": {
   "spicy": false,
   "vegetarian": true,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "jp-gyoza-q107014807": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "jp-gyudon": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": true,
+  "breakfast": false,
+  "rice": true,
+  "streetfood": false
  },
  "jp-gyutan-q4892972": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "jp-inarizushi-q874397": {
   "spicy": false,
   "vegetarian": true,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": true,
+  "streetfood": false
  },
  "jp-karaage-q1104399": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "jp-katsudon": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": true,
+  "streetfood": false
  },
  "jp-matcha-q822331": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "jp-miso-soup-q471866": {
   "spicy": false,
   "soup": true,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": true,
+  "rice": false,
+  "streetfood": false
  },
  "jp-mochi-q470519": {
   "spicy": false,
   "vegetarian": true,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": true,
+  "streetfood": false
  },
  "jp-monjayaki-q167692": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "jp-natto-q505711": {
   "spicy": false,
   "soup": false,
   "vegetarian": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": true,
+  "rice": false,
+  "streetfood": false
  },
  "jp-nikujaga-q714027": {
   "spicy": false,
   "soup": true,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "jp-nikuman-q1091253": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "jp-oden-q655040": {
   "spicy": false,
   "soup": true,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "jp-okonomiyaki": {
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "jp-omurice-q427226": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": true,
+  "streetfood": false
  },
  "jp-onigiri-q13393": {
   "spicy": false,
   "soup": false,
   "vegetarian": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": true,
+  "rice": true,
+  "streetfood": false
  },
  "jp-oyakodon-q1304390": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": true,
+  "streetfood": false
  },
  "jp-ramen": {
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "jp-sashimi-q190715": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "jp-shabu-shabu-q1061856": {
   "spicy": false,
   "soup": true,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "jp-sukiyaki-q862569": {
   "spicy": false,
   "soup": true,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "jp-sushi": {
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": true,
+  "streetfood": false
  },
  "jp-taiyaki-q181195": {
   "spicy": false,
   "soup": false,
   "vegetarian": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "jp-takikomi-gohan-q388983": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": true,
+  "streetfood": false
  },
  "jp-takoyaki": {
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "jp-takuan-q701797": {
   "spicy": false,
   "vegetarian": true,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "jp-tamagoyaki-q747302": {
   "spicy": false,
   "soup": false,
   "vegetarian": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": true,
+  "rice": false,
+  "streetfood": false
  },
  "jp-tempura": {
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "jp-tenshindon-q1132679": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": true,
+  "streetfood": false
  },
  "jp-tonkatsu-q1142841": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "jp-udon": {
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "jp-unadon-q1352897": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": true,
+  "streetfood": false
  },
  "jp-yakisoba-q1144102": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "jp-yakitori": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "jp-zarusoba": {
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "kr-bibim-guksu-q711953": {
   "spicy": true,
   "soup": false,
   "vegetarian": false,
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "kr-bibimbap": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": true,
+  "breakfast": false,
+  "rice": true,
+  "streetfood": false
  },
  "kr-bossam-q910996": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "kr-braised-pig-trotters-q836773": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "kr-braised-short-ribs-q5371702": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "kr-budae-jjigae-q704006": {
   "spicy": true,
   "soup": true,
   "vegetarian": false,
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "kr-bulgogi-q683682": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "kr-chicken": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "kr-cold-soybean-noodle-soup-q844765": {
   "spicy": false,
   "soup": true,
   "vegetarian": true,
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "kr-dakgalbi-q1154164": {
   "spicy": true,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "kr-doenjang-jjigae-q703015": {
   "spicy": false,
   "soup": true,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "kr-dumpling-soup-q851714": {
   "spicy": false,
   "vegetarian": false,
   "soup": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "kr-ginseng-chicken-soup-q1335219": {
   "spicy": false,
   "vegetarian": false,
   "soup": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "kr-grilled-ribs-q682384": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "kr-hangover-soup-q705375": {
   "spicy": false,
   "vegetarian": false,
   "soup": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": true,
+  "breakfast": true,
+  "rice": false,
+  "streetfood": false
  },
  "kr-japchae": {
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": false,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "kr-jjajangmyeon": {
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "kr-kimbap": {
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": true,
+  "streetfood": true
  },
  "kr-kimchi-pancake-q907560": {
   "spicy": true,
   "soup": false,
   "vegetarian": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "kr-kimchijjigae": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "kr-korean-blood-sausage-q115251": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "kr-korean-dumplings-q284983": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "kr-milk-shaved-ice-dessert-q493784": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "kr-naengmyeon": {
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": false,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "kr-ox-bone-soup-q717136": {
   "spicy": false,
   "soup": true,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "kr-pine-nut-porridge-q4215727": {
   "spicy": false,
   "vegetarian": true,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": true,
+  "rice": false,
+  "streetfood": false
  },
  "kr-pork-bone-stew-q1142123": {
   "spicy": true,
   "soup": true,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "kr-pumpkin-porridge-q847245": {
   "spicy": false,
   "vegetarian": true,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": true,
+  "rice": false,
+  "streetfood": false
  },
  "kr-ramen-and-rice-cake-hotpot-q12593925": {
   "spicy": true,
   "vegetarian": false,
   "soup": true,
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": true,
+  "streetfood": true
  },
  "kr-samgyeopsal": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "kr-soup-with-rice-q1037909": {
   "spicy": false,
   "vegetarian": false,
   "soup": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": true,
+  "breakfast": true,
+  "rice": true,
+  "streetfood": false
  },
  "kr-spicy-beef-soup-q1069561": {
   "spicy": true,
   "soup": true,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "kr-spicy-cold-buckwheat-noodles-q12476145": {
   "spicy": true,
   "vegetarian": false,
   "soup": false,
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "kr-spicy-seafood-noodle-soup-q17063016": {
   "spicy": true,
   "vegetarian": false,
   "soup": true,
-  "noodles": true
+  "noodles": true,
+  "seafood": true,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "kr-sundubu": {
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": true,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "kr-sweet-korean-pancake-q496999": {
   "spicy": false,
   "vegetarian": true,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "kr-tteokbokki": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "mx-aguachile-q19949631": {
   "spicy": true,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "mx-birria-q4916959": {
   "spicy": true,
   "soup": true,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "mx-burrito": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "mx-carnitas-q5044066": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "mx-cemita-q109353074": {
   "spicy": true,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "mx-ceviche-q1057953": {
   "spicy": true,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "mx-chalupa-q5069084": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "mx-chilaquiles-q2963582": {
   "spicy": true,
   "soup": false,
   "vegetarian": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": true,
+  "rice": false,
+  "streetfood": false
  },
  "mx-chile-relleno-q5098719": {
   "spicy": false,
   "vegetarian": true,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "mx-chiles-en-nogada-q1072902": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "mx-chili": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "mx-chimichanga-q2666603": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "mx-divorced-eggs-q5929327": {
   "spicy": false,
   "vegetarian": true,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": true,
+  "rice": false,
+  "streetfood": false
  },
  "mx-enchiladas": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "mx-esquites-q5243850": {
   "spicy": true,
   "vegetarian": true,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "mx-fajita-q871272": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "mx-gordita-q5584732": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "mx-guacamole": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "mx-mexican-street-corn-q10752894": {
   "spicy": true,
   "soup": false,
   "vegetarian": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "mx-mexican-torta-q3573026": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "mx-mole-q1495652": {
   "spicy": true,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "mx-motul-style-eggs-q5929345": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": true,
+  "rice": false,
+  "streetfood": false
  },
  "mx-nachos": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "mx-papadzules-q6060064": {
   "spicy": false,
   "vegetarian": true,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "mx-pozole": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "mx-quesadilla": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "mx-ranch-style-eggs-q2681008": {
   "spicy": false,
   "soup": false,
   "vegetarian": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": true,
+  "rice": false,
+  "streetfood": false
  },
  "mx-salbute-q16900667": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "mx-sincronizada-q9077681": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "mx-sope-q10751991": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "mx-taco-q191655": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "mx-tacos": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "mx-tamale-q1147853": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "mx-tlayuda-q7810735": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "mx-tostada-q3280441": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "sg-bakkutteh": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "sg-beef-kway-teow-q22583433": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": false,
+  "beef": true,
+  "breakfast": false,
+  "rice": true,
+  "streetfood": false
  },
  "sg-black-pepper-crab-q4922421": {
   "spicy": true,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "sg-charkwayteow": {
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "sg-chickenrice": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": true,
+  "streetfood": true
  },
  "sg-chillicrab": {
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "sg-chwee-kueh-q997361": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": true,
+  "rice": true,
+  "streetfood": true
  },
  "sg-curry-puff-q259874": {
   "spicy": true,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "sg-fish-head-curry-q5454639": {
   "spicy": true,
   "soup": true,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "sg-fried-carrot-cake-q656071": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "sg-hokkienmee": {
-  "noodles": true
+  "noodles": true,
+  "seafood": true,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "sg-kayatoast": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": true,
+  "rice": false,
+  "streetfood": false
  },
  "sg-kway-chap-q13012696": {
   "spicy": false,
   "vegetarian": false,
   "soup": true,
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "sg-laksa": {
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "sg-lor-mee-q5678787": {
   "spicy": false,
   "soup": true,
   "vegetarian": false,
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "sg-mee-pok-q6807485": {
   "spicy": true,
   "vegetarian": false,
   "soup": false,
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "sg-mee-rebus-q5257848": {
   "spicy": true,
   "soup": true,
   "vegetarian": false,
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "sg-mee-siam-q1886310": {
   "spicy": true,
   "vegetarian": false,
   "soup": true,
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "sg-nasilemak": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": true,
+  "rice": true,
+  "streetfood": true
  },
  "sg-orh-jian-q710618": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "sg-otak-otak-q3234931": {
   "spicy": true,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "sg-popiah-q3092677": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "sg-prawn-paste-chicken-q22099440": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "sg-raw-fish-salad-q2609461": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "sg-rojak-q720230": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "sg-rotiprata": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": true,
+  "rice": false,
+  "streetfood": true
  },
  "sg-sambal-stingray-q17053542": {
   "spicy": true,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "sg-satay": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "sg-satay-bee-hoon-q7425966": {
   "spicy": true,
   "vegetarian": false,
   "soup": false,
-  "noodles": true
+  "noodles": true,
+  "seafood": true,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "sg-sliced-fish-soup-q5454668": {
   "spicy": false,
   "soup": true,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "sg-turtle-soup-q690048": {
   "spicy": false,
   "soup": true,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "sg-yong-tau-foo-q713892": {
   "spicy": false,
   "vegetarian": false,
   "soup": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "th-beef-waterfall-salad-q4923638": {
   "spicy": true,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "th-crispy-sweet-noodles-q6827067": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "th-galangal-chicken-soup-q2268672": {
   "spicy": false,
   "vegetarian": false,
   "soup": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "th-greencurry": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "th-isan-fermented-sausage-q18353389": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "th-khaomangai": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": true,
+  "streetfood": true
  },
  "th-khaosoi": {
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "th-krapao": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "th-larb-q3052288": {
   "spicy": true,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "th-leaf-wrapped-bite-sized-snack-q6665878": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "th-mangosticky": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": true,
+  "streetfood": true
  },
  "th-massaman": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "th-multi-layered-sweet-dessert-q6400372": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "th-padthai": {
-  "noodles": true
+  "noodles": true,
+  "seafood": true,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "th-shrimp-paste-fried-rice-q30681252": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": true,
+  "streetfood": false
  },
  "th-somtum": {
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "th-stir-fried-flat-noodles-q6685108": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "th-thai-boat-noodles-q18618696": {
   "spicy": true,
   "soup": true,
   "vegetarian": false,
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": true,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "th-thai-chili-paste-q4922876": {
   "spicy": true,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": true,
+  "streetfood": false
  },
  "th-thai-red-curry-q1721014": {
   "spicy": true,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "th-tomyum": {
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "th-yellow-curry-q1144927": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "us-apple-pie-q1068034": {
   "spicy": false,
   "soup": false,
   "vegetarian": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "us-bagel-with-cream-cheese-q34421086": {
   "spicy": false,
   "vegetarian": true,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": true,
+  "rice": false,
+  "streetfood": false
  },
  "us-baked-potato-q1193251": {
   "spicy": false,
   "vegetarian": true,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "us-biscuits-and-gravy-q4917275": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": true,
+  "rice": false,
+  "streetfood": false
  },
  "us-blt-sandwich-q796270": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "us-burger": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "us-caesar-salad-q275508": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "us-cheesesteak-q1068892": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "us-chicago-style-hot-dog-q3141050": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "us-chicken-and-waffles-q5096287": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": true,
+  "rice": false,
+  "streetfood": false
  },
  "us-chowder": {
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "us-cioppino-q3104721": {
   "spicy": false,
   "soup": true,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "us-clam-cake-q5125440": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "us-club-sandwich-q1093380": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "us-cobb-salad-q1104585": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "us-corn-dog-q1133127": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "us-cornbread-q1108866": {
   "spicy": false,
   "soup": false,
   "vegetarian": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "us-deviled-eggs-q551458": {
   "spicy": false,
   "vegetarian": true,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "us-egg-salad-q558625": {
   "spicy": false,
   "vegetarian": true,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "us-friedchicken": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "us-grits-q1543770": {
   "spicy": false,
   "soup": false,
   "vegetarian": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": true,
+  "rice": false,
+  "streetfood": false
  },
  "us-gumbo-q1160522": {
   "spicy": true,
   "soup": true,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": true,
+  "streetfood": false
  },
  "us-hotdog": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "us-jambalaya-q1364509": {
   "spicy": true,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": true,
+  "streetfood": false
  },
  "us-key-lime-pie-q1518169": {
   "spicy": false,
   "soup": false,
   "vegetarian": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "us-lobster-roll-q3122402": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "us-maccheese": {
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "us-meatloaf-q3807565": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "us-pancake": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": true,
+  "rice": false,
+  "streetfood": false
  },
  "us-peanut-butter-and-jelly-sandwich-q1369093": {
   "spicy": false,
   "vegetarian": true,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "us-pigs-in-a-blanket-q105550816": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "us-pulled-pork-q1347028": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "us-reuben-sandwich-q3180957": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "us-ribs": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "us-shrimp-and-grits-q16969652": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": false,
+  "beef": false,
+  "breakfast": true,
+  "rice": false,
+  "streetfood": false
  },
  "us-steak": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "us-tater-tots-q3516025": {
   "spicy": false,
   "vegetarian": true,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "us-tuna-salad-q2884546": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "us-wings": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "vn-baby-clam-rice-q5202956": {
   "spicy": true,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": true,
+  "streetfood": true
  },
  "vn-banh-beo-q5004794": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "vn-banh-canh-q4855649": {
   "spicy": false,
   "soup": true,
   "vegetarian": false,
-  "noodles": true
+  "noodles": true,
+  "seafood": true,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "vn-banhcuon": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": true,
+  "rice": false,
+  "streetfood": true
  },
  "vn-banhmi": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "vn-banhxeo": {
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "vn-bun-mam-q5005250": {
   "spicy": false,
   "soup": true,
   "vegetarian": false,
-  "noodles": true
+  "noodles": true,
+  "seafood": true,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "vn-bunbo": {
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": true,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "vn-buncha": {
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "vn-bundau": {
-  "noodles": true
+  "noodles": true,
+  "seafood": true,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "vn-bunrieu": {
-  "noodles": true
+  "noodles": true,
+  "seafood": true,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "vn-cao-l-u-q5034353": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "vn-cassava-cake-q5004802": {
   "spicy": false,
   "vegetarian": true,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "vn-cha-ca-la-vong-q3274058": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "vn-clear-shrimp-dumplings-q20984302": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "vn-comchay": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": true,
+  "streetfood": false
  },
  "vn-comtam": {
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": true,
+  "streetfood": true
  },
  "vn-cylindrical-glutinous-rice-cake-q5004813": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": true,
+  "streetfood": false
  },
  "vn-fried-rice-flour-cake-q20984265": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "vn-fried-spring-roll-q7382955": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "vn-goicuon": {
-  "noodles": true
+  "noodles": true,
+  "seafood": true,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "vn-grilled-pork-sausage-q19893634": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "vn-grilled-pork-with-vermicelli-q5005249": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "vn-honeycomb-cake-q5004795": {
   "spicy": false,
   "vegetarian": true,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "vn-hutieu": {
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": true,
+  "rice": false,
+  "streetfood": true
  },
  "vn-miquang": {
-  "noodles": true
+  "noodles": true,
+  "seafood": true,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "vn-pho": {
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": false,
+  "beef": true,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "vn-plain-rice-cake-q5004817": {
   "spicy": false,
   "soup": false,
   "vegetarian": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": true,
+  "streetfood": false
  },
  "vn-pork-skin-layer-cake-q5004801": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "vn-rice-flour-steamed-cake-q1996530": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "vn-rice-porridge-with-pork-offal-q10748166": {
   "spicy": false,
   "vegetarian": false,
   "soup": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": true,
+  "rice": false,
+  "streetfood": true
  },
  "vn-snail-rice-vermicelli-soup-q5005251": {
   "spicy": true,
   "vegetarian": false,
   "soup": true,
-  "noodles": true
+  "noodles": true,
+  "seafood": true,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "vn-square-glutinous-rice-cake-q564567": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": true,
+  "streetfood": false
  },
  "vn-sticky-rice-q3543273": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": true,
+  "rice": true,
+  "streetfood": true
  },
  "vn-sweet-and-sour-soup-q564573": {
   "spicy": false,
   "vegetarian": false,
   "soup": true,
-  "noodles": false
+  "noodles": false,
+  "seafood": true,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "vn-vietnamese-banana-cake-q5004793": {
   "spicy": false,
   "vegetarian": true,
   "soup": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  },
  "vn-vietnamese-pizza-q28197390": {
   "spicy": false,
   "soup": false,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "vn-vietnamese-sweet-dessert-soup-q2971995": {
   "spicy": false,
   "soup": true,
   "vegetarian": false,
-  "noodles": false
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": true
  },
  "vn-woven-rice-vermicelli-q5004799": {
   "spicy": false,
   "vegetarian": false,
   "soup": false,
-  "noodles": true
+  "noodles": true,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
  }
 }
