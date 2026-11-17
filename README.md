@@ -30,6 +30,7 @@ Without a Gemini key, steps 1, 4 and 5 still run, and tags use the answers alrea
 
 - Fix a discovered dish: edit it in `discovered.json`, or move it into `dish-seed.json` to make it curated.
 - Remove a discovered dish: delete it from `discovered.json`. To stop it coming back, add it to `dish-seed.json` instead.
+- Clean up: `python3 cleanup_dishes.py` lists discovered dishes that repeat another dish of the same country (same Wikidata item or English name, or the local name of a curated dish; curated dishes and older ones are kept), and tag answers for dishes that no longer exist. Add `--older-than 90` to also drop discovered dishes added more than 90 days ago (the next runs refill each country). Nothing changes until you add `--apply`; then rebuild or push.
 - Add a country: add it to `countries` in `dish-seed.json` (code, flag, English and Vietnamese name).
 - Add a tag: add it to `tags.json`. Remove one: delete it there (old answers stay in `auto-tags.json` but are ignored).
 - Fix a tag on a dish: set the value in `auto-tags.json` to `true` or `false`. For curated dishes you can also edit `tags` in `dish-seed.json`.

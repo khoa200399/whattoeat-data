@@ -35,12 +35,6 @@
   "vegetarian": false,
   "noodles": false
  },
- "cn-chinese-dumplings-q640769": {
-  "spicy": false,
-  "vegetarian": false,
-  "soup": false,
-  "noodles": false
- },
  "cn-chinese-hot-pot-q846849": {
   "spicy": false,
   "vegetarian": false,
@@ -246,12 +240,6 @@
   "noodles": false
  },
  "fr-quiche": {
-  "noodles": false
- },
- "fr-quiche-lorraine-q7882068": {
-  "spicy": false,
-  "vegetarian": false,
-  "soup": false,
   "noodles": false
  },
  "fr-raclette-q20748": {
@@ -930,12 +918,6 @@
   "noodles": false
  },
  "kr-dumpling-soup-q851714": {
-  "spicy": false,
-  "vegetarian": false,
-  "soup": true,
-  "noodles": false
- },
- "kr-ginseng-chicken-soup-q126190581": {
   "spicy": false,
   "vegetarian": false,
   "soup": true,
