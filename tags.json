@@ -28,6 +28,48 @@
    "name": {"en": "Noodles", "vi": "Món sợi"},
    "hint": "noodles are the main starch: rice noodles, wheat noodles, glass noodles or pasta",
    "filter": {"mode": "include", "label": {"en": "Noodles", "vi": "Bún, mì, phở"}}
+  },
+  {
+   "id": "seafood",
+   "emoji": "🦐",
+   "name": {"en": "Seafood", "vi": "Hải sản"},
+   "hint": "fish, shrimp, crab, squid, clams or other seafood is a main ingredient (fish sauce alone does not count)",
+   "filter": {"mode": "exclude", "label": {"en": "No seafood", "vi": "Không hải sản"}}
+  },
+  {
+   "id": "pork",
+   "emoji": "🥓",
+   "name": {"en": "Pork", "vi": "Thịt heo"},
+   "hint": "the usual recipe contains pork, ham, bacon, lard or pork sausage",
+   "filter": {"mode": "exclude", "label": {"en": "No pork", "vi": "Không thịt heo"}}
+  },
+  {
+   "id": "beef",
+   "emoji": "🥩",
+   "name": {"en": "Beef", "vi": "Thịt bò"},
+   "hint": "the usual recipe contains beef or beef broth",
+   "filter": {"mode": "exclude", "label": {"en": "No beef", "vi": "Không thịt bò"}}
+  },
+  {
+   "id": "breakfast",
+   "emoji": "🍳",
+   "name": {"en": "Breakfast", "vi": "Bữa sáng"},
+   "hint": "commonly eaten for breakfast in its home country",
+   "filter": {"mode": "include", "label": {"en": "Breakfast", "vi": "Ăn sáng"}}
+  },
+  {
+   "id": "rice",
+   "emoji": "🍚",
+   "name": {"en": "Rice", "vi": "Món cơm"},
+   "hint": "rice grains are the main starch (rice dishes, fried rice, rice bowls, sushi); rice noodles do not count",
+   "filter": {"mode": "include", "label": {"en": "Rice", "vi": "Cơm"}}
+  },
+  {
+   "id": "streetfood",
+   "emoji": "🍢",
+   "name": {"en": "Street food", "vi": "Đường phố"},
+   "hint": "typically sold by street vendors, stalls or food carts and eaten casually",
+   "filter": {"mode": "include", "label": {"en": "Street food", "vi": "Ăn vặt đường phố"}}
   }
  ]
 }
