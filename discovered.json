@@ -4270,5 +4270,21 @@
    "vi": "Những chiếc bánh xếp bọc nhân thịt và rau củ thơm ngon đậm đà."
   },
   "addedAt": "2026-11-17"
+ },
+ {
+  "id": "kr-steamed-egg-q5624090",
+  "qid": "Q5624090",
+  "country": "KR",
+  "emoji": "🍳",
+  "localName": "계란찜",
+  "name": {
+   "en": "Steamed egg",
+   "vi": "Trứng hấp Hàn Quốc"
+  },
+  "blurb": {
+   "en": "Fluffy, savory Korean-style steamed egg casserole served bubbling hot.",
+   "vi": "Món trứng hấp Hàn Quốc mềm xốp, béo ngậy và thơm ngon nóng hổi."
+  },
+  "addedAt": "2026-11-17"
  }
 ]

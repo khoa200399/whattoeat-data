@@ -2243,6 +2243,18 @@
   "rice": false,
   "streetfood": false
  },
+ "kr-steamed-egg-q5624090": {
+  "spicy": false,
+  "vegetarian": false,
+  "soup": false,
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": true,
+  "rice": false,
+  "streetfood": false
+ },
  "kr-sundubu": {
   "noodles": false,
   "seafood": true,

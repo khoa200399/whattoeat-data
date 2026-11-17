@@ -1,6 +1,6 @@
 {
  "schemaVersion": 2,
- "generatedAt": "2026-11-17T14:22:32+00:00",
+ "generatedAt": "2026-11-17T23:49:41+00:00",
  "source": "Curated list and Gemini suggestions checked against Wikidata (CC0). Images from Wikimedia Commons, see each image page for its license.",
  "countries": [
   {
@@ -1395,8 +1395,8 @@
    },
    "curated": true,
    "image": {
-    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Basil_fried_crispy_pork_with_rice_-_Chiang_Mai_-_2017-07-11_%28002%29.jpg?width=800",
-    "page": "https://commons.wikimedia.org/wiki/File:Basil_fried_crispy_pork_with_rice_-_Chiang_Mai_-_2017-07-11_%28002%29.jpg"
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kraphao_mu_khai_dao.jpg?width=800",
+    "page": "https://commons.wikimedia.org/wiki/File:Kraphao_mu_khai_dao.jpg"
    },
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Phat_kaphrao",
@@ -2910,8 +2910,8 @@
    },
    "curated": true,
    "image": {
-    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Katong_laksa.jpg?width=800",
-    "page": "https://commons.wikimedia.org/wiki/File:Katong_laksa.jpg"
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chicken_curry_served_in_an_Indonesian_restaurant%3B_February_2010.jpg?width=800",
+    "page": "https://commons.wikimedia.org/wiki/File:Chicken_curry_served_in_an_Indonesian_restaurant%3B_February_2010.jpg"
    },
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Laksa",
@@ -4483,8 +4483,8 @@
    ],
    "curated": false,
    "image": {
-    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bacon%2C_lettuce%2C_tomato%2C_and_avocado.jpg?width=800",
-    "page": "https://commons.wikimedia.org/wiki/File:Bacon%2C_lettuce%2C_tomato%2C_and_avocado.jpg"
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/BLT_sandwich_with_pommes_frites.jpg?width=800",
+    "page": "https://commons.wikimedia.org/wiki/File:BLT_sandwich_with_pommes_frites.jpg"
    },
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/BLT"
@@ -5686,8 +5686,8 @@
    ],
    "curated": false,
    "image": {
-    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Natto_mixed.jpg?width=800",
-    "page": "https://commons.wikimedia.org/wiki/File:Natto_mixed.jpg"
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Selfmade_Natto.jpg?width=800",
+    "page": "https://commons.wikimedia.org/wiki/File:Selfmade_Natto.jpg"
    },
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Natto",
@@ -8079,8 +8079,8 @@
    ],
    "curated": false,
    "image": {
-    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Yong_tau_foo_sweet.jpg?width=800",
-    "page": "https://commons.wikimedia.org/wiki/File:Yong_tau_foo_sweet.jpg"
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%E9%85%BF%E8%B1%86%E8%85%90_2.jpg?width=800",
+    "page": "https://commons.wikimedia.org/wiki/File:%E9%85%BF%E8%B1%86%E8%85%90_2.jpg"
    },
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Yong_tau_foo"
@@ -9529,8 +9529,8 @@
    ],
    "curated": false,
    "image": {
-    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Algunos_Chiles_rellenos.jpg?width=800",
-    "page": "https://commons.wikimedia.org/wiki/File:Algunos_Chiles_rellenos.jpg"
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chile_Rellenos.jpg?width=800",
+    "page": "https://commons.wikimedia.org/wiki/File:Chile_Rellenos.jpg"
    },
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Chile_relleno"
@@ -9801,8 +9801,8 @@
    ],
    "curated": false,
    "image": {
-    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hot_pot_in_Taiwanese_restaurant.jpg?width=800",
-    "page": "https://commons.wikimedia.org/wiki/File:Hot_pot_in_Taiwanese_restaurant.jpg"
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Day177lilybday.JPG?width=800",
+    "page": "https://commons.wikimedia.org/wiki/File:Day177lilybday.JPG"
    },
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Hot_pot",
@@ -10426,12 +10426,39 @@
    ],
    "curated": false,
    "image": {
-    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/BoiledDumplings.jpg?width=800",
-    "page": "https://commons.wikimedia.org/wiki/File:BoiledDumplings.jpg"
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jiaozi-close-look.jpg?width=800",
+    "page": "https://commons.wikimedia.org/wiki/File:Jiaozi-close-look.jpg"
    },
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Jiaozi",
     "vi": "https://vi.wikipedia.org/wiki/S%E1%BB%A7i_c%E1%BA%A3o"
+   }
+  },
+  {
+   "id": "kr-steamed-egg-q5624090",
+   "qid": "Q5624090",
+   "country": "KR",
+   "emoji": "🍳",
+   "localName": "계란찜",
+   "name": {
+    "en": "Steamed egg",
+    "vi": "Trứng hấp Hàn Quốc"
+   },
+   "blurb": {
+    "en": "Fluffy, savory Korean-style steamed egg casserole served bubbling hot.",
+    "vi": "Món trứng hấp Hàn Quốc mềm xốp, béo ngậy và thơm ngon nóng hổi."
+   },
+   "tags": [
+    "breakfast"
+   ],
+   "curated": false,
+   "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1005_eggjjim.jpg?width=800",
+    "page": "https://commons.wikimedia.org/wiki/File:1005_eggjjim.jpg"
+   },
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Gyeran-jjim",
+    "vi": "https://vi.wikipedia.org/wiki/Gyeran-jjim"
    }
   }
  ]
