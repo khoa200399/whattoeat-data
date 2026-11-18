@@ -4286,5 +4286,21 @@
    "vi": "Món trứng hấp Hàn Quốc mềm xốp, béo ngậy và thơm ngon nóng hổi."
   },
   "addedAt": "2026-11-17"
+ },
+ {
+  "id": "fr-quiche-lorraine-q7882068",
+  "qid": "Q7882068",
+  "country": "FR",
+  "emoji": "🥧",
+  "localName": "Quiche Lorraine",
+  "name": {
+   "en": "Quiche Lorraine",
+   "vi": "Bánh trứng thịt xông khói Lorraine"
+  },
+  "blurb": {
+   "en": "A classic French tart filled with rich custard, cream, and smoked bacon.",
+   "vi": "Món bánh tart Pháp cổ điển nhân trứng sữa béo ngậy và thịt xông khói."
+  },
+  "addedAt": "2026-11-18"
  }
 ]

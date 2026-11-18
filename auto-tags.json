@@ -542,6 +542,18 @@
   "rice": false,
   "streetfood": false
  },
+ "fr-quiche-lorraine-q7882068": {
+  "spicy": false,
+  "vegetarian": false,
+  "soup": false,
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": false,
+  "rice": false,
+  "streetfood": false
+ },
  "fr-raclette-q20748": {
   "spicy": false,
   "vegetarian": false,

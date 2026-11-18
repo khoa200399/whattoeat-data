@@ -1,6 +1,6 @@
 {
  "schemaVersion": 2,
- "generatedAt": "2026-11-17T23:49:41+00:00",
+ "generatedAt": "2026-11-18T23:21:18+00:00",
  "source": "Curated list and Gemini suggestions checked against Wikidata (CC0). Images from Wikimedia Commons, see each image page for its license.",
  "countries": [
   {
@@ -2910,8 +2910,8 @@
    },
    "curated": true,
    "image": {
-    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chicken_curry_served_in_an_Indonesian_restaurant%3B_February_2010.jpg?width=800",
-    "page": "https://commons.wikimedia.org/wiki/File:Chicken_curry_served_in_an_Indonesian_restaurant%3B_February_2010.jpg"
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Thai_laksa_dish_at_Yim_Thai_Yeronga%2C_Queensland.jpg?width=800",
+    "page": "https://commons.wikimedia.org/wiki/File:Thai_laksa_dish_at_Yim_Thai_Yeronga%2C_Queensland.jpg"
    },
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Laksa",
@@ -4483,8 +4483,8 @@
    ],
    "curated": false,
    "image": {
-    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/BLT_sandwich_with_pommes_frites.jpg?width=800",
-    "page": "https://commons.wikimedia.org/wiki/File:BLT_sandwich_with_pommes_frites.jpg"
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bacon%2C_lettuce%2C_tomato%2C_and_avocado.jpg?width=800",
+    "page": "https://commons.wikimedia.org/wiki/File:Bacon%2C_lettuce%2C_tomato%2C_and_avocado.jpg"
    },
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/BLT"
@@ -4998,8 +4998,8 @@
    ],
    "curated": false,
    "image": {
-    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Button_idli.JPG?width=800",
-    "page": "https://commons.wikimedia.org/wiki/File:Button_idli.JPG"
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Idli.jpg?width=800",
+    "page": "https://commons.wikimedia.org/wiki/File:Idli.jpg"
    },
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Idli",
@@ -7723,8 +7723,8 @@
    ],
    "curated": false,
    "image": {
-    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aguachiles.jpg?width=800",
-    "page": "https://commons.wikimedia.org/wiki/File:Aguachiles.jpg"
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aguachile_Verde.jpg?width=800",
+    "page": "https://commons.wikimedia.org/wiki/File:Aguachile_Verde.jpg"
    },
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Aguachile"
@@ -7750,8 +7750,8 @@
    ],
    "curated": false,
    "image": {
-    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tlayuda12-05oaxaca013x.jpg?width=800",
-    "page": "https://commons.wikimedia.org/wiki/File:Tlayuda12-05oaxaca013x.jpg"
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/TLAYUDA.jpg?width=800",
+    "page": "https://commons.wikimedia.org/wiki/File:TLAYUDA.jpg"
    },
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Tlayuda"
@@ -8079,8 +8079,8 @@
    ],
    "curated": false,
    "image": {
-    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%E9%85%BF%E8%B1%86%E8%85%90_2.jpg?width=800",
-    "page": "https://commons.wikimedia.org/wiki/File:%E9%85%BF%E8%B1%86%E8%85%90_2.jpg"
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hakka_yong_tau_foo_with_noodles.jpg?width=800",
+    "page": "https://commons.wikimedia.org/wiki/File:Hakka_yong_tau_foo_with_noodles.jpg"
    },
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Yong_tau_foo"
@@ -9665,8 +9665,8 @@
    ],
    "curated": false,
    "image": {
-    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cannolo_with_Maraschino_cherry_and_pistacchio.jpg?width=800",
-    "page": "https://commons.wikimedia.org/wiki/File:Cannolo_with_Maraschino_cherry_and_pistacchio.jpg"
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cannolo_siciliano_with_chocolate_squares.jpg?width=800",
+    "page": "https://commons.wikimedia.org/wiki/File:Cannolo_siciliano_with_chocolate_squares.jpg"
    },
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Cannoli"
@@ -10459,6 +10459,32 @@
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Gyeran-jjim",
     "vi": "https://vi.wikipedia.org/wiki/Gyeran-jjim"
+   }
+  },
+  {
+   "id": "fr-quiche-lorraine-q7882068",
+   "qid": "Q7882068",
+   "country": "FR",
+   "emoji": "🥧",
+   "localName": "Quiche Lorraine",
+   "name": {
+    "en": "Quiche Lorraine",
+    "vi": "Bánh trứng thịt xông khói Lorraine"
+   },
+   "blurb": {
+    "en": "A classic French tart filled with rich custard, cream, and smoked bacon.",
+    "vi": "Món bánh tart Pháp cổ điển nhân trứng sữa béo ngậy và thịt xông khói."
+   },
+   "tags": [
+    "pork"
+   ],
+   "curated": false,
+   "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Quiche_lorraine_01.JPG?width=800",
+    "page": "https://commons.wikimedia.org/wiki/File:Quiche_lorraine_01.JPG"
+   },
+   "wiki": {
+    "en": "https://en.wikipedia.org/wiki/Quiche_Lorraine"
    }
   }
  ]
