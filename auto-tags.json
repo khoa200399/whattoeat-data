@@ -170,6 +170,18 @@
   "rice": false,
   "streetfood": false
  },
+ "cn-jianbing-q18606556": {
+  "spicy": false,
+  "vegetarian": true,
+  "soup": false,
+  "noodles": false,
+  "seafood": false,
+  "pork": false,
+  "beef": false,
+  "breakfast": true,
+  "rice": false,
+  "streetfood": true
+ },
  "cn-kungpao": {
   "noodles": false,
   "seafood": false,

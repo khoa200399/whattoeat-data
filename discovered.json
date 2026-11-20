@@ -4302,5 +4302,21 @@
    "vi": "Món bánh tart Pháp cổ điển nhân trứng sữa béo ngậy và thịt xông khói."
   },
   "addedAt": "2026-11-18"
+ },
+ {
+  "id": "cn-jianbing-q18606556",
+  "qid": "Q18606556",
+  "country": "CN",
+  "emoji": "🍳",
+  "localName": "煎饼",
+  "name": {
+   "en": "Jianbing",
+   "vi": "Bánh kếp trứng Trung Hoa"
+  },
+  "blurb": {
+   "en": "Popular Chinese street food crepe filled with eggs, sauce, and crunchy bits.",
+   "vi": "Món bánh kếp đường phố phổ biến nhân trứng, sốt và bột giòn."
+  },
+  "addedAt": "2026-11-20"
  }
 ]
