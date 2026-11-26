@@ -4142,6 +4142,18 @@
   "rice": false,
   "streetfood": true
  },
+ "vn-vietnamese-rice-dumpling-q10742206": {
+  "spicy": false,
+  "vegetarian": false,
+  "soup": false,
+  "noodles": false,
+  "seafood": false,
+  "pork": true,
+  "beef": false,
+  "breakfast": true,
+  "rice": false,
+  "streetfood": true
+ },
  "vn-vietnamese-sweet-dessert-soup-q2971995": {
   "spicy": false,
   "soup": true,

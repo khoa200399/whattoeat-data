@@ -4318,5 +4318,21 @@
    "vi": "Món bánh kếp đường phố phổ biến nhân trứng, sốt và bột giòn."
   },
   "addedAt": "2026-11-20"
+ },
+ {
+  "id": "vn-vietnamese-rice-dumpling-q10742206",
+  "qid": "Q10742206",
+  "country": "VN",
+  "emoji": "🥟",
+  "localName": "Bánh giò",
+  "name": {
+   "en": "Vietnamese rice dumpling",
+   "vi": "Bánh giò"
+  },
+  "blurb": {
+   "en": "Pyramid-shaped rice flour dough wrapped in banana leaves, filled with pork and mushrooms.",
+   "vi": "Bánh bột gạo hình chóp gói lá chuối nhân thịt băm và mộc nhĩ thơm ngon."
+  },
+  "addedAt": "2026-11-26"
  }
 ]
