@@ -1,6 +1,6 @@
 {
  "schemaVersion": 2,
- "generatedAt": "2026-11-26T00:55:06+00:00",
+ "generatedAt": "2026-11-27T00:59:43+00:00",
  "source": "Curated list and Gemini suggestions checked against Wikidata (CC0). Images from Wikimedia Commons, see each image page for its license.",
  "countries": [
   {
@@ -4401,7 +4401,10 @@
     "vegetarian"
    ],
    "curated": false,
-   "image": null,
+   "image": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Classic_Italian_Tiramisu-3_%2829989504485%29.jpg?width=800",
+    "page": "https://commons.wikimedia.org/wiki/File:Classic_Italian_Tiramisu-3_%2829989504485%29.jpg"
+   },
    "wiki": {
     "en": "https://en.wikipedia.org/wiki/Tiramisu",
     "vi": "https://vi.wikipedia.org/wiki/Tiramisu"
