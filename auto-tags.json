@@ -3023,6 +3023,18 @@
   "rice": false,
   "streetfood": false
  },
+ "sg-sliced-fish-bee-hoon-q17050214": {
+  "spicy": false,
+  "vegetarian": false,
+  "soup": true,
+  "noodles": true,
+  "seafood": true,
+  "pork": false,
+  "beef": false,
+  "breakfast": true,
+  "rice": false,
+  "streetfood": false
+ },
  "sg-sliced-fish-soup-q5454668": {
   "spicy": false,
   "soup": true,

@@ -4334,5 +4334,21 @@
    "vi": "Bánh bột gạo hình chóp gói lá chuối nhân thịt băm và mộc nhĩ thơm ngon."
   },
   "addedAt": "2026-11-26"
+ },
+ {
+  "id": "sg-sliced-fish-bee-hoon-q17050214",
+  "qid": "Q17050214",
+  "country": "SG",
+  "emoji": "🍲",
+  "localName": "鱼片米粉",
+  "name": {
+   "en": "Sliced fish bee hoon",
+   "vi": "Bún cá lát Singapore"
+  },
+  "blurb": {
+   "en": "Comforting rice vermicelli in a milky fish broth with fresh fish slices.",
+   "vi": "Bún gạo trong nước dùng cá sữa béo ngậy cùng cá tươi thái lát."
+  },
+  "addedAt": "2026-11-28"
  }
 ]
